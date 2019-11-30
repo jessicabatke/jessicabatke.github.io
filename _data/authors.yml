@@ -1,0 +1,43 @@
+# /_data/authors.yml
+
+TaRE:
+  name        : "Tear a Root from the Earth"
+  bio         : "A new folk musical"
+  avatar      : "/media/TARE/tare_logo.png"
+  links:
+    - label: "Website"
+      #icon: "fas fa-fw fa-link"
+      url: "http://www.teararoot.com/"
+    - label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/teararoot/"
+    - label: "YouTube"
+      #icon: "fab fa-fw fa-instagram"
+      url: "https://www.youtube.com/channel/UCRhDPL8RYV1w6LhoVm-V3Cw"
+    - label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/teararoot/"
+    - label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TearARoot"
+
+Gramophonic:
+  name        : "Gramophonic"
+  bio         : "D.C.-based Americana band"
+  avatar      : "/media/Gramo/logo.jpg"
+  links:
+    - label: "Website"
+      #icon: "fas fa-fw fa-link"
+      url: "https://www.gramophonic.band/"
+    - label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/Gramophonic/"
+    - label: "YouTube"
+      #icon: "fab fa-fw fa-instagram"
+      url: "https://www.youtube.com/user/Gramophonicmusic/videos"
+    - label: "Bandcamp"
+      #icon: "fab fa-fw fa-instagram"
+      url: "https://gramophonic.bandcamp.com/"
+    - label: "Soundcloud"
+      #icon: "fab fa-fw fa-instagram"
+      url: "https://soundcloud.com/gramophonic"

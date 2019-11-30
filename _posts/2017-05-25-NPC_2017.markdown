@@ -1,0 +1,443 @@
+---
+layout: single
+title:  "The National People’s Congress in 2017: Security, Ideology, and Experimentation"
+date:   2017-05-25
+categories: Research&Writing
+tags: [leadership, China Leadership Monitor, National People's Congress]
+classes: wide
+excerpt: "China Leadership Monitor / 2017-05-25"
+---
+***A review of the work performed over the past few years by the
+National People’s Congress and its Standing Committee—the body
+that “turns the party’s propositions into the will of the
+state”—can provide a clear synopsis of the Chinese Communist
+Party’s governance priorities, and confirms the importance of two
+major Chinese Communist Party objectives: addressing traditional and
+non-traditional national security challenges as well as boosting
+citizens’ identification of the Chinese Communist Party’s
+ideological narratives.  It also reveals the enhanced role of the
+National People’s Congress Standing Committee in the process of
+authorizing pilot governance reforms.***
+
+**This article originally appeared in [the China Leadership Monitor](http://www.hoover.org/research/national-peoples-congress-2017-security-ideology-and-experimentation).**
+
+
+*The opinions and
+characterizations in this paper are those of the author, and do not
+necessarily represent official positions of the United States
+Government.*<br/>
+
+--- <br>
+
+
+The Fifth Plenary Session of the 12th National People’s Congress
+(NPC) took place in early March per custom, issuing its annual report using
+language “dry as toast” to summarize the previous year’s work and lay out its
+plans for the coming year.[<sup>1</sup>](#sdendnote1sym)<a class="anchor" id="sdendnote1anc"></a> The annual NPC conclave is often rightly derided as more pomp than
+substance, as much of the country’s legislative work is done outside this
+roughly 10-day window.  The NPC itself is also often described as a
+“rubber-stamp parliament,” as it does not have a particularly strong history of
+voting down initiatives backed by the Chinese Communist Party (CCP).
+ Indeed, observers noted this year that NPC members’ votes dissenting on the
+work reports of government agencies appeared to decline to historic lows.[<sup>2</sup>](#sdendnote2sym)<a class="anchor" id="sdendnote2anc"></a> For the CCP, this is a feature, not a bug, as
+described in the 2012 18<sup>th</sup> Party Congress Work Report: “We should
+make good use of legal procedures to turn the party’s propositions into the
+will of the state” (要善于使党的主张通过法定程序成为国家意志).[<sup>3</sup>](#sdendnote3sym)<a class="anchor" id="sdendnote3anc"></a>
+
+ This lack of party-state separation, however, does allow us
+to view the NPC’s legislative work as a representation of CCP governance
+priorities.  This is especially true given the party’s increased emphasis on
+making China a “rule of law country” (法治国家)—always, of course, in service of
+the CCP’s continued rule.[<sup>4</sup>](#sdendnote4sym)<a class="anchor" id="sdendnote4anc"></a> Whether or not these laws have their intended
+effects once released into the wilds of local Chinese government, they still
+serve as useful signals about the focus of the central authorities, and of what
+messages these authorities hope to convey to their own people.  
+
+ A review of recent NPC Standing Committee (NPCSC) work
+reports offers an overview of the CCP and of the government’s evolving
+priorities.[<sup>5</sup>](#sdendnote5sym)<a class="anchor" id="sdendnote5anc"></a>
+ (The NPCSC work report, as compared to the full NPC work report, is more
+focused on specific legislation and implementation.  This befits the
+Standing Committee’s role as the primary body reviewing and enacting
+legislation throughout the year.)  Similarly,
+a review of the 10th, 11th, and 12th NPCs’ legislative calendar, including both
+the laws that passed as well as those that never made it off the docket, is
+helpful in parsing the PRC’s governing strategy and the NPC’s role in helping
+enact it.  In particular, we can see certain shifts in emphasis toward
+national security issues, fields that touch on ideology and national
+narratives, as well as central-level legal coordination of local pilot reform
+efforts.[<sup>6</sup>](#sdendnote6sym)<a class="anchor" id="sdendnote6anc"></a>
+
+#### Elevated—and Expansive—Security Concerns
+
+For the second year in a row, national security concerns are
+front and center in the NPCSC work report.  This is especially conspicuous
+in light of the fact that “national security” received almost no attention in
+the NPCSC work reports prior to 2015.  In
+terms of legislative priorities, national security issues have been markedly
+elevated in the last few years.  This undoubtedly reflects China’s larger
+role on the world stage and its attendant sense of vulnerability to
+transnational threats.
+
+ “National security” in this context encompasses a very broad
+swath of concerns.  Notably, the 2017 NPCSC Work Report lists 2016’s
+Foreign NGO Law—alongside 2014’s Counter-Espionage Law, 2015’s National
+Security and Anti-Terrorism Laws, 2016’s Cybersecurity and National Defense
+Transportation Laws—as part of its recent suite of national security
+legislation.  While the Foreign NGO Law might well “protect [NGOs’]
+legitimate rights and interests and promote exchange and cooperation” (利于保护其合法权益，促进正常交流与合)
+as stated in the 2017 Work Report, its inclusion in the “national security”
+section of the report clearly signals the general prism through which foreign
+NGOs are viewed by Chinese leaders.
+
+***Table 1. Laws and Planned
+Legislation Related to National Security, 10<sup>th</sup>–12th National People’s
+Congresses***
+
+![NPC_0](/media/NPC_0.png)
+
+
+*Note: The 10<sup>th</sup> NPC ran from March
+2003 to March 2008, the 11<sup>th</sup> from March 2008 to March 2013, and the
+12<sup>th</sup> began in March 2013 and will run until March 2018.*
+
+*Source: This chart draws its information from the Chinese- and
+English-language NPC legislative plans as posted by the *NPC Observer* ([https://npcobserver.com/](https://npcobserver.com/))*.*
+
+<br>
+
+
+#### Shoring Up Educational and Cultural Bulwarks
+
+Recent years have also seen an increase in legislation
+related to cultural and educational issues.  As other observers have pointed
+out, the 12th NPC has, as compared to the previous five-year session, shifted
+toward legislation focused on social and cultural issues.[<sup>7</sup>](#sdendnote7sym)<a class="anchor" id="sdendnote7anc"></a>  Though the NPCSC work reports themselves
+generally lump these pieces of legislation together under the rubric of “living
+standards” or “cultural, social, environmental, and other,” it is also possible
+to view them, at least in part, in tandem with the national security
+legislation discussed above.  Indeed, multiple statements by high-level party
+and state leaders make it clear that they view some cultural and educational
+governance efforts as a bulwark against ideological infiltration from the West.
+ Both General Secretary Xi Jinping and Education Minister Chen Baosheng
+have made statements in recent months about the need to strengthen the role and
+appeal of ideology in higher education.[<sup>8</sup>](#sdendnote8sym)<a class="anchor" id="sdendnote8anc"></a> This
+follows a high-level party “opinion” in 2015 on strengthening “thought work” in
+universities and admonishments by the erstwhile education minister to not use
+teaching materials that “disseminate Western values.”[<sup>9</sup>](#sdendnote9sym)<a class="anchor" id="sdendnote9anc"></a>
+
+Similarly, strengthening Chinese culture is meant to
+mitigate foreign cultural influences.  Even
+seemingly unrelated laws, like the new law on traditional Chinese medicine,
+contain a cultural component, such as boosting China’s soft power.[<sup>10</sup>](#sdendnote10sym)<a class="anchor" id="sdendnote10anc"></a> In its later years, the previous
+administration stepped up efforts on this front, exemplified in General
+Secretary Hu Jintao’s 2012 article on
+resisting Western cultural infiltration by developing a strong socialist
+culture.[<sup>11</sup>](#sdendnote11sym)<a class="anchor" id="sdendnote11anc"></a> The Hu administration also established or renamed
+two party leading small groups related to culture in 2011 and 2012.[<sup>12</sup>](#sdendnote12sym)<a class="anchor" id="sdendnote12anc"></a> Under the current administration, culture had
+a relatively small but significant role in 2016’s 13<sup>th</sup> Five-Year
+Plan.[<sup>13</sup>](#sdendnote13sym)<a class="anchor" id="sdendnote13anc"></a>
+
+Table 2 (below) illustrates the increase in legislation
+related to cultural and educational issues over the past three National People’s
+Congresses.
+
+***Table 2. Laws and Planned Legislation Related to Culture and
+Education, 10<sup>th</sup>–12th National People’s Congresses***
+
+![NPC_1](/media/NPC_1.png)
+
+*Note: The 10<sup>th</sup> NPC ran from March
+2003 to March 2008, the 11<sup>th</sup> from March 2008 to March 2013, and the
+12<sup>th</sup> began in March 2013 and will run until March 2018.*
+
+*Source: This chart draws its information from the Chinese- and
+English-language NPC legislative plans as posted by the *NPC Observer* ([https://npcobserver.com/](https://npcobserver.com/)).
+
+<br>
+
+#### Heroes, Holidays, and the Constitution
+
+Hand in hand with resisting baneful foreign ideological
+influences go the PRC’s efforts to construct its own positive and appealing
+national narrative.  This often features China’s past as a downtrodden
+nation subject to high-handed foreign bullying—and the CCP’s central and
+irreplaceable role in restoring China’s rightful place as a powerful
+international player.  The urgent need for these national narratives
+underpins a much-discussed provision in the Civil Code (民法总则, sometimes
+translated as the General Provisions of Civil Law or the General Rules of Civil
+Law) passed at the March NPC meeting, that prohibits defaming the country’s
+past “heroes and martyrs.”[<sup>14</sup>](#sdendnote14sym)<a class="anchor" id="sdendnote14anc"></a>
+
+This provision also fits in with other recent NPC actions
+reaffirming the importance of such national narratives.  In 2014, the NPCSC issued a spate of decisions
+marking new national days of remembrance.
+September 3 is now the “Victory Day in the Chinese People’s War of
+Resistance against Japanese Aggression” (中国人民抗日战争胜利纪念日), September 30 “Martyrs’ Day” (烈士纪念日), and December 13 the “National Memorial Day for Nanjing
+Massacre Victims” (南京大屠杀死难者国家公祭日).[<sup>15</sup>](#sdendnote15sym)<a class="anchor" id="sdendnote15anc"></a> About the latter, the 2015 NPCSC Work Report
+noted that “the solemn commemoration of such events through memorial activities
+has greatly promoted patriotism and core socialist values.”
+
+Atop a foundation of historical narratives, the PRC is
+hoping to construct modern ones extolling the fairness of the current
+governance system.  In 2014, the NPCSC
+established “Constitution Day” (国家宪法日),
+and in 2015 issued its decision on “implementing the system for
+institutionalizing pledges of allegiance to the constitution” (实行宪法宣誓制度).[<sup>16</sup>](#sdendnote16sym)<a class="anchor" id="sdendnote16anc"></a> In its 2016 work report the NPCSC wrote, “the
+words of the pledge embody the sense of loyalty, responsibility, and commitment
+that public servants are expected to have toward their country and people &hellip;
+[and will urge] public servants to remain loyal to, comply with, and safeguard
+the Constitution.”  This effort almost
+certainly has another function, and that is to put on public display the CCP’s
+commitment to continuing to mold China into a “rule of law country.”
+
+#### The NPCSC Weighs In on Pilot Reforms
+
+Over the past few years, the NPCSC appears to have taken on
+a more active role in the authorization of pilot reform projects (试点).  Local policy
+experimentation in China is nothing new, of course, but historically much of it
+occurred in advance of legislative review or involvement.[<sup>17</sup>](#sdendnote17sym)<a class="anchor" id="sdendnote17anc"></a>
+ It remains unclear exactly how the NPCSC
+decides which projects require its authorization, but the projects as listed in
+recent years’ work reports appear to involve either the Supreme People’s Court
+and Supreme People’s Procuratorate (over which the NPC has direct oversight) or
+prominent trials that might violate or be excessively constrained by existing
+laws.  As explained in the 2016 NPCSC Work Report, “For proposed reforms
+that come into conflict with existing laws, and for which the conditions for
+revising the relevant laws do not exist and trials are required first, the
+Standing Committee may act in accordance with the prescribed legal procedures
+to grant authorization for preliminary reform trials to be conducted, thereby
+providing the necessary legal basis and support for trial reforms in certain
+regions or particular sectors.”
+
+Repeated reference to NPCSC involvement in pilot reform projects
+first cropped up in the 2015 NPCSC Work Report, which reviewed the work of the
+previous year.  Yet this effort seems to flow
+from more general goals laid
+out in the CCP’s 18<sup>th</sup> Party Congress Work Report in 2012: “We
+should support people’s congresses and their standing committees in fully
+playing their role as organs of state power, in exercising legislative,
+oversight, policymaking, and personnel appointment and dismissal powers in
+accordance with the law, in strengthening organization and coordination of
+legislative work, in stepping up their oversight of people’s governments,
+courts, and procuratorates, and in tightening examination and oversight of all
+government budgets and final accounts.”[<sup>18</sup>](#sdendnote18sym)<a class="anchor" id="sdendnote18anc"></a> The CCP had called for a more active NPCSC as
+far back as 2005, when the Central Committee approved and recirculated the
+NPCSC Party Leadership Groups’ “decision on giving further play to the role of
+National People’s representatives and strengthening the construction of the
+National People’s Congress Standing Committee system” (中共全国人大常委会党组关于进一步发挥全国人大代表作用加强全国人大常委会制度建设的若干意见).[<sup>19</sup>](#sdendnote19sym)<a class="anchor" id="sdendnote19anc"></a>
+
+The following describes the pilot reform projects or adjustments
+to law for which the NPCSC has issued authorizing decisions, as enumerated in
+the 2015, 2016, and 2017 NPCSC Work Reports:
+* Supreme People’s Court and Supreme People’s
+Procuratorate pilot of a criminal sentence bargaining system in 18 cities (最高人民法院、最高人民检察院在部分地区开展刑事案件认罪认罚从宽制度试点工作) (2016)
+* Provisional adjustments to laws that affect the public
+servant salary system pilot reform (在部分地区和部分在京中央机关暂时调整适用《中华人民共和国公务员法》有关规定) (2016)
+* Provisional adjustments to laws that affect
+maternity insurance pilot reform (在河北省邯郸市等12个试点城市行政区域暂时调整适用《中华人民共和国社会保险法》有关规定) (2016)
+* Provisional
+adjustments to laws that affect the military officers system pilot reform (军官制度改革期间暂时调整适用相关法律规定) (2016)
+* Trial
+reform of the people’s assessors system (在部分地区开展人民陪审员制度改革试点工作) (2015)
+* Trials for filing public interest litigation (最高人民检察院在部分地区开展公益诉讼试点工作) (2015)
+* Pilot program of a marketing authorization
+holder system for drugs and relevant issues (在部分地方开展药品上市许可持有人制度试点和有关问题) (2015)
+* Trials to allow the mortgaging of contracted
+rural land-use rights and farmers’ home property rights (在部分行政区域分别暂时调整实施有关法律规定) (2015)
+* Adjustment to the applicability of certain
+stipulations in the Securities Law in order to implement reforms related to a
+new initial public offering registration system (在实施股票发行注册制改革中调整适用证券法有关规定) (2015)
+* Provisional adjustments to items requiring
+government review for the three new pilot free-trade zones in Guangdong,
+Tianjin, and Fujian, as well as for the extended areas of the China (Shanghai)
+Pilot Free-Trade Zone (在中国
+[广东]、中国
+[天津]、中国 [福建] 自由贸易试验区以及中国 [上海] 自由贸易试验区扩展区域暂时调整有关法律规定的行政审批) (2014)
+* Provisional
+adjustments to the enforcement of certain laws in 33 pilot counties,
+county-level cities, and districts including Daxing District of Beijing (在北京市大兴区等三十三个试点县 [市、区] 行政区域暂时调整实施有关法律规定) (2015)
+* Supreme People’s Court and Supreme People’s
+Procuratorate pilot of accelerated procedures for certain criminal cases in
+some localities (最高法、最高检在部分地区开展刑事案件速裁程序试点工作) (2014)
+
+
+
+The NPCSC is also involved in a major pilot project of its
+own.  Following CCP Central Committee
+guidance issued in
+November, the NPCSC issued a decision in December declaring that local
+people’s congresses will carry out pilot reforms in Beijing, Shanxi Province,
+and Zhejiang Province.[<sup>20</sup>](#sdendnote20sym)<a class="anchor" id="sdendnote20anc"></a> The pilot reforms entail local people’s
+congresses in pilot areas establishing “supervisory committees” (监察委员会) to
+oversee government employees’ exercise of public power.  As others have noted, this
+appears to be the first step in combining the authorities of multiple
+anti-corruption organs, including the Central Commission for Discipline
+Inspection, which will then be subject to NPC oversight.[<sup>21</sup>](#sdendnote21sym)<a class="anchor" id="sdendnote21anc"></a>
+
+#### Looking forward to the Final Year of the 12th NPC
+
+The 2017 Work Report lays out what the NPCSC plans to
+accomplish in its final year, before the 13th NPC is inaugurated next spring.
+ (It is worth noting that the CCP’s 19th Party Congress, which could
+feature either a significant personnel reshuffle or herald a fundamental change
+in the informal leadership selection system, will occur this fall and could
+affect the NPC legislative calendar in unexpected ways.)  
+
+It lists four major legislative priorities, one of which is
+to continue authorizing pilot reforms.  Thus, we should expect continued
+NPC involvement in certain pilot projects for at least this year, if not
+longer, as suggested by the 18<sup>th</sup> Party Congress Work Report.  As
+a separate line item, the NPCSC plans to continue its work on the supervisory
+system pilot reform, including revising the Administration Supervision Law (行政监察法).
+
+Under the rubric of “social, cultural, ecological, and
+other” issues, the NPCSC pledges further work on cultural issues in the form of
+the Public Libraries Law, which appears to have been largely stalled after
+comments were solicited at the end of 2015.  And significantly, though
+left unaddressed in this article, the NPCSC will compile the individual books
+of the civil code as a follow-on to the passing of the General Provisions of
+Civil Law this year.
+
+
+In a section about oversight of other government entities, the work report
+notes that the NPCSC will continue to emphasize enforcement of the constitution.
+ It is unclear what this might mean in terms of concrete, on-the-ground
+enforcement, as the only concrete events the work report mentions are National
+Constitution Day and ceremonies for pledging allegiance to the constitution.
+ Regardless, the rhetorical stress placed on the constitution is
+meaningful and signals that Chinese leaders are still seeking ways to realign
+local officials’ priorities and bolster citizens’ sense that they do indeed live
+in a “rule of law country.”
+
+--- <br>
+
+
+#### Notes
+
+[<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a> “China NPC 2017: The Reports,” <i>Wall
+Street Journal China Real Time Report</i>, March 5, 2017, [http://blogs.wsj.com/chinarealtime/2017/03/05/china-npc-2017-the-reports/](http://blogs.wsj.com/chinarealtime/2017/03/05/china-npc-2017-the-reports/).
+
+[<sup>2</sup>](#sdendnote2anc)<a class="anchor" id="sdendnote2sym"></a> “Token Dissent Plummets in China and Comrade Xi’s Power Grows,” *Bloomberg News*, March 15, 2017, [https://www.bloomberg.com/politics/articles/2017-03-15/token-dissent-plummets-in-china-as-comrade-xi-s-power-increases](https://www.bloomberg.com/politics/articles/2017-03-15/token-dissent-plummets-in-china-as-comrade-xi-s-power-increases).
+
+[<sup>3</sup>](#sdendnote3anc)<a class="anchor" id="sdendnote3sym"></a> “Full text of Hu
+Jintao’s report at 18th Party Congress,” Xinhua, November 17, 2012, [http://news.xinhuanet.com/english/special/18cpcnc/2012-11/17/c131981259.htm](http://news.xinhuanet.com/english/special/18cpcnc/2012-11/17/c131981259.htm); and “胡锦涛在中国共产党第十八次全国代表大会上的报告,” Renminwang (website of *People’s Daily*),
+November 18, 2017, [http://cpc.people.com.cn/n/2012/1118/c64094-19612151-1.html](http://cpc.people.com.cn/n/2012/1118/c64094-19612151-1.html).
+
+[<sup>4</sup>](#sdendnote4anc)<a class="anchor" id="sdendnote4sym"></a> Xi Jinping 习近平, “习近平：加快建设社会主义法治国家” (Xi Jinping: Speed up the construction of a socialist rule of law
+country), *Seeking Truth*, January
+2015, [http://www.qstheory.cn/dukan/qs/2015-01/01/c1113810966.htm](http://www.qstheory.cn/dukan/qs/2015-01/01/c1113810966.htm).
+
+[<sup>5</sup>](#sdendnote5anc)<a class="anchor" id="sdendnote5sym"></a> This author consulted both
+the English and Chinese versions of the NPCSC Work Reports from 2008 to 2017
+for this article.  When mentioned by name
+throughout the article, the following citations are the versions
+consulted.  2017: “全国人民代表大会常务委员会工作报告(全文),” *Sina.com*,
+March 8, 2017, [http://news.sina.com.cn/c/nd/2017-03-08/doc-ifycaafm5521938.shtml](http://news.sina.com.cn/c/nd/2017-03-08/doc-ifycaafm5521938.shtml);
+and “Full Text: Work report of NPC Standing Committee,” Xinhua, March 18, 2017,
+[http://news.xinhuanet.com/english/china/2017-03/18/c_136138841.htm](http://news.xinhuanet.com/english/china/2017-03/18/c_136138841.htm).  2016:
+“全国人民代表大会常务委员会工作报告,” website of the National People’s Congress of the People’s Republic of China (hereafter
+shortened to NPC website), March 21, 2016, [http://www.npc.gov.cn/npc/dbdhhy/12_4/2016-03/21/content_1985713.htm](http://www.npc.gov.cn/npc/dbdhhy/12_4/2016-03/21/content_1985713.htm);
+and “Full Text: Work report of NPC Standing Committee,” Xinhua, March 19, 2016, [http://news.xinhuanet.com/english/china/2016-03/19/c_135204257.htm](http://news.xinhuanet.com/english/china/2016-03/19/c_135204257.htm).  2015:
+“全国人民代表大会常务委员会工作报告,” NPC website, March 19, 2015, [http://www.npc.gov.cn/npc/dbdhhy/12_3/2015-03/19/content_1930826.htm](http://www.npc.gov.cn/npc/dbdhhy/12_3/2015-03/19/content_1930826.htm);
+and “Full Text: Work report of NPC Standing Committee,” Xinhua, March 19, 2015,
+[http://news.xinhuanet.com/english/china/2015-03/19/c_134081116.htm](http://news.xinhuanet.com/english/china/2015-03/19/c_134081116.htm).  2014: “全国人大常委会工作报告 (全文),”
+*Ifeng.com*, March 16, 2014, [http://news.ifeng.com/mainland/special/2014lianghui/content-3/detail_2014_03/16/34816757_0.shtml](http://news.ifeng.com/mainland/special/2014lianghui/content-3/detail_2014_03/16/34816757_0.shtml);
+and “Full Text: Work report of NPC Standing Committee,” Xinhua*,* March 16, 2014, [http://news.xinhuanet.com/english/special/2014-03/16/c_133189961.htm](http://news.xinhuanet.com/english/special/2014-03/16/c_133189961.htm).  2013:
+“全国人民代表大会常务委员会工作报告,” Xinhua*,* March 20, 2013, [http://news.xinhuanet.com/2013lh/2013-03/20/c_115091312_4.htm](http://news.xinhuanet.com/2013lh/2013-03/20/c_115091312_4.htm);
+and “Full Text: Work report of NPC Standing Committee,” Xinhua*,* March 20, 2013, [http://news.xinhuanet.com/english/china/2013-03/20/c_132248271.htm](http://news.xinhuanet.com/english/china/2013-03/20/c_132248271.htm).  2012:
+“全国人民代表大会常务委员会工作报告 (全文),” *Sina.com*, March 18, 2012, [http://news.sina.com.cn/c/2012-03-18/112624133495.shtml](http://news.sina.com.cn/c/2012-03-18/112624133495.shtml);
+and “Full Text: Work report of NPC Standing Committee,”
+Xinhua, March 18, 2012, [http://news.xinhuanet.com/english/china/2012-03/18/c_131474008.htm](http://news.xinhuanet.com/english/china/2012-03/18/c_131474008.htm).  2011:
+“吴邦国作全国人大常委会工作报告
+(全文),” *Sina.com*, March 10, 2011, [http://news.sina.com.cn/c/2011-03-10/102722087644.shtml](http://news.sina.com.cn/c/2011-03-10/102722087644.shtml);
+and “Full Text: Work report of NPC Standing Committee,” Xinhua, March 18, 2011, [http://news.xinhuanet.com/english2010/china/2011-03/18/c_13785812.htm](http://news.xinhuanet.com/english2010/china/2011-03/18/c_13785812.htm).  2010:
+“吴邦国作全国人大常委会工作报告 (全文),” Xinhua, March
+9, 2010, [http://news.qq.com/a/20100309/003291.htm](http://news.qq.com/a/20100309/003291.htm);
+and “Full
+Text: Work report of NPC Standing Committee,” Xinhua, March 17, 2010, [http://news.xinhuanet.com/english2010/china/2010-03/17/c_13214401.htm](http://news.xinhuanet.com/english2010/china/2010-03/17/c_13214401.htm).  2009:
+“全国人民代表大会常务委员会工作报告,”
+NPC website, March 16, 2009, [http://www.npc.gov.cn/npc/xinwen/2009-03/16/content_1493462.htm](http://www.npc.gov.cn/npc/xinwen/2009-03/16/content_1493462.htm);
+and “Full Text: Work report of NPC Standing Committee,” Xinhua, March 16, 2009,
+[http://news.xinhuanet.com/english/2009-03/16/content_11018210.htm](http://news.xinhuanet.com/english/2009-03/16/content_11018210.htm).  2008:
+“全国人民代表大会常务委员会工作报告 (全文),” *China.com.cn,* March 22, 2008, [http://www.china.com.cn/2008lianghui/2008-03/21/content_13222906.htm](http://www.china.com.cn/2008lianghui/2008-03/21/content_13222906.htm); and “Full Text: Work report of NPC Standing
+Committee,” Xinhua, March 21, 2008, [http://news.xinhuanet.com/english/2008-03/21/content_7832706.htm](http://news.xinhuanet.com/english/2008-03/21/content_7832706.htm).
+
+[<sup>6</sup>](#sdendnote6anc)<a class="anchor" id="sdendnote6sym"></a> This article is not meant to be a comprehensive survey of all the NPCSC’s
+recent legislative work.  Certainly, there has been significant movement
+in the fields of environment and social services, as well as substantive
+changes to internal government procedures, none of which are addressed here.
+
+[<sup>7</sup>](#sdendnote7anc)<a class="anchor" id="sdendnote7sym"></a> George G. Chen and Matthias
+Stepan, “Activating the National People’s Congress: Law Making on Behalf of the
+Party Center,” *MERICS China Monitor*,
+March 1, 2017, [https://www.merics.org/fileadmin/user_upload/downloads/China-Monitor/China_Monitor_No_37_National_People_s_Congress_EN.pdf](https://www.merics.org/fileadmin/user_upload/downloads/China-Monitor/China_Monitor_No_37_National_People_s_Congress_EN.pdf).
+
+[<sup>8</sup>](#sdendnote8anc)<a class="anchor" id="sdendnote8sym"></a> Zhuang Pinghui, “Communist dogma for cool cats: China tells universities
+to hop to and put the hip into ideology,” <i>South
+China Morning Post</i>, March 12, 2017, [http://www.scmp.com/news/china/policies-politics/article/2078251/communist-dogma-cool-cats-china-tells-universities-hop](http://www.scmp.com/news/china/policies-politics/article/2078251/communist-dogma-cool-cats-china-tells-universities-hop); and “Xi calls for strengthened ideological
+work in colleges,” Xinhua, December 9, 2016, [http://news.xinhuanet.com/english/2016-12/09/c_135891337.htm](http://news.xinhuanet.com/english/2016-12/09/c_135891337.htm).
+
+[<sup>9</sup>](#sdendnote9anc)<a class="anchor" id="sdendnote9sym"></a> “中共中央办公厅、国务院办公厅印发《关于进一步加强和改进新形势下高校宣传思想工作的意见》” (The General Office of the CCP Central
+Committee and the General Office of the State Council publish “Opinion on further strengthening and improving propaganda and thought work in higher education
+under the new situation”), Xinhua, January 19, 2015, [http://news.xinhuanet.com/2015-01/19/c_1114051345.htm](http://news.xinhuanet.com/2015-01/19/c_1114051345.htm); and Te-Ping Chen, “Chinese Education Minister Warns Against ‘Infiltration’
+of Western Ideas,” January 30, 2015, <i>Wall
+Street Journal China Real Time Report</i>, [http://blogs.wsj.com/chinarealtime/2015/01/30/education-minister-warns-against-infiltration-of-western-ideas/](http://blogs.wsj.com/chinarealtime/2015/01/30/education-minister-warns-against-infiltration-of-western-ideas/).
+
+[<sup>10</sup>](#sdendnote10anc)<a class="anchor" id="sdendnote10sym"></a> “China Focus: China adopts law on traditional medicine,” Xinhua, December 25, 2016, [http://news.xinhuanet.com/english/2016-12/25/c_135931569.htm](http://news.xinhuanet.com/english/2016-12/25/c_135931569.htm).
+
+[<sup>11</sup>](#sdendnote11anc)<a class="anchor" id="sdendnote11sym"></a> Hu Jintao 胡锦涛, “坚定不移走中国特色社会主义文化发展道路,
+努力建设社会主义文化强国” (Resolutely
+walk the path of developing the culture of socialism with Chinese
+characteristics, strive to build the country into a socialist cultural power), *Seeking Truth*, January 2012, [http://www.qstheory.cn/zywz/201201/t20120101_133218.htm](http://www.qstheory.cn/zywz/201201/t20120101_133218.htm).
+
+[<sup>12</sup>](#sdendnote12anc)<a class="anchor" id="sdendnote12sym"></a> “刘云山刘延东出席中央文化体制改革和发展工作领导小组会” (Liu Yunshan, Liu Yandong chair meeting of
+the Central Committee Leading Small Group on Cultural System Reform and
+Development Work), Renminwang, January 14, 2012, [http://cpc.people.com.cn/GB/64093/64094/16875413.html](http://cpc.people.com.cn/GB/64093/64094/16875413.html); and “做文化改革发展的铺路石”
+(The paving stones for doing cultural reform and development), Renminwang, June 25, 2013, [http://politics.people.com.cn/n/2013/0625/c1001-21956895.html](http://politics.people.com.cn/n/2013/0625/c1001-21956895.html).
+
+[<sup>13</sup>](#sdendnote13anc)<a class="anchor" id="sdendnote13sym"></a> Jessica Batke, “Good
+Citizens, Splendid Civilization: Culture in the 13th FYP,” *MERICS Blog*, March 29, 2016, [https://blog.merics.org/en/blog-post/2016/03/29/good-citizens-splendid-civilization-culture-in-the-13th-fyp-part-3-of-merics-series/](https://blog.merics.org/en/blog-post/2016/03/29/good-citizens-splendid-civilization-culture-in-the-13th-fyp-part-3-of-merics-series/).
+
+[<sup>14</sup>](#sdendnote14anc)<a class="anchor" id="sdendnote14sym"></a> Emma Wei, “China: First
+Step Towards Adoption of a New Civil Code,” <i>Library
+of Congress Global Legal Monitor</i>, March 30, 2017, [http://www.loc.gov/law/foreign-news/article/china-first-step-towards-adoption-of-a-new-civil-code/](http://www.loc.gov/law/foreign-news/article/china-first-step-towards-adoption-of-a-new-civil-code/).
+
+[<sup>15</sup>](#sdendnote15anc)<a class="anchor" id="sdendnote15sym"></a> “全国人大常委会关于确定中国人民抗日战争胜利纪念日的决定” (The decision of the National People’s
+Congress Standing Committee on recognizing Victory Day in the Chinese
+People’s War of Resistance against Japanese Aggression), NPC website, February 27, 2014, [http://www.npc.gov.cn/npc/xinwen/2014-02/28/content_1832812.htm](http://www.npc.gov.cn/npc/xinwen/2014-02/28/content_1832812.htm); “全国人民代表大会常务委员会关于设立烈士纪念日的决定” (The decision of the National People’s
+Congress Standing Committee on establishing Martyrs’ Remembrance Day), NPC
+website, August 31, 2017, [http://www.npc.gov.cn/npc/xinwen/2014-09/01/content_1877034.htm](http://www.npc.gov.cn/npc/xinwen/2014-09/01/content_1877034.htm); and “全国人大常委会关于设立南京大屠杀死难者国家公祭日的决定” (The decision of the National People’s
+Congress Standing Committee on establishing National Memorial Day for
+Nanjing Massacre Victims), NPC website,
+February 27, 2014, [http://www.npc.gov.cn/npc/xinwen/2014-02/28/content_1832502.htm](http://www.npc.gov.cn/npc/xinwen/2014-02/28/content_1832502.htm).
+
+[<sup>16</sup>](#sdendnote16anc)<a class="anchor" id="sdendnote16sym"></a> “全国人民代表大会常务委员会关于设立国家宪法日的决定” (The decision of the National People’s
+Congress Standing Committee on establishing National Constitution Day), NPC
+website, November 1, 2014, [http://www.npc.gov.cn/npc/xinwen/2014-11/02/content_1884642.htm](http://www.npc.gov.cn/npc/xinwen/2014-11/02/content_1884642.htm);
+and “全国人民代表大会常务委员会关于实行宪法宣誓制度的决定” (The decision of the National People’s
+Congress Standing Committee on implementing the system for
+institutionalizing pledges of allegiance to the constitution), NPC website, July 1, 2015, [http://www.npc.gov.cn/npc/xinwen/2015-07/01/content_1940407.htm](http://www.npc.gov.cn/npc/xinwen/2015-07/01/content_1940407.htm).
+
+[<sup>17</sup>](#sdendnote17anc)<a class="anchor" id="sdendnote17sym"></a> Sebastian Heilmann, “Policy Experimentation in China’s Economic Rise,” *Studies in Comparative International Development*
+43 (2008):1–26.
+
+[<sup>18</sup>](#sdendnote18anc)<a class="anchor" id="sdendnote18sym"></a> “Full text of Hu Jintao’s report at 18th Party Congress.”
+
+[<sup>19</sup>](#sdendnote19anc)<a class="anchor" id="sdendnote19sym"></a> “中共中央转发《中共全国人大常委会党组关于进一步发挥全国人大代表作用加强全国人大常委会制度建设的若干意见》的通知”
+(The Central Committee of the CCP transmits “some opinions of the CCP
+leadership group of the National People’s Congress Standing Committee on giving
+further play to the role of National People’s representatives and strengthening
+the construction of the National People’s Congress Standing Committee system”),
+ Renminwang, May 26, 2005, [http://cpc.people.com.cn/GB/64162/71380/102565/182142/10993401.html](http://cpc.people.com.cn/GB/64162/71380/102565/182142/10993401.html).
+
+[<sup>20</sup>](#sdendnote20anc)<a class="anchor" id="sdendnote20sym"></a> “中共中央办公厅印发《关于在北京市、山西省、浙江省开展国家监察体制改革试点方案》” (The CCP Central
+Committee General Office publishes “plan on developing trial reforms of the
+national supervisory system in Beijing, Shanxi, and Zhejiang”) Xinhua, November 7, 2016, [http://news.xinhuanet.com/politics/2016-11/07/c_1119867301.htm](http://news.xinhuanet.com/politics/2016-11/07/c_1119867301.htm);
+and “全国人大常委会关于在北京市、山西省、 浙江省开展国家监察体制改革试点工作的决定” (The National People’s Congress Standing Committee’s decision on
+developing trial reforms of the national supervisory system in Beijing, Shanxi,
+and Zhejiang), *People’s Daily*,
+January 20, 2017, [http://paper.people.com.cn/rmrb/html/2016-12/26/nw.D110000renmrb_20161226_3-04.htm](http://paper.people.com.cn/rmrb/html/2016-12/26/nw.D110000renmrb_20161226_3-04.htm).
+
+[<sup>21</sup>](#sdendnote21anc)<a class="anchor" id="sdendnote21sym"></a> 
+Jonathan Brookfield, “Chinese Politics in Motion,” *China Policy Institute: Analysis*, March 29, 2017, [https://cpianalysis.org/2017/03/29/chinese-politics-in-motion/](https://cpianalysis.org/2017/03/29/chinese-politics-in-motion/).
