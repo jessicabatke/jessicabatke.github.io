@@ -6,7 +6,7 @@ layout: single
 author: Gramophonic
 
 header:
-  image: /media/hero/harmonium_cropped.jpg
+  image: /media/hero/harmonium_cropped_scaled.jpg
 
 gallery:
   - url: /media/Gramo/sxsw.jpg

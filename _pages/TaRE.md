@@ -7,98 +7,105 @@ author: TaRE
 
 excerpt: "A new folk musical"
 header:
-  image: /media/TARE/TAREKC_243_cropped.png
+  image: /media/hero/TAREKC_243_cropped_scaled.png
   teaser: /media/TARE/tare_logo.png
 
 gallery1:
-  - url: /media/TARE/TAREKC_052.JPG
-    image_path: /media/TARE/TAREKC_052.JPG
+  - url: /media/TARE/TAREKC_01_052.JPG
+    image_path: /media/TARE/TAREKC_01_052.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_110.JPG
-    image_path: /media/TARE/TAREKC_110.JPG
+  - url: /media/TARE/TAREKC_02_110.JPG
+    image_path: /media/TARE/TAREKC_02_110.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_452.JPG
-    image_path: /media/TARE/TAREKC_452.JPG
+  - url: /media/TARE/TAREKC_03_452.JPG
+    image_path: /media/TARE/TAREKC_03_452.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_016.JPG
-    image_path: /media/TARE/TAREKC_016.JPG
+  - url: /media/TARE/TAREKC_04_010_new.JPG
+    image_path: /media/TARE/TAREKC_04_010_new.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_018.JPG
-    image_path: /media/TARE/TAREKC_018.JPG
+  - url: /media/TARE/TAREKC_05_064_new.JPG
+    image_path: /media/TARE/TAREKC_05_064_new.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_101.JPG
-    image_path: /media/TARE/TAREKC_101.JPG
+  - url: /media/TARE/TAREKC_06_101.JPG
+    image_path: /media/TARE/TAREKC_06_101.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_118.JPG
-    image_path: /media/TARE/TAREKC_118.JPG
+  - url: /media/TARE/TAREKC_07_194_new.JPG
+    image_path: /media/TARE/TAREKC_07_194_new.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_132.JPG
-    image_path: /media/TARE/TAREKC_132.JPG
+  - url: /media/TARE/TAREKC_08_308_new.JPG
+    image_path: /media/TARE/TAREKC_08_308_new.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_235.JPG
-    image_path: /media/TARE/TAREKC_235.JPG
+  - url: /media/TARE/TAREKC_09_318_new.JPG
+    image_path: /media/TARE/TAREKC_09_318_new.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_344.JPG
-    image_path: /media/TARE/TAREKC_344.JPG
+  - url: /media/TARE/TAREKC_10_344.JPG
+    image_path: /media/TARE/TAREKC_10_344.JPG
     alt: "Kennedy Center"
 
-  - url: /media/TARE/TAREKC_398.JPG
-    image_path: /media/TARE/TAREKC_398.JPG
+  - url: /media/TARE/TAREKC_11_398.JPG
+    image_path: /media/TARE/TAREKC_11_398.JPG
+    alt: "Kennedy Center"
+
+  - url: /media/TARE/TAREKC_12_380_new.JPG
+    image_path: /media/TARE/TAREKC_12_380_new.JPG
     alt: "Kennedy Center"
 
 gallery2:
-  - url: /media/TARE/IF_06.JPG
-    image_path: /media/TARE/IF_06.JPG
+  - url: /media/TARE/IF_new_12.JPG
+    image_path: /media/TARE/IF_new_12.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_12.JPG
-    image_path: /media/TARE/IF_12.JPG
+  - url: /media/TARE/IF_new_11.JPG
+    image_path: /media/TARE/IF_new_11.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_15.JPG
-    image_path: /media/TARE/IF_15.JPG
+  - url: /media/TARE/IF_new_10.JPG
+    image_path: /media/TARE/IF_new_10.JPG
     alt: "Ice Factory"
-  - url: /media/TARE/IF_01.JPG
-    image_path: /media/TARE/IF_01.JPG
-    alt: "Ice Factory"
-
-  - url: /media/TARE/IF_04.JPG
-    image_path: /media/TARE/IF_05.JPG
+  - url: /media/TARE/IF_new_01.JPG
+    image_path: /media/TARE/IF_new_01.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_08.JPG
-    image_path: /media/TARE/IF_08.JPG
+  - url: /media/TARE/IF_new_02.JPG
+    image_path: /media/TARE/IF_new_02.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_14.JPG
-    image_path: /media/TARE/IF_14.JPG
+  - url: /media/TARE/IF_new_03.JPG
+    image_path: /media/TARE/IF_new_03.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_16.JPG
-    image_path: /media/TARE/IF_16.JPG
+  - url: /media/TARE/IF_new_04.JPG
+    image_path: /media/TARE/IF_new_04.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_21.JPG
-    image_path: /media/TARE/IF_21.JPG
+  - url: /media/TARE/IF_new_05.JPG
+    image_path: /media/TARE/IF_new_05.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_23.JPG
-    image_path: /media/TARE/IF_23.JPG
+  - url: /media/TARE/IF_new_06.JPG
+    image_path: /media/TARE/IF_new_06.JPG
     alt: "Ice Factory"
 
-  - url: /media/TARE/IF_24.JPG
-    image_path: /media/TARE/IF_24.JPG
+  - url: /media/TARE/IF_new_07.JPG
+    image_path: /media/TARE/IF_new_07.JPG
     alt: "Ice Factory"
 
+  - url: /media/TARE/IF_new_08.JPG
+    image_path: /media/TARE/IF_new_08.JPG
+    alt: "Ice Factory"
+
+  - url: /media/TARE/IF_new_09.JPG
+    image_path: /media/TARE/IF_new_09.JPG
+    alt: "Ice Factory"
 
 ---
 

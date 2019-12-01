@@ -6,7 +6,7 @@ layout: splash
 permalink: /
 header:
   #overlay_color: "#000000"
-  overlay_image: /media/hero/cobblestones_dark.png
+  overlay_image: /media/hero/cobblestones_dark_scaled.png
 
 
 #  actions:
@@ -20,7 +20,7 @@ excerpt: >
 
 
 feature_row:
-  - image_path: /media/crappyspreadsheet.jpg
+  - image_path: /media/crappyspreadsheet_scaled.jpg
     alt: "Research & Writing"
     title: "Research & Writing"
     url: "/research-writing/index.html"
@@ -29,7 +29,7 @@ feature_row:
     title: "Music & Art"
     excerpt: ""
     url: "/music-art/"
-  - image_path: /media/feet_cropped.jpg
+  - image_path: /media/feet_cropped_scaled.jpg
     alt: "About Me"
     title: "About Me"
     excerpt: ""
