@@ -13,7 +13,7 @@ header:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
-  Research & Writing & Editing & Data Visualization / Analysis • Music & Theater & Art <br>  <br>  <br>  <br>  <br>
+  Research & Writing & Editing & Data Visualization • Music & Theater & Art <br>  <br>  <br>  <br>  <br>
 #intro:
 #  - excerpt: 'gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
