@@ -6,7 +6,7 @@ layout: splash
 permalink: /
 header:
   #overlay_color: "#000000"
-  overlay_image: /media/hero/cobblestones_dark_scaled.png
+  overlay_image: /media/hero/cobblestones_dark_scaled1.png
 
 
 #  actions:
