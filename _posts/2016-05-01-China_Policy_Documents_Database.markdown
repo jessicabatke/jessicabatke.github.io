@@ -13,7 +13,7 @@ excerpt: "2016-05-31"
 
 --- <br>
 
-This is a spreadsheet containing high-level Chinese policy documents (中发, 中办发, 国发, and 国办发) from the beginning of the first Hu administration (November 2002) through May 2016. I hope to update them semi-regularly. Please see the notes at bottom for more information about how we considered sourcing when choosing which documents to include.
+This is a spreadsheet containing high-level Chinese policy documents (中发, 中办发, 国发, and 国办发) from the beginning of the first Hu administration (November 2002) through May 2016. Please see the notes at bottom for more information about how we considered sourcing when choosing which documents to include.
 
 I compiled these with the help of my friends and colleagues at <a href="https://www.merics.org/en">MERICS</a> &ndash; Matthias Stepan, Julia Breuer, and Max-Sebastian Dovi.
 
