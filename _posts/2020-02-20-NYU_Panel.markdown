@@ -1,0 +1,39 @@
+---
+layout: single
+title:  "China's Erasure of the Uyghurs"
+date:   2020-02-20
+categories: Research&Writing
+tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+classes: wide
+excerpt: "NYU / 2020-02-20"
+---
+<style>
+div.ytcontainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+iframe.yt {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+</style>
+
+
+**On February 20, 2020, the Islamic Center at NYU hosted a panel discussion on "the human rights crisis in the New Territory (Xinjiang/East Turkestan)," "the origins of Uyghur culture, ethnicity, and religion," and "the alarming conflict taking place in China." I participated alongside Lisa Ross and Aia Roi. Further information is available on the event's [YouTube page](https://www.youtube.com/watch?v=c8qnrhAegf0).**
+
+
+{% if include.width != '' %}
+  <div style="width: {{include.width}}; margin:0 auto;">
+{% else %}
+  <div>
+{% endif %}
+  <div class="ytcontainer">
+    <iframe class="yt" allowfullscreen src="https://www.youtube.com/embed/c8qnrhAegf0"></iframe>
+  </div>
+</div>
