@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "State of Surveillance: Government Documents Reveal New Evidence on China’s Efforts to Monitor Its People"
+title:  "State of Surveillance—Key Takeaways"
 date:   2020-10-30
 categories: Research&Writing
 tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, ChinaFile, surveillance]

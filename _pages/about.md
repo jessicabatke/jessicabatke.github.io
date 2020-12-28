@@ -7,7 +7,7 @@ title: "About"
 
 ---
 
-I am currently a senior editor at [ChinaFile](http://www.chinafile.com/) in New York City, where I am the primary editor of [The China NGO Project](http://www.chinafile.com/ngo/) and where I do other things that need doing.  
+I am currently a senior editor at [ChinaFile](http://www.chinafile.com/) in New York City, where I work on [data-driven](https://www.chinafile.com/state-surveillance-china) [research projects](https://www.chinafile.com/reporting-opinion/features/message-control-china). I am also the primary editor of [The China NGO Project](http://www.chinafile.com/ngo/).  
 
 I am a member of the DC-based band [Gramophonic](https://www.gramophonic.band/) and the music director of the new folk musical [Tear a Root from the Earth](http://www.teararoot.com/).
 
