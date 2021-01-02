@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [ChinaFile, Uyghurs]
 classes: wide
 excerpt: "ChinaFile / 2017-08-14"
+
 ---
 
 **This article originally appeared on [ChinaFile](http://www.chinafile.com/reporting-opinion/viewpoint/china-forcing-uighurs-abroad-return-home-why-arent-more-countries).**

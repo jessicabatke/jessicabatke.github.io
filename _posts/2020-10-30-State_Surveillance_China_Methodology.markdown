@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "State of Surveillance—Methodology"
+title:  "State of Surveillance (Methodology)"
 date:   2020-10-30
 categories: Research&Writing
 tags: [ChinaFile, surveillance]

@@ -8,7 +8,7 @@ classes: wide
 author_profile: true
 
 feature_row:
-  - image_path: /media/crappyspreadsheet.jpg
+  - image_path: /media/crappyspreadsheet1.jpg
     alt: "Research & Writing"
     title: "Research & Writing"
     url: "/research-writing/index.html"

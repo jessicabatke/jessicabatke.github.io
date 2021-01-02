@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Jessica Batke"
   avatar           : "/media/officeportraitcopy2.png"
-  bio              : "<em>Research & Writing & Editing & Data Visualization • Music & Theater & Art</em>"
+  bio              : "Research / Writing / Data<br>Music / Theater / Art"
   location         : New York, NY
   email            :
   links:
@@ -220,7 +220,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 30 # amount of posts to show
 paginate_path: /research-writing/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

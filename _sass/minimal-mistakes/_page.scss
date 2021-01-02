@@ -139,7 +139,7 @@ body {
 
   a:not(.btn) {
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -181,7 +181,9 @@ body {
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
+		// margin-right: 5em;
+
     padding: 3em 0;
     @include clearfix;
     background-size: cover;
@@ -209,8 +211,8 @@ body {
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      color: #000;
+      // text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
     .page__lead {

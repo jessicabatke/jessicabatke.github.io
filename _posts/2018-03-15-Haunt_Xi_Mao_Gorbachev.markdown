@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [ChinaFile, leadership, Xi Jinping]
 classes: wide
 excerpt: "ChinaFile / 2018-03-15"
+
 ---
 
 **This article originally appeared on [ChinaFile](http://www.chinafile.com/reporting-opinion/viewpoint/who-really-haunts-xi-jinping-mao-or-gorbachev).**

@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [ChinaFile, Xinjiang Uyghur Autonomous Region, Uyghurs]
 classes: wide
 excerpt: "ChinaFile / 2019-01-08"
+
 ---
 
 **This article originally appeared on [ChinaFile](http://www.chinafile.com/reporting-opinion/features/where-did-one-million-figure-detentions-xinjiangs-camps-come).**

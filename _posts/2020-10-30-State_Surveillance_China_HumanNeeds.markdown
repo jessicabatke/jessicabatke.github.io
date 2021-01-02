@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "State of Surveillance—Xiqiao Township's Hierarchy of Human Needs"
+title:  "State of Surveillance (Xiqiao Township's Hierarchy of Human Needs)"
 date:   2020-10-30
 categories: Research&Writing
 tags: [ChinaFile, surveillance]

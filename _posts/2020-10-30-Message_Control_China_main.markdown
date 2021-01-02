@@ -6,6 +6,9 @@ categories: Research&Writing
 tags: [ChinaFile, surveillance]
 classes: wide
 excerpt: "ChinaFile / 2020-12-20"
+header:
+  image: /media/message_control.jpg
+  caption: "Image credit: [**Steven Weinberg**](http://www.stevenweinbergstudio.com/) for [**ChinaFile**](https://www.chinafile.com/)"
 ---
 **By Mareike Ohlberg and Jessica Batke**
 

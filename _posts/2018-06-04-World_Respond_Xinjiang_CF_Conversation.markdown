@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [ChinaFile, ChinaFile Conversation, Xinjiang Uyghur Autonomous Region, Uyghurs]
 classes: wide
 excerpt: "ChinaFile / 2018-06-04"
+
 ---
 
 **This article originally appeared as part of a [ChinaFile Conversation](http://www.chinafile.com/conversation/how-should-world-respond-intensifying-repression-xinjiang) on June 4, 2018.**

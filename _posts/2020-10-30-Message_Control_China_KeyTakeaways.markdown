@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Message Control—Key Takeaways"
+title:  "Message Control (Key Takeaways)"
 date:   2020-12-20
 categories: Research&Writing
 tags: [ChinaFile, surveillance]

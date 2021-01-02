@@ -3,10 +3,10 @@ permalink: /music-art/
 layout: single
 author_profile: true
 classes: wide
-title: "Music & Art"
+title: "Music / Theater"
 
 intro:
-  - excerpt: 
+  - excerpt:
 
 feature_row1:
   - image_path: /media/Gramo/logo_cropped.jpg

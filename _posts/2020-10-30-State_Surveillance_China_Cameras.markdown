@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "State of Surveillance—Cameras and Software"
+title:  "State of Surveillance (Cameras and Software)"
 date:   2020-10-30
 categories: Research&Writing
 tags: [ChinaFile, surveillance]

@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [ChinaFile, ChinaFile Conversation, leadership, propaganda]
 classes: wide
 excerpt: "ChinaFile / 2017-10-27"
+
 ---
 
 **This article originally appeared as part of a [ChinaFile Conversation](http://www.chinafile.com/conversation/whats-takeaway-19th-party-congress) on October 27, 2017.**

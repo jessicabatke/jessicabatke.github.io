@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [ChinaFile, leadership, Xi Jinping]
 classes: wide
 excerpt: "ChinaFile / 2017-10-16"
+
 ---
 **By Jessica Batke and Oliver Melton**
 
