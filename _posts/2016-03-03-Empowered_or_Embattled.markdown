@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Empowered or Embattled? We Don’t Know What Hexin Means for Xi Jinping1"
+title:  "Empowered or Embattled? We Don’t Know What Hexin Means for Xi Jinping2"
 date:   2016-03-03
 categories: Research&Writing
 tags: [leadership, Xi Jinping, MERICS]
