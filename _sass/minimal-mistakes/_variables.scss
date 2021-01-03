@@ -15,10 +15,10 @@ $indent-var: 1.3em !default;
 /* system typefaces */
 $serif                        : "Proxima Nova", Georgia, Times, serif !default;
 $sans-serif                   : "Proxima Nova", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+$monospace                    : "Proxima Nova", Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow            : "Proxima Nova" !default;
+$sans-serif-narrow            : "Proxima Nova", sans-serif !default;
 $helvetica                    : "Proxima Nova", Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
