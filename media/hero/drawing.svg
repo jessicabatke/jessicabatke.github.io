@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93974427"
-     inkscape:cx="371.33564"
-     inkscape:cy="289.73611"
+     inkscape:cx="792.63053"
+     inkscape:cy="333.69289"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      showguides="false"
@@ -82,28 +82,28 @@
      id="layer1"
      transform="translate(134.93744,-7.9374938)">
     <rect
-       style="fill:#581845;fill-opacity:1;stroke-width:0.259783"
+       style="fill:#581845;fill-opacity:1;stroke-width:0.267617"
        id="rect833"
-       width="129.64581"
+       width="137.58328"
        height="15.680727"
-       x="66.145859"
+       x="58.208397"
        y="10.583333"
        inkscape:export-xdpi="229.22"
        inkscape:export-ydpi="229.22" />
     <rect
-       style="fill:#900c3f;fill-opacity:1;stroke-width:0.243359"
+       style="fill:#900c3f;fill-opacity:1;stroke-width:0.231763"
        id="rect833-3"
-       width="113.77083"
+       width="103.18748"
        height="15.680727"
-       x="82.020844"
-       y="29.104166" />
+       x="92.604233"
+       y="29.298433" />
     <rect
-       style="fill:#c70039;fill-opacity:1;stroke-width:0.280189"
+       style="fill:#c70039;fill-opacity:1;stroke-width:0.257118"
        id="rect833-6"
-       width="150.81248"
+       width="126.99993"
        height="15.680727"
-       x="44.979179"
-       y="66.145836" />
+       x="68.791733"
+       y="66.145828" />
     <rect
        style="fill:#ff5733;fill-opacity:1;stroke-width:0.222672"
        id="rect833-7"
@@ -112,11 +112,11 @@
        x="100.54168"
        y="47.625" />
     <rect
-       style="fill:#581845;fill-opacity:1;stroke-width:0.287467"
+       style="fill:#581845;fill-opacity:1;stroke-width:0.282635"
        id="rect833-5"
-       width="158.74998"
+       width="153.45827"
        height="15.680727"
-       x="37.041679"
+       x="42.333397"
        y="84.666664"
        inkscape:export-xdpi="229.22"
        inkscape:export-ydpi="229.22" />
