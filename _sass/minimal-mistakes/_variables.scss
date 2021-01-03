@@ -19,18 +19,18 @@ $monospace                    : Monaco, Consolas, "Lucida Console", monospace !d
 
 /* sans serif typefaces */
 $sans-serif-narrow            : "Proxima Nova" !default;
-$helvetica                    : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$helvetica                    : "Proxima Nova", Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
-$georgia                      : Georgia, serif !default;
-$times                        : Times, serif !default;
-$bodoni                       : "Bodoni MT", serif !default;
-$calisto                      : "Calisto MT", serif !default;
-$garamond                     : Garamond, serif !default;
+$georgia                      : "Proxima Nova", Georgia, serif !default;
+$times                        : "Proxima Nova", Times, serif !default;
+$bodoni                       : "Proxima Nova", "Bodoni MT", serif !default;
+$calisto                      : "Proxima Nova", "Calisto MT", serif !default;
+$garamond                     : "Proxima Nova", Garamond, serif !default;
 
 $global-font-family           : "Proxima Nova" !default;
 $header-font-family           : "Proxima Nova" !default;
-$caption-font-family          : $serif !default;
+$caption-font-family          : "Proxima Nova" !default;
 
 /* type scale */
 $type-size-1                  : 2.441em !default;  // ~39.056px
