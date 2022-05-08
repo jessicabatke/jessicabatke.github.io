@@ -5,7 +5,7 @@ date:   2021-09-10
 categories: Research&Writing
 tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
 classes: wide
-excerpt: "Uyghur Tribunal / 2020-09-10"
+excerpt: "Uyghur Tribunal / 2021-09-10"
 ---
 
 
