@@ -5,7 +5,7 @@ date:   2021-10-13
 categories: Research&Writing
 tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, ChinaFile, public remarks]
 classes: wide
-excerpt: "ChinaFile / 2020-10-13"
+excerpt: "ChinaFile / 2021-10-13"
 ---
 
 
