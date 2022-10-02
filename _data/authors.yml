@@ -41,3 +41,13 @@ Gramophonic:
     - label: "Soundcloud"
       #icon: "fab fa-fw fa-instagram"
       url: "https://soundcloud.com/gramophonic"
+
+
+EIG:
+  name        : "Everybody Is Gone"
+  bio         : "\"See For Yourself\""
+  avatar      : "/media/EIG/EIG_logo.png"
+  links:
+    - label: "Website"
+      #icon: "fas fa-fw fa-link"
+      url: "https://www.everybodyisgone.org"
