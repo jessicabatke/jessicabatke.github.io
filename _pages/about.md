@@ -19,6 +19,6 @@ You can reach me at hello@jessicabatke.com.
 
 <strong>If you're looking for a formal bio and headshot, please feel free to use the following:</strong>
 
-![image-right]({{ site.url }}{{ site.baseurl }}/media/Jessica_Batke_Headshot_medium.png){: .align-right}
+![Headshot of Jessica Batke](/media/Jessica_Batke_Headshot_medium.png){.align-right}
 
 Jessica Batke is Senior Editor for Investigations at ChinaFile, where she focuses on data-driven research projects. She is an expert on China’s domestic political and social affairs, and served as the State Department’s Bureau of Intelligence and Research Analyst for nearly eight years prior to joining ChinaFile.

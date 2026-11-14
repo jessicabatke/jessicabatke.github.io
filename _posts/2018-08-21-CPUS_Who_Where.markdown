@@ -3,7 +3,7 @@ layout: single
 title:  "Chinese Partner Units: Who (and Where) Are They?"
 date:   2018-08-21
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2018-08-21"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2018-08-21"
 
 
 
---- <br>
+<hr class="page__divider">
 
 When
  considering the impact of the Foreign NGO Law, we often think first of
@@ -64,7 +64,7 @@ the number of “unique” CPUs, but as they are less than one half of one
 percent of the total number of CPUs, and end up being less than one
 percent of the number of “unique” CPUs, we left them in the data.
 
-### What Types of Organizations Are Serving as CPUs?
+## What Types of Organizations Are Serving as CPUs?
 
 As
  of June 30, more than half (54 percent) of the total number of
@@ -78,7 +78,7 @@ university-affiliated “education foundation” and the temporary
 activities in question primarily served to provide funds for particular
 scholarships, prizes, or institutes within the university.
 
-#### Number of Temporary Activity Filings, by CPU Type, March 2017-June 2018**
+### Number of Temporary Activity Filings, by CPU Type, March 2017-June 2018**
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/TAbyCPUType-Pie.html" frameborder="0" scrolling="no" width="100%" height="450"></iframe>
 
@@ -98,7 +98,7 @@ than what one might expect just from looking at the number of temporary
 activity filings.
 
 
-#### Number of Unique CPUs, by CPU Type, March 2017-June 2018
+### Number of Unique CPUs, by CPU Type, March 2017-June 2018
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/TAbyUniqueCPU-Pie.html" frameborder="0" scrolling="no" width="160%" height="450"></iframe>
 
@@ -110,7 +110,7 @@ telescoping effect occurs when looking just at the university-affiliated
  “education foundations”: it was in fact only 11 of these groups that
 carried out the more than 90 relevant temporary activities.
 
-### Do CPU Types Vary by Location in China?
+## Do CPU Types Vary by Location in China?
 
 Most
  province-level administrative areas have allowed at least one temporary
@@ -122,7 +122,7 @@ activity location; a given activity must be filed for in the province
 where the CPU is registered, but the activity may take place in
 different or additional provinces.)
 
-#### Number of Temporary Activity Filings, by Filing Location, March 2017-June 2018
+### Number of Temporary Activity Filings, by Filing Location, March 2017-June 2018
 
 
 <body>
@@ -172,7 +172,7 @@ Looking
 certain types of organizations are more likely to serve as CPUs in some
 places than in others:
 
-#### Number of Temporary Activity Filings, by CPU Type, for Most Active Provinces, March 2017-June 2018
+### Number of Temporary Activity Filings, by CPU Type, for Most Active Provinces, March 2017-June 2018
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/TAbyCPUType-MultiPie.html" frameborder="0" scrolling="no" width="160%" height="500"></iframe>
 
@@ -195,7 +195,7 @@ Again, however, it is instructive to
  that a few very active CPUs are responsible for a large proportion of
 temporary activity filings:
 
-#### Number of Unique CPUs, for Most Active Provinces, March 2017-June 2018
+### Number of Unique CPUs, for Most Active Provinces, March 2017-June 2018
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/TAbyUniqueCPUType-MultiPie.html" frameborder="0" scrolling="no" width="160%" height="500"></iframe>
 
@@ -216,7 +216,7 @@ percent—meaning that more than half of all temporary activity filings in
  Beijing are submitted by repeat CPUs. The other provinces fall
 somewhere between these two.
 
-### What about CPUs’ “Mothers-in-Law”?
+## What about CPUs’ “Mothers-in-Law”?
 
 CPUs
  that are non-profits or foundations often have their own Chinese
@@ -263,7 +263,7 @@ the functional hierarchies that have approved their sponsored
 organizations’ temporary activities with foreign NGOs are scattered and
 varied:
 
-#### Number of Temporary Activities Approved by Chinese Partner Units’ Professional Supervisory Units, by Functional Hierarchy,* March 2017-June 2018
+### Number of Temporary Activities Approved by Chinese Partner Units’ Professional Supervisory Units, by Functional Hierarchy,* March 2017-June 2018
 
 
 <body>
@@ -326,7 +326,7 @@ Group Office of Poverty Alleviation and Development, so we have assigned
  it to that functional hierarchy here.</i>
 
 
-### What Does This Tell Us About CPUs in the First 18 Months of the Foreign NGO Law’s Implementation?
+## What Does This Tell Us About CPUs in the First 18 Months of the Foreign NGO Law’s Implementation?
 
 Looking at China as a whole, non-profits and foundations are the go-to partner organizations for foreign NGOs.
  Non-profits and foundations most frequently serve as CPUs for foreign

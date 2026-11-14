@@ -3,11 +3,11 @@ layout: single
 title:  "Xi Jinping: The Man, the Myth, the Party"
 date:   2016-06-01
 categories: Research&Writing
-tags: [leadership, Xi Jinping, MERICS]
+tags: [Leadership, Xi Jinping]
 classes: wide
 excerpt: "MERICS / 2016-06-01"
+dek: 'Some Western Misunderstandings of Xi Jinping’s Leadership'
 ---
-### Some Western Misunderstandings of Xi Jinping’s Leadership
 
 
 **Originally published as part of MERICS’ edited volume [China’s Core Executive: Leadership styles, structures and processes under Xi Jinping](http://www.merics.org/fileadmin/user_upload/downloads/MPOC/MPOC_ChinasCoreExecutive.pdf)**
@@ -16,10 +16,10 @@ excerpt: "MERICS / 2016-06-01"
 article reflects the personal views of the author and not necessarily
 the views of the U.S. Government or the Department of State.* <br>
 
---- <br>
+<hr class="page__divider">
 
 
-#### Key Findings:
+## Key Findings:
 * Xi
 	Jinping is not the sole or even primary factor causing recent major
 	shifts in the Chinese political landscape. Structural and
@@ -84,7 +84,7 @@ framework for thinking about the future of Chinese politics.
 
 
 
-#### Conventional Wisdom 1 – Xi’s personal agenda has defined China’s policy strategy
+## Conventional Wisdom 1 – Xi’s personal agenda has defined China’s policy strategy
 
 
 The Xi administration started in on its
@@ -173,7 +173,7 @@ difficult to prove how exactly they have shaped the Party’s
 actions. (Miller 2015)
 
 
-#### Conventional Wisdom 2 – Xi is concentrating power to his person and to be wielded in dictatorial fashion
+## Conventional Wisdom 2 – Xi is concentrating power to his person and to be wielded in dictatorial fashion
 
 
 Many observers assert that Xi has drawn the
@@ -252,7 +252,7 @@ affecting personal power concentration.  
 
 
 
-#### Conventional Wisdom 3 – Xi is building a cult of personality
+## Conventional Wisdom 3 – Xi is building a cult of personality
 
 
 Chinese media coverage of Xi Jinping shows
@@ -300,7 +300,7 @@ infer too much about the man based on his media image.  
 
 
 
-#### A Creature of an Embattled System
+## A Creature of an Embattled System
 
 
 Analysis of Xi Jinping’s personal power
@@ -348,8 +348,9 @@ would be a dangerous moment for Party unity and survival, and could
 also portend momentous change for Chinese politics, if not the state.
 
 
---- <br>
-#### References
+<hr>
+
+## References
 
 Miller,
 Alice (2015). “The Trouble with Factions.” <i>China

@@ -3,7 +3,7 @@ layout: single
 title:  "Four More Previously Unlisted Entities Become PSUs"
 date:   2017-06-30
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2017-06-30"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2017-06-30"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Based on [data released on June 28](http://www.chinafile.com/ngo/latest/ministry-of-public-security-logs-more-30-new-representative-offices-its-foreign-ngo), the Ministry of Public Security (MPS) has permitted four additional entities to become Professional Supervisory Units (PSUs) for foreign NGOs. These are:
 * the Ministry of Land and Resources, which sponsored the Hanns Seidel Foundation in Shandong;

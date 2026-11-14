@@ -3,11 +3,11 @@ layout: single
 title:  "Gossip, Guanxi, and Guesswork: Time to Demystify the Chinese Leadership"
 date:   2016-06-23
 categories: Research&Writing
-tags: [Xi Jinping, leadership, MERICS]
+tags: [Xi Jinping, Leadership]
 classes: wide
 excerpt: "MERICS / 2016-06-23"
+dek: 'The dynamics of Chinese politics have changed considerably under Xi Jinping. In [“China’s Core Executive,” the first MERICS Paper on China](http://www.merics.org/en/merics-analysis/papers-on-china/chinas-core-executive-leadership-styles-structures-and-processes-under-xi-jinping/), international China experts examine decision-making structures and processes in Xi’s China. But before we start to debate leadership in China, [Jessica Batke](http://www.merics.org/en/team/fellows/former-visiting-fellows/jessica-batke/) challenges us to check our own frame of reference for analysing Chinese politics and policy.'
 ---
-#### The dynamics of Chinese politics have changed considerably under Xi Jinping. In [“China’s Core Executive,” the first MERICS Paper on China](http://www.merics.org/en/merics-analysis/papers-on-china/chinas-core-executive-leadership-styles-structures-and-processes-under-xi-jinping/), international China experts examine decision-making structures and processes in Xi’s China. But before we start to debate leadership in China, [Jessica Batke](http://www.merics.org/en/team/fellows/former-visiting-fellows/jessica-batke/) challenges us to check our own frame of reference for analysing Chinese politics and policy.
 
 **Originally published on the [MERICS website](https://blog.merics.org/en/blog-post/2016/06/23/gossip-guanxi-and-guesswork-time-to-demystify-the-chinese-leadership/)**
 
@@ -16,7 +16,7 @@ article reflects the personal views of the author and not necessarily
 the views of the U.S. Government or the Department of State.*
 
 
---- <br>
+<hr class="page__divider">
 
 
 
@@ -43,7 +43,7 @@ promotion.  But we should be cautious of discussing all personnel issues
 useful points of comparison with other governments.
 
 
-#### Mao ran a poor country, Xi administers a wealthy nation
+## Mao ran a poor country, Xi administers a wealthy nation
 
 
 A question I’m constantly asking myself is whether contemporary China
@@ -68,7 +68,7 @@ Chinese leaders are directly comparable to those of previous
 generations.
 
 
-#### Public policy trumps personal goals
+## Public policy trumps personal goals
 
 
 The fact that the CCP has so far survived this sometimes-wrenching

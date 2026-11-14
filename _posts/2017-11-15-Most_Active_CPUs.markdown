@@ -3,7 +3,7 @@ layout: single
 title:  "The Most Active Chinese Partners for Temporary Activities as of October 2017"
 date:   2017-11-15
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2017-11-15"
 ---
@@ -12,10 +12,10 @@ excerpt: "The China NGO Project / 2017-11-15"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Though most Chinese Partner Units (CPUs) working with foreign NGOs have only filed for one temporary activity, approximately 18% of CPUs have filed for multiple temporary activities since the beginning of the year. Below, we list the CPUs that have filed for four or more temporary activities in 2017, according to [Ministry of Public Security data](http://ngo.mps.gov.cn/ngo/portal/toInfogs.do?beginDate=&amp;endDate=&amp;pager.offset=0&amp;q=) covering through the end of October, as well as the foreign NGOs with which they worked:
-![active_CPUs](/media/active_CPUs.png)
+![Table of Chinese Partner Units with four or more temporary activities in 2017, and their foreign NGO partners. The top two, a Beichuan disaster-prevention center with Oxfam and the Hunan Charity Federation, have 9 each. Peking University Education Foundation has 7, spread across seven foreign groups.](/media/active_CPUs.png)
 
 Notably, two of these CPUs are in Beichuan County in Sichuan, which was hard-hit by the 2008 Sichuan earthquake; much of the foreign work in this area is related to disaster prevention.
 

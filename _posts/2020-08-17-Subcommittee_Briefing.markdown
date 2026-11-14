@@ -3,7 +3,7 @@ layout: single
 title:  "Joint Subcommittee Briefing on \"China’s Oppression of Muslim Uyghurs in Xinjiang\""
 date:   2020-08-17
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "House Committee on Oversight and Reform / 2020-08-17"
 ---

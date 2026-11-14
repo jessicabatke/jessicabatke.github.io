@@ -3,7 +3,7 @@ layout: single
 title:  "Oral and Written Testimony for CECC Hearing: \"Surveillance, Suppression, and Mass Detention: Xinjiang’s Human Rights Crisis\""
 date:   2018-07-26
 categories: Research&Writing
-tags: [CECC, public remarks, Xinjiang Uyghur Autonomous Region, Uyghurs]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "Congressional-Executive Commission on China / 2018-07-26"
 ---
@@ -42,7 +42,7 @@ iframe.yt {
 
 <br>
 
---- <br>
+<hr class="page__divider">
 
 *The opinions and characterizations in this
 	testimony are those of the author, and do not necessarily represent
@@ -81,7 +81,7 @@ cultural practices, and ethnic identity. This includes holding
 individuals within the Chinese Party-state personally and directly
 responsible for the policies being enacted in Xinjiang.
 
-### The Worsening Situation in Xinjiang
+## The Worsening Situation in Xinjiang
 
 The
 Party-state’s policies related to Xinjiang have become startlingly
@@ -181,7 +181,7 @@ international legal expertise, to think about the full scope and
 nature of PRC policies in Xinjiang and consider whether we should
 take them as an early warning signal of something much worse.
 
-### How Does Xinjiang’s Current Leadership Fit in to the Broader Pattern of State-Led Repression in the Region?
+## How Does Xinjiang’s Current Leadership Fit in to the Broader Pattern of State-Led Repression in the Region?
 
 Though
 as a rule we have very little insight into top CCP leadership
@@ -271,7 +271,7 @@ guidance on Xinjiang policy.
 	Small Group, an indication of the importance the central leadership
 	accords Xinjiang-related issues.
 
-### The Impact Beyond Xinjiang
+## The Impact Beyond Xinjiang
 
 There
 are a number of ways in which Beijing’s policies toward Xinjiang
@@ -317,7 +317,7 @@ allows Beijing to limit factual discussion of the conditions in
 Xinjiang, even among non-citizens and even on foreign soil, often
 without having to directly intervene.
 
-### Policy Recommendations
+## Policy Recommendations
 
 It
 is a mistake to think that staying silent on human rights in China is
@@ -409,10 +409,10 @@ urge Congress and the Administration to:
 Thank
 you for your time. I welcome your questions.
 
---- <br>
+<hr>
 
 
-#### Notes
+### Notes
 
 
 [<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a>

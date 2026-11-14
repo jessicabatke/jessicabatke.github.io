@@ -3,7 +3,7 @@ layout: single
 title:  "China’s Systematic Persecution of Uyghurs"
 date:   2020-03-05
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "United States Holocaust Memorial Museum / 2020-03-05"
 ---

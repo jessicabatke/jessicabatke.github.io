@@ -3,7 +3,7 @@ layout: single
 title:  "Has the Foreign NGO Law Changed the Work of Foreign NGOs in China?"
 date:   2018-01-10
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2018-01-10"
 ---
@@ -14,7 +14,7 @@ excerpt: "The China NGO Project / 2018-01-10"
 
 
 
---- <br>
+<hr class="page__divider">
 
 The advent of the Foreign NGO Law in January left
 many wondering what it portended for foreign NGOs’ work China. How many
@@ -270,7 +270,7 @@ travel to Tibet don’t hinder NGOs from applying to work there in the
 first place.
 
 
-#### Methodology Notes
+## Methodology Notes
 
 Using both the [Chinese](http://www.chinadevelopmentbrief.org.cn/directindex.html)- and [English](http://chinadevelopmentbrief.cn/directory/)-language
  versions of the CDB directory (there is some overlap between the two,

@@ -3,7 +3,7 @@ layout: single
 title:  "Where Are Representative Offices Actually Allowed to Work?"
 date:   2018-12-07
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2018-12-07"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2018-12-07"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Since mid-2017, The China NGO Project has [mapped](http://www.chinafile.com/ngo/analysis/visually-understanding-data-foreign-ngo-representative-offices-and-temporary-activities) the location of registered foreign NGO representative offices in China (as listed on the Ministry of Public Security [website](http://ngo.mps.gov.cn/ngo/portal/toInfogs.do?beginDate=&amp;endDate=&amp;pager.offset=0&amp;q=)). Not surprisingly, the majority of offices are located in either Beijing or Shanghai. These maps, however, only show the provinces where each office is located—they do not show where each office is permitted to operate, which can (but does not have to) extend beyond the province of registration. Using registration information through the end of November, The China NGO Project has now put this information into map and chart form, allowing for an easy comparison with the distribution of representative office locations:
 

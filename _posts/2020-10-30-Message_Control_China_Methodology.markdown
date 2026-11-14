@@ -3,9 +3,12 @@ layout: single
 title:  "Message Control (Methodology)"
 date:   2020-12-20
 categories: Research&Writing
-tags: [ChinaFile, surveillance]
+tags: [Surveillance, Propaganda, Censorship, Internet]
 classes: wide
 excerpt: "ChinaFile / 2020-12-20"
+# Shown indented under its main piece on the Research / Writing page
+part_of: "/research&writing/Message_Control_China_main/"
+part_order: 2
 ---
 **By Mareike Ohlberg and Jessica Batke**
 
@@ -14,7 +17,7 @@ excerpt: "ChinaFile / 2020-12-20"
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class="dropcap">ChinaFile’s research for “<a href="https://www.chinafile.com/node/52881" target="_blank">Message Control: How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’</a>” relied primarily on a dataset comprising some 3,100 procurement notices that central and local government offices posted for goods and services related to public opinion monitoring. This article explains how we arrived at that dataset—how we selected notices for inclusion, as well as how we processed and sifted through them in order to draw analytical conclusions.</p>
 

@@ -31,6 +31,6 @@ feature_row1:
 # id="feature_row1" type="center"
 ---
 
-{% include feature_row id="intro"%}
+{% feature_row intro %}
 
-{% include feature_row id="feature_row1" type="right"  %}
+{% feature_row feature_row1 "right" %}

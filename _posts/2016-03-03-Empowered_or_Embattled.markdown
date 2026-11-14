@@ -3,11 +3,11 @@ layout: single
 title:  "Empowered or Embattled? We Don’t Know What Hexin Means for Xi Jinping"
 date:   2016-03-03
 categories: Research&Writing
-tags: [leadership, Xi Jinping, MERICS]
+tags: [Leadership, Xi Jinping]
 classes: wide
 excerpt: "MERICS / 2016-03-03"
+dek: 'Like many other fragments of information that trickle out of the black box of China’s leadership, the new usage of the term “hexin” could mean several different—opposing—things.'
 ---
-### Like many other fragments of information that trickle out of the black box of China’s leadership, the new usage of the term “hexin” could mean several different—opposing—things.
 
 
 **Originally published on the [MERICS website](https://blog.merics.org/en/blog-post/2016/03/03/empowered-or-embattled-we-dont-know-what-hexin-means-for-xi-jinping/).**
@@ -20,10 +20,10 @@ of State.*
 
 
 
---- <br>
+<hr class="page__divider">
 
 
-#### A new turn of phrase &hellip;
+## A new turn of phrase &hellip;
 
 A sudden, novel use of the term “核心” (*hexin*,
  or “core” in English) to describe General Secretary Xi Jinping
@@ -41,12 +41,12 @@ phrase was coordinated in some fashion, since it was repeated verbatim
 in a rapid succession of a large number of sub-national meetings. But
 it remains unclear where exactly—or why—the phrase was generated. <br/>
 
-![empowered1](/media/empowered1.png)
+![Table comparing two phrasings, in Chinese and English. Previous use: ‘the Central Committee with Comrade … as the core.’ New 2016 use: ‘Resolutely safeguard the core, General Secretary Xi Jinping.’](/media/empowered1.png)
 <br>
 <br>
 
 
-#### &hellip; and several ways to interpret it
+## &hellip; and several ways to interpret it
 
 
 Beijing does not generally introduce such shifts in phrasing
@@ -93,7 +93,7 @@ authoritative PRC media still use that same phrase to describe Xi.
 
 
 **Leadership descriptions in Party-affiliated media**
-![empowered2](/media/empowered2.png)<br/>
+![Table of common and less common Party-media phrases for the leadership in the Jiang, Hu and Xi eras. ‘Core’ is common under Jiang. Under Hu and Xi the common phrase is ‘with Comrade … as General Secretary.’ ‘Comrade Xi Jinping as the core’ appears only as a less common Xi-era phrase.](/media/empowered2.png)<br/>
 \**These turns of phrase were also used retroactively to describe Mao and
 Deng and continued to be used for these three leaders during Hu&rsquo;s
 tenure.*

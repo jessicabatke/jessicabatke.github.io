@@ -3,7 +3,7 @@ layout: single
 title:  "What Satellite Images Can Show Us about ‘Re-education’ Camps in Xinjiang: A Q&A with Shawn Zhang"
 date:   2018-08-23
 categories: Research&Writing
-tags: [ChinaFile, Xinjiang Uyghur Autonomous Region, Uyghurs]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2018-08-23"
 
@@ -12,7 +12,7 @@ excerpt: "ChinaFile / 2018-08-23"
 **This article originally appeared on [ChinaFile](http://www.chinafile.com/reporting-opinion/features/what-satellite-images-can-show-us-about-re-education-camps-xinjiang).**
 
 
---- <br>
+<hr class="page__divider">
 
 The government of the Xinjiang Uighur Autonomous Region, located in China’s northwest near Kazakhstan, Kyrgyzstan, and other Central Asian countries, is holding ethnic Muslims en masse in detention facilities the Chinese government euphemistically calls “[transformation through education centers](http://www.chinafile.com/reporting-opinion/features/central-and-regional-leadership-xinjiang-policy-xis-second-term).” We know this from a year-long trickle of [news reporting](https://www.rfa.org/english/news/uyghur/training-camps-09112017154343.html) from Xinjiang: from citizens [bearing witness](https://www.rfa.org/english/news/uyghur/camps-01032018155622.html) to Radio Free Asia about [what they’re seeing](https://www.rfa.org/english/news/uyghur/orphanages-07022018143057.html) firsthand, from [international reporters](https://www.wsj.com/articles/twelve-days-in-xinjiang-how-chinas-surveillance-state-overwhelms-daily-life-1513700355) doggedly traveling throughout the region despite heavy surveillance and [intimidation](https://www.usatoday.com/story/news/world/2017/12/17/surveillance-cams-face-scans-help-china-make-thousands-vanish/959047001/) from security personnel, from [released detainees](https://www.apnews.com/6e151296fb194f85ba69a8babd972e4b/China%27s-mass-indoctrination-camps-evoke-Cultural-Revolution) describing their [experiences](https://foreignpolicy.com/2018/02/28/a-summer-vacation-in-chinas-muslim-gulag/) in these camps, and from [reports](https://www.buzzfeednews.com/article/meghara/china-uighur-spies-surveillance) from [relatives](https://www.thedailybeast.com/chinese-police-are-spying-on-uighurson-american-soil) of those detained who are also coming under Chinese government pressure, as well as from more scholarly analyses looking at [government procurement bids](https://jamestown.org/program/evidence-for-chinas-political-re-education-campaign-in-xinjiang/), [public security hiring](https://jamestown.org/program/xinjiangs-rapidly-evolving-security-state/), and [regional security spending](https://jamestown.org/program/chinas-domestic-security-spending-analysis-available-data/) that reveal the scope and scale of the Party-state’s mobilization of resources to establish these camps.
 
@@ -52,7 +52,7 @@ You can also see the difference between prisons and other buildings because pris
 
 Most re-education camps have less security than detention centers and prisons, but we can see razor wire fences inside the camps [for example, in [Kona Sheher (Shufu)](https://medium.com/@shawnwzhang/satellite-imagery-of-xinjiang-re-education-camp-%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E9%9B%86%E4%B8%AD%E8%90%A5%E5%8D%AB%E6%98%9F%E5%9B%BE-96691b1a0d62) and [Peyzawat (Jiashi)](https://medium.com/@shawnwzhang/satellite-imagery-of-xinjiang-re-education-camp-28-%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E9%9B%86%E4%B8%AD%E8%90%A5%E5%8D%AB%E6%98%9F%E5%9B%BE-28-1b5ea249494b) Counties]. And some camps also have watchtowers. Many public buildings also have razor wire fences on the outermost walls of their compounds, but they don’t tend to have razor wire fences around the buildings inside the compounds. But in the re-education camps, many of the buildings inside the compounds are surrounded by razor wire fences. This is a feature you can use to distinguish re-education camps from other buildings. For example, many vocational schools in Xinjiang have been turned into re-education camps. In satellite images from two or three years ago, there are no razor wire fences inside the campuses, but now we can see lots of razor wire fences surrounding the buildings of the vocational schools. The razor wire fences suggest that these vocational schools have been turned into re-education camps.
 
-![fences_and_watch_tower](/media/fences-and-watch-tower.jpg)
+![Close-up satellite view of a compound beside a building, with yellow boxes marking a line of razor wire fences and a watchtower.](/media/fences-and-watch-tower.jpg)
 
 *Satellite image of a re-education camp in Kona Sheher (Shufu) county, Xinjiang Uighur Autonomous Region. (Image courtesy of Google Earth)*
 
@@ -111,7 +111,7 @@ I hope my work shows the scale of the detention camps in Xinjiang. It’s a lot 
 
 <br>
 
-![tender_notice](/media/tender_notice.png)
+![Screenshot of a Chinese-language ‘Design Tender Notice’ (设计招标公告), dated 2017-04-26 in Xinjiang Economic News. It solicits bids for a Shufu County legal transformation-through-education school.](/media/tender_notice.png)
 
 
 >Solicitation of Bids for Construction Design<br />April 26, 2017<br />Xinjiang Economic News
@@ -120,10 +120,10 @@ I hope my work shows the scale of the detention camps in Xinjiang. It’s a lot 
 >
 >Scope: New construction, 26,855 square meters, legal education through transformation school; construction to enlarge existing structure, 35,000 square meters, meant to configure relevant facilities and supplement existing facilities to form a complete set.
 >
-Address: Yishenlaimuqi Road (behind the new detention center), industrial zone public housing district, security company, Bulakesu Village old police substation, old county detention center, New District Community, Party School Training Center.<br />Investment approximately 140 million renminbi.
+>Address: Yishenlaimuqi Road (behind the new detention center), industrial zone public housing district, security company, Bulakesu Village old police substation, old county detention center, New District Community, Party School Training Center.<br />Investment approximately 140 million renminbi.
 >
-To design a section of this construction project, one must possess a construction project design certification grade B or higher; the project manager must have level two or higher registered architect professional certification.<br />All those wishing to participate in the bidding process should refer to the registration information provided on [http://www.xjsfzb.com](http://www.xjsfzb.com/).
+>To design a section of this construction project, one must possess a construction project design certification grade B or higher; the project manager must have level two or higher registered architect professional certification.<br />All those wishing to participate in the bidding process should refer to the registration information provided on [http://www.xjsfzb.com](http://www.xjsfzb.com/).
 >
-Work unit responsible for construction: Shufu County Bureau of Justice
+>Work unit responsible for construction: Shufu County Bureau of Justice
 >
-Party responsible for receiving bids: Xinjiang Xinjianlian Project Management Information Ltd., Kashgar No. 1 Branch<br />Contact person: Zhao Feibao<br />Contact telephone: 18799552304<br />Supervising unit: Shufu County Construction Project Bid Solicitation and Receipt Management Office<br />Supervisor telephone: 0998-3252959
+>Party responsible for receiving bids: Xinjiang Xinjianlian Project Management Information Ltd., Kashgar No. 1 Branch<br />Contact person: Zhao Feibao<br />Contact telephone: 18799552304<br />Supervising unit: Shufu County Construction Project Bid Solicitation and Receipt Management Office<br />Supervisor telephone: 0998-3252959

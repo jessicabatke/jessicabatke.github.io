@@ -61,9 +61,9 @@ gallery1:
 <em>[Everybody Is Gone](https://www.everybodyisgone.org/)</em> is an innovative live event that provides audiences with a unique perspective on the ongoing crisis in the Uyghur Homeland. Uniting elements of journalism, live performance, and museum exhibition, the immersive event offers audiences the opportunity to deeply and personally understand the impact of the state-backed surveillance and oppression that affect millions.
 
 
---- <br>
+<hr class="page__divider">
 
 #### Alte Muenze, Berlin
 
-{% include gallery id="gallery1" %}
+{% gallery gallery1 %}
 *Photos courtesy Everybody is Gone/The New Wild*

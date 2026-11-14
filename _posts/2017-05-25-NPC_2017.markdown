@@ -3,7 +3,7 @@ layout: single
 title:  "The National People’s Congress in 2017: Security, Ideology, and Experimentation"
 date:   2017-05-25
 categories: Research&Writing
-tags: [leadership, China Leadership Monitor, National People's Congress]
+tags: [Leadership]
 classes: wide
 excerpt: "China Leadership Monitor / 2017-05-25"
 ---
@@ -27,7 +27,7 @@ characterizations in this paper are those of the author, and do not
 necessarily represent official positions of the United States
 Government.*<br/>
 
---- <br>
+<hr class="page__divider">
 
 
 The Fifth Plenary Session of the 12th National People’s Congress
@@ -68,7 +68,7 @@ national security issues, fields that touch on ideology and national
 narratives, as well as central-level legal coordination of local pilot reform
 efforts.[<sup>6</sup>](#sdendnote6sym)<a class="anchor" id="sdendnote6anc"></a>
 
-#### Elevated—and Expansive—Security Concerns
+## Elevated—and Expansive—Security Concerns
 
 For the second year in a row, national security concerns are
 front and center in the NPCSC work report.  This is especially conspicuous
@@ -94,7 +94,7 @@ NGOs are viewed by Chinese leaders.
 Legislation Related to National Security, 10<sup>th</sup>–12th National People’s
 Congresses***
 
-![NPC_0](/media/NPC_0.png)
+![Table of national security laws and planned legislation in the 10th–12th NPCs, with English and Chinese titles and status. The 12th NPC has far more entries, passing the Counter-Espionage, National Security, Counter-Terrorism, Foreign NGO and Cybersecurity laws in 2014–2016.](/media/NPC_0.png)
 
 
 *Note: The 10<sup>th</sup> NPC ran from March
@@ -102,12 +102,12 @@ Congresses***
 12<sup>th</sup> began in March 2013 and will run until March 2018.*
 
 *Source: This chart draws its information from the Chinese- and
-English-language NPC legislative plans as posted by the *NPC Observer* ([https://npcobserver.com/](https://npcobserver.com/))*.*
+English-language NPC legislative plans as posted by the NPC Observer ([https://npcobserver.com/](https://npcobserver.com/)).*
 
 <br>
 
 
-#### Shoring Up Educational and Cultural Bulwarks
+## Shoring Up Educational and Cultural Bulwarks
 
 Recent years have also seen an increase in legislation
 related to cultural and educational issues.  As other observers have pointed
@@ -145,7 +145,7 @@ Congresses.
 ***Table 2. Laws and Planned Legislation Related to Culture and
 Education, 10<sup>th</sup>–12th National People’s Congresses***
 
-![NPC_1](/media/NPC_1.png)
+![Table of culture and education laws and planned legislation in the 10th–12th NPCs, with English and Chinese titles and status. The 12th NPC has the most entries, passing laws such as the Higher Education, Film Industry Promotion and Chinese Medicine laws in 2015–2016.](/media/NPC_1.png)
 
 *Note: The 10<sup>th</sup> NPC ran from March
 2003 to March 2008, the 11<sup>th</sup> from March 2008 to March 2013, and the
@@ -156,7 +156,7 @@ English-language NPC legislative plans as posted by the *NPC Observer* ([https:/
 
 <br>
 
-#### Heroes, Holidays, and the Constitution
+## Heroes, Holidays, and the Constitution
 
 Hand in hand with resisting baneful foreign ideological
 influences go the PRC’s efforts to construct its own positive and appealing
@@ -191,7 +191,7 @@ the Constitution.”  This effort almost
 certainly has another function, and that is to put on public display the CCP’s
 commitment to continuing to mold China into a “rule of law country.”
 
-#### The NPCSC Weighs In on Pilot Reforms
+## The NPCSC Weighs In on Pilot Reforms
 
 Over the past few years, the NPCSC appears to have taken on
 a more active role in the authorization of pilot reform projects (试点).  Local policy
@@ -275,7 +275,7 @@ appears to be the first step in combining the authorities of multiple
 anti-corruption organs, including the Central Commission for Discipline
 Inspection, which will then be subject to NPC oversight.[<sup>21</sup>](#sdendnote21sym)<a class="anchor" id="sdendnote21anc"></a>
 
-#### Looking forward to the Final Year of the 12th NPC
+## Looking forward to the Final Year of the 12th NPC
 
 The 2017 Work Report lays out what the NPCSC plans to
 accomplish in its final year, before the 13th NPC is inaugurated next spring.
@@ -310,10 +310,10 @@ meaningful and signals that Chinese leaders are still seeking ways to realign
 local officials’ priorities and bolster citizens’ sense that they do indeed live
 in a “rule of law country.”
 
---- <br>
+<hr>
 
 
-#### Notes
+## Notes
 
 [<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a> “China NPC 2017: The Reports,” <i>Wall
 Street Journal China Real Time Report</i>, March 5, 2017, [http://blogs.wsj.com/chinarealtime/2017/03/05/china-npc-2017-the-reports/](http://blogs.wsj.com/chinarealtime/2017/03/05/china-npc-2017-the-reports/).

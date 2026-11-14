@@ -3,19 +3,17 @@ layout: single
 title:  "Planting the Flag in Mosques and Monasteries"
 date:   2022-12-13
 categories: Research&Writing
-tags: [ChinaFile, governance, surveillance, Tibet]
+tags: [Governance, Surveillance, Tibet, Religion]
 classes: wide
 excerpt: "ChinaFile / 2022-12-13"
 
 ---
-**By Jessica Batke**
-
 
 **This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/notes-chinafile/planting-flag-mosques-and-monasteries).**
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p>Over the last few years, the Chinese Communist Party has physically remade places of religious worship in western China to its liking. This includes not only the Xinjiang Uyghur Autonomous Region, but also other areas with mosques or Tibetan Buddhist temples and monasteries. Eight Chinese government procurement notices, issued between 2018 and 2021, show local officials seeking to sinify religious sites in Gansu, Qinghai, and Sichuan provinces, as well as in the Ningxia Hui Autonomous Region.</p>
 

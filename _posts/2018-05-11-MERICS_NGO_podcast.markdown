@@ -3,7 +3,7 @@ layout: single
 title:  "Jessica Batke: Small NGOs Particularly Vulnerable under New NGO Law"
 date:   2018-05-11
 categories: Research&Writing
-tags: [Foreign NGO Law, public remarks, MERICS]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "MERICS / 2018-05-11"
 ---

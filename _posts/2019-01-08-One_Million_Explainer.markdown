@@ -3,7 +3,7 @@ layout: single
 title:  "Where Did the One Million Figure for Detentions in Xinjiang’s Camps Come From? An Explainer"
 date:   2019-01-08
 categories: Research&Writing
-tags: [ChinaFile, Xinjiang Uyghur Autonomous Region, Uyghurs]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2019-01-08"
 
@@ -13,7 +13,7 @@ excerpt: "ChinaFile / 2019-01-08"
 
 
 
---- <br>
+<hr class="page__divider">
 
 As journalists and scholars have reported in recent months on the campaign of religious and cultural repression and incarceration taking place in the Chinese region of Xinjiang, a central question has emerged: How many people has China’s government detained as part of the campaign? In the absence of officially reported numbers or other hard evidence, researchers of various stripes have converged on the figure of one million as a common estimate of the people the Chinese government is detaining in Xinjiang’s camps.
 

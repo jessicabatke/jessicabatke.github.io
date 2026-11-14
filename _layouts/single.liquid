@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{% include "page-hero.liquid" %}
+<div id="main" role="main">
+  {%- if author_profile or author %}
+  {% include "author-profile.liquid" %}
+  {%- endif %}
+  <article class="page{% if is_post %} page--post{% endif %}" itemscope itemtype="https://schema.org/CreativeWork">
+    {%- if title %}<meta itemprop="headline" content="{{ title | strip_html | escape }}">{% endif %}
+    {%- if excerpt %}<meta itemprop="description" content="{{ excerpt | strip_html | escape }}">{% endif %}
+    {%- if is_post %}<meta itemprop="datePublished" content="{{ page.date | date: '%B %d, %Y' }}">{% endif %}
+    <div class="page__inner-wrap">
+      {%- unless header.overlay_image or header.overlay_color %}
+      <header>
+        <h1 id="page-title" class="page__title" itemprop="headline">{{ title | markdownifyInline }}</h1>
+        {%- if dek %}
+        <p class="page__dek">{{ dek | markdownifyInline }}</p>
+        {%- endif %}
+        {%- if is_post %}
+        <p class="page__date"><time datetime="{{ page.date | isoDate }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+        {%- endif %}
+      </header>
+      {%- endunless %}
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+      <footer class="page__meta">
+        {%- if is_post and tags.size > 0 %}
+        <p class="page__taxonomy">
+          <strong>{{ "tag" | icon }} Tags: </strong>
+          <span itemprop="keywords">
+          {%- assign sorted_tags = tags | sortTags %}
+          {%- for tag in sorted_tags %}
+            <a href="/tags/#{{ tag | slug }}" class="page__taxonomy-item" rel="tag">{{ tag }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+          {%- endfor %}
+          </span>
+        </p>
+        {%- endif %}
+      </footer>
+      {%- if is_post %}
+      {%- assign prev_post = collections.posts | getPreviousCollectionItem %}
+      {%- assign next_post = collections.posts | getNextCollectionItem %}
+      <nav class="post-pager" aria-label="More articles">
+        {%- if prev_post %}
+        <a class="post-pager__link post-pager__prev" href="{{ prev_post.url }}"><span class="post-pager__label">← Previous</span><span class="post-pager__title">{{ prev_post.data.title | markdownifyInline }}</span></a>
+        {%- endif %}
+        {%- if next_post %}
+        <a class="post-pager__link post-pager__next" href="{{ next_post.url }}"><span class="post-pager__label">Next →</span><span class="post-pager__title">{{ next_post.data.title | markdownifyInline }}</span></a>
+        {%- endif %}
+      </nav>
+      {%- endif %}
+    </div>
+  </article>
+</div>

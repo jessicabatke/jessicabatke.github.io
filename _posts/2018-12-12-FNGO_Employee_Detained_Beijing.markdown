@@ -3,16 +3,16 @@ layout: single
 title:  "Foreign NGO Employee Detained in Beijing"
 date:   2018-12-12
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2018-12-12"
+dek: 'Ministry of Foreign Affairs Suggests Michael Kovrig of International Crisis Group Detained under Foreign NGO Law'
 ---
 
-#### Ministry of Foreign Affairs Suggests Michael Kovrig of International Crisis Group Detained under Foreign NGO Law
 
 **This article originally appeared on ChinaFile’s [The China NGO Project](http://www.chinafile.com/ngo/latest/foreign-ngo-employee-detained-beijing).**
 
---- <br>
+<hr class="page__divider">
 
 <p>On Monday night, Chinese authorities <a href="https://www.reuters.com/article/us-china-icg-ministry/china-says-detained-canadian-may-have-broken-foreign-ngo-law-idUSKBN1OB0IT" target="_blank" rel="nofollow">detained</a> Michael Kovrig of the Brussels-based non-profit <a href="https://www.crisisgroup.org/" target="_blank" rel="nofollow">International Crisis Group</a> (ICG) in Beijing. On Wednesday, the Ministry of Foreign Affairs <a href="https://www.nytimes.com/2018/12/12/world/asia/china-michael-kovrig-detained.html" target="_blank" rel="nofollow">suggested</a>—though did not definitively state—that Kovrig may have been detained under the auspices of the <a href="http://www.chinafile.com/ngo/laws-regulations/law-of-peoples-republic-of-china-administration-of-activities-of-overseas" target="_blank" rel="nofollow">Foreign NGO Law</a>.</p>
 <p>Kovrig is a former Canadian diplomat. His detention follows on the heels of <a href="https://www.cbc.ca/news/canada/british-columbia/huawei-meng-wanzhou-bail-hearing-vancouver-1.4940849" target="_blank" rel="nofollow">Canada’s arrest</a> of Meng Wanzhou, a Chinese citizen and Chief Financial Officer of Chinese technology firm Huawei, for possible extradition to the U.S. Though Beijing has not made an explicit connection between Meng’s and Kovrig’s cases, several observers have <a href="https://www.washingtonpost.com/world/the_americas/former-canadian-diplomat-reportedly-arrested-in-china/2018/12/11/9d3e25cc-fd54-11e8-a17e-162b712e8fc2_story.html?utm_term=.1ab73806ba6c" target="_blank" rel="nofollow">posited</a> that Kovrig’s detention is retaliation for Meng’s arrest.</p>

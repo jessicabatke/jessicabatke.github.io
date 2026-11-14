@@ -1,0 +1,12 @@
+<div id="footer" class="page__footer">
+  <footer>
+    <div class="page__footer-follow">
+      <ul class="social-icons">
+        {%- for link in site.footer_links %}{% if link.url %}
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {%- endif %}{% endfor %}
+      </ul>
+    </div>
+    <div class="page__footer-copyright">&copy; {% year %} {{ site.author.name }}. Powered by <a href="https://www.11ty.dev/" rel="nofollow">Eleventy</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+  </footer>
+</div>

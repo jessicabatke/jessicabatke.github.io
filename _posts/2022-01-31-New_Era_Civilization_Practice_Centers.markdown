@@ -3,21 +3,19 @@ layout: single
 title:  "A Vast Network of ‘New Era Civilization Practice Centers’ Is Beijing’s Latest Bid to Reclaim Hearts and Minds’"
 date:   2022-01-31
 categories: Research&Writing
-tags: [ChinaFile, surveillance, propaganda, leadership]
+tags: [Surveillance, Propaganda, Leadership]
 classes: wide
 excerpt: "ChinaFile / 2022-01-31"
 header:
   image: /media/engage_at_final.jpg
   caption: "Image credit: [**Steven Weinberg**](http://www.stevenweinbergstudio.com/) for [**ChinaFile**](https://www.chinafile.com/)"
 ---
-**By Jessica Batke**
-
 
 **This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/vast-network-of-new-era-civilization-practice-centers-beijings-latest-bid). The text below does not include the primary sources and translations that are part of the full article.**
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class=dropcap>In a rural county in southern China, more than <a href="https://archive.md/8V6Wg" target="_blank">ten thousand volunteers</a>, scattered across mountain villages and rice paddies, are out gathering local folk songs. Their charge: to bring back paeans to “the new era and new thought” at the heart of General Secretary Xi Jinping’s vision for China’s political future.</p>
 

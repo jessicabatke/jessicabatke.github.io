@@ -3,9 +3,12 @@ layout: single
 title:  "Message Control (Key Takeaways)"
 date:   2020-12-20
 categories: Research&Writing
-tags: [ChinaFile, surveillance]
+tags: [Surveillance, Propaganda, Censorship, Internet]
 classes: wide
 excerpt: "ChinaFile / 2020-12-20"
+# Shown indented under its main piece on the Research / Writing page
+part_of: "/research&writing/Message_Control_China_main/"
+part_order: 1
 ---
 **By Mareike Ohlberg and Jessica Batke**
 
@@ -14,11 +17,11 @@ excerpt: "ChinaFile / 2020-12-20"
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class="dropcap"><a href="https://www.chinafile.com/node/52881" target="_blank">Message Control: How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’</a>,” a new report from ChinaFile, relies on an analysis of some 3,100 publicly available Chinese government procurement notices related to purchases of products and services to help officials monitor and control public opinion across China between January 2007 and late August 2020.</p>
 
-<h3>Key Takeaways:</h3>
+<h2>Key Takeaways:</h2>
 
 <p><strong>For-profit companies actively assist the Chinese Communist Party as it works to eliminate one of the main threats to its survival, namely, the thoughts and feelings China’s citizens express about their government.</strong></p>
 

@@ -3,7 +3,7 @@ layout: single
 title:  "Shanghai Labor Union Preventing “Enemy Infiltration” along with Managing Foreign NGOs"
 date:   2018-09-07
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law, Economy & Labor]
 classes: wide
 excerpt: "The China NGO Project / 2018-09-07"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2018-09-07"
 
 
 
---- <br>
+<hr class="page__divider">
 
 In an [official document](http://www.shzgh.org/renda/node5902/node5911/node6581/u1ai6216442.html)
  dated late July, the Shanghai Federation of Trade Unions, the city’s

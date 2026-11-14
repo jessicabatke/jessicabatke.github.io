@@ -3,7 +3,7 @@ layout: single
 title:  "ChinaFile Presents: The Situation in Xinjiang"
 date:   2018-10-29
 categories: Research&Writing
-tags: [ChinaFile, Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "Asia Society / 2018-10-29"
 ---

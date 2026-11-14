@@ -3,7 +3,7 @@ layout: single
 title:  "Chinese Civil Society in 2018: What’s Ahead?"
 date:   2018-01-29
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law, public remarks]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "Asia Society / 2018-01-29"
 ---

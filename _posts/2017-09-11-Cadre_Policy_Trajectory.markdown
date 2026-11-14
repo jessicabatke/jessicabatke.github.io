@@ -3,7 +3,7 @@ layout: single
 title:  "A Cadre by Any Other Name Would Smell As Sweet? Domestic Policy Trajectory after the 19th Party Congress"
 date:   2017-09-11
 categories: Research&Writing
-tags: [leadership, China Leadership Monitor, 19th Party Congress]
+tags: [Leadership, 19th Party Congress]
 classes: wide
 excerpt: "China Leadership Monitor / 2017-09-11"
 
@@ -15,9 +15,9 @@ excerpt: "China Leadership Monitor / 2017-09-11"
 
 *The opinions and characterizations in this paper are those of the author, and do not necessarily represent official positions of the United States Government.*<br/>
 
---- <br>
+<hr class="page__divider">
 
-#### Farewell [Insert Name Here], We Hardly Knew Ye
+## Farewell [Insert Name Here], We Hardly Knew Ye
 
 The
 Chinese Communist Party (CCP) and observers around the globe are
@@ -106,7 +106,7 @@ to the more “abstract, elusive” idea of ideas, what are the
 domestic policy through-lines we can expect to see in the next five
 years, regardless of who sits on the PBSC?
 
-#### Mystery Men and Policy Priorities
+## Mystery Men and Policy Priorities
 
 We
 are left to divine likely policy choices through the CCP’s past
@@ -337,7 +337,7 @@ centers of popular power that could potentially undermine the CCP.
 This was likely a major component of the drive to silence “Big V’s”
 on Sina Weibo back in 2013.[<sup>22</sup>](#sdendnote22sym)<a class="anchor" id="sdendnote22anc"></a>
 
-#### Governing in the Land of the High-Hanging Fruit
+## Governing in the Land of the High-Hanging Fruit
 
 The
 agenda laid out in Hu Jintao’s report to the 18th Party Congress,
@@ -382,9 +382,9 @@ down to the same thing: the CCP just needs to keep *enough*
 of the people happy *enough*
 of the time.
 
---- <br>
+<hr>
 
-#### Notes
+## Notes
 
 
 [<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a>“孙政才同志涉嫌严重违纪

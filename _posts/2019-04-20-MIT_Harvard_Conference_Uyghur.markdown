@@ -3,7 +3,7 @@ layout: single
 title:  "MIT-Harvard Conference on the Uyghur Human Rights Crisis"
 date:   2019-04-20
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "MIT / 2019-04-20"
 ---

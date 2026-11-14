@@ -3,7 +3,7 @@ layout: single
 title:  "Is This the Last Dalai Lama?"
 date:   2019-03-15
 categories: Research&Writing
-tags: [ChinaFile, Tibet, Dalai Lama]
+tags: [Tibet, Religion]
 classes: wide
 excerpt: "ChinaFile / 2019-03-15"
 ---
@@ -13,7 +13,7 @@ excerpt: "ChinaFile / 2019-03-15"
 
 *The opinions and characterizations in this paper are those of the author, and do not necessarily represent official positions of the United States Government.*
 
---- <br>
+<hr class="page__divider">
 
 This month marks the [60th anniversary](https://www.kcentv.com/article/news/nation-world/60-years-after-dalai-lama-fled-china-defends-its-rule-over-tibet/507-e7b9a9ed-46b4-4c27-87b5-df0222588926?utm_campaign=trueAnthem:+Trending+Content&amp;utm_content=5c852eaa00bd47000112ed40&amp;utm_medium=trueAnthem&amp;utm_source=twitter) of the Dalai Lama’s flight from Tibet. His departure [exposed the rift](https://www.theguardian.com/world/2019/mar/10/they-took-everyone-from-me-anger-lingers-60-years-after-tibet-crackdown?CMP=soc_568) between the Tibetan faithful and the Chinese Communist Party (C.C.P.), one which has not closed in the six decades since—and which threatens to become even deeper once the current Dalai Lama, 83-year-old Tenzin Gyatso, passes on.
 

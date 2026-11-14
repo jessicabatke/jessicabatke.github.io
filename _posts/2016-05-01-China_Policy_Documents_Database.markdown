@@ -3,15 +3,15 @@ layout: single
 title:  "China Policy Document Database"
 date:   2016-05-31
 categories: Research&Writing
-tags: [MERICS, leadership, transparency]
+tags: [Leadership, Transparency]
 classes: wide
-excerpt: "2016-05-31"
+excerpt: "GitHub / 2016-05-31"
 ---
 
 
 
 
---- <br>
+<hr class="page__divider">
 
 This is a spreadsheet containing high-level Chinese policy documents (中发, 中办发, 国发, and 国办发) from the beginning of the first Hu administration (November 2002) through May 2016. Please see the notes at bottom for more information about how we considered sourcing when choosing which documents to include.
 

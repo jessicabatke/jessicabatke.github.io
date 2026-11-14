@@ -3,7 +3,7 @@ layout: single
 title:  "Granting Money to an Individual under the Foreign NGO Law: A Thought Experiment"
 date:   2017-06-09
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2017-06-09"
 ---
@@ -14,7 +14,7 @@ excerpt: "The China NGO Project / 2017-06-09"
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class="dropcap">Despite the Foreign NGO Law’s taking effect on January 1 of this year, quite a number of questions regarding the law’s contents remain unanswered. Lawyers, scholars, and foreign NGOs themselves all face uncertainty as they try to understand how specific operational situations do or do not fall under the scope of the law.</p>
 <p>Beneath these technical concerns, however, lie deeper questions about the global reach of Chinese domestic law. The point can be illustrated with a simple thought experiment related to the Foreign NGO Law:</p>

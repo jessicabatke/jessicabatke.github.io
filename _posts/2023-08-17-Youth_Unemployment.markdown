@@ -3,19 +3,17 @@ layout: single
 title:  "What’s Behind the Youth Unemployment Statistics Beijing Just Decided to Stop Publishing? A Q&A with Eli Friedman"
 date:   2023-08-17
 categories: Research&Writing
-tags: [ChinaFile, governance]
+tags: [Governance, Economy & Labor]
 classes: wide
 excerpt: "ChinaFile / 2023-08-17"
 
 ---
-**By Jessica Batke**
-
 
 **This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/notes-chinafile/whats-behind-youth-unemployment-statistics-beijing-just-decided).**
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class="dropcap">This week, China’s National Bureau of Statistics <a href="https://www.washingtonpost.com/world/2023/08/15/china-economy-youth-unemployment-rate" target="_blank">announced</a> it would cease collecting data on youth unemployment. The news came after nearly a <a href="https://www.bbc.com/news/business-28062071" target="_blank">decade</a> of poor job prospects for Chinese people ages 16-24, often <a href="https://www.theguardian.com/world/2023/jun/01/china-graduates-jobs-market-youth-unemployment" target="_blank">reported</a> on by international media as mainly a problem affecting recent college <a href="https://www.scmp.com/economy/economic-indicators/article/3216182/chinas-graduates-set-another-difficult-year-job-market-heats-firms-never-want-candidates-no" target="_blank">graduates</a>. Earlier this summer, ChinaFile’s Jessica Batke spoke with sociologist <a href="https://www.ilr.cornell.edu/people/eli-friedman" target="_blank">Eli Friedman</a>, who studies international labor, about the reasons for joblessness among China’s young people and how it is covered.</p>
 

@@ -3,7 +3,7 @@ layout: single
 title:  "Government Forms Foreign NGO Coordination Groups at National, Provincial Levels"
 date:   2017-04-23
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2017-04-23"
 ---
@@ -14,7 +14,7 @@ excerpt: "The China NGO Project / 2017-04-23"
 *The author of this piece is a former employee of the United States Department of State. The opinions and characterizations in this paper are those of the author, and do not necessarily represent official positions of the United States Government.*
 
 
---- <br>
+<hr class="page__divider">
 
 The Chinese government has established “coordination groups” at the national and provincial levels specifically to manage Foreign NGOs in the context of the newly-enacted [Law on the Management of Foreign Non-Governmental Organizations’ Activities in the People’s Republic of China](http://chinafile.com/node/36406). According to [authoritative Chinese media](http://news.xinhuanet.com/legal/2017-02/08/c_1120433038.htm), the National Coordinating Small Group for Foreign NGO Management Work was established in May 2016, though it seems not to have been publicly reported until this year.
 

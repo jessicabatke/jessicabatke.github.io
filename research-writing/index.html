@@ -1,14 +1,61 @@
 ---
-layout: home
+layout: archive
 author_profile: true
 title: Research / Writing
 classes: wide
 
+# Featured pieces shown as image cards at the top.
+featured:
+  - url: /research&writing/Locknet/
+    title: "The Locknet"
+    subtitle: "How China Controls Its Internet and Why It Matters"
+    outlet: ChinaFile
+    image: /media/locknet-hero.webp
+  - url: /research&writing/UFWD_Holding_Sway/
+    title: "Holding Sway"
+    subtitle: "China’s United Front Work Department, Known for Its Influence Operations Abroad, Is Even Busier at Home"
+    outlet: ChinaFile
+    image: /media/holdingsway.jpg
+  - url: /research&writing/Message_Control_China_main/
+    title: "Message Control"
+    subtitle: "How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’"
+    outlet: ChinaFile
+    image: /media/message_control.jpg
 ---
 
+<div class="work-featured">
+  {%- for f in featured %}
+  <a class="work-card" href="{{ f.url }}">
+    <div class="work-card__img" style="background-image:url('{{ f.image }}')"></div>
+    <div class="work-card__body">
+      <h2 class="work-card__title">{{ f.title }}</h2>
+      <p class="work-card__sub">{{ f.subtitle }}</p>
+      <span class="work-card__outlet">{{ f.outlet }}</span>
+    </div>
+  </a>
+  {%- endfor %}
+</div>
 
-<a href="/research&writing/China_Policy_Documents_Database/">Click here to browse the China policy documents database.</a>
- <br>
- Looking for something in particular in these posts? <a href="/tags/">Click here to browse posts by tag.</a>
- <br>
-  <br>
+<div class="work-heading">
+  <h2 class="work-heading__title">All work</h2>
+  <a class="work-heading__link" href="/tags/">Browse by tag →</a>
+</div>
+<ul class="work-list">
+  {%- assign all_posts = collections.posts | reverse %}
+  {%- for post in all_posts %}
+  {%- unless post.data.part_of %}
+  {%- assign wtype = post | workType %}
+  <li class="work-row">
+    <a href="{{ post.url }}">{{ post.data.title | markdownifyInline }}</a>
+    <span class="work-row__outlet">{{ post.data.excerpt | outlet }}<span class="work-row__type" title="{{ wtype }}">{{ wtype | downcase | icon }}<span class="screen-reader-text">{{ wtype }}</span></span></span>
+  </li>
+  {%- assign parts = collections.posts | partsOf: post.url %}
+  {%- for part in parts %}
+  {%- assign part_label = part.data.title | split: "(" | last | remove: ")" %}
+  <li class="work-row work-row--part">
+    <a href="{{ part.url }}">{{ part_label | markdownifyInline }}</a>
+  </li>
+  {%- endfor %}
+  {%- endunless %}
+  {%- endfor %}
+</ul>

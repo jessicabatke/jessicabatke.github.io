@@ -3,7 +3,7 @@ layout: single
 title:  "ChinaFile Presents: In the Camps—China’s High-Tech Penal Colony"
 date:   2021-10-13
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, ChinaFile, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2021-10-13"
 ---

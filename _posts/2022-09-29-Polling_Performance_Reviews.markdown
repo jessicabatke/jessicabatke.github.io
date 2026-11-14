@@ -3,18 +3,16 @@ layout: single
 title:  "Elections? No Thank You. Performance Reviews? Maybe."
 date:   2022-09-29
 categories: Research&Writing
-tags: [ChinaFile, governance]
+tags: [Governance]
 classes: wide
 excerpt: "ChinaFile / 2022-09-29"
 ---
-**By Jessica Batke**
-
 
 **This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/elections-no-thank-you-performance-reviews-maybe).**
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p>In 2018, a local government office in the southwestern Chinese city of Chongqing set out to gauge the local population’s satisfaction with their place of residence. Chongqing’s Yongchuan District Statistics Bureau would field what it termed a “<a href="https://www.chinafile.com/node/54286" target="_blank">social conditions public opinion survey</a>,” with questions tailored to both the district’s urban and rural residents.</p>
 

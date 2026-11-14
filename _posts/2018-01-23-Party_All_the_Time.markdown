@@ -3,7 +3,7 @@ layout: single
 title:  "Party All the Time: Governance and Society in the New Era"
 date:   2018-01-23
 categories: Research&Writing
-tags: [leadership, China Leadership Monitor, 19th Party Congress]
+tags: [Leadership, 19th Party Congress, Religion]
 classes: wide
 excerpt: "China Leadership Monitor / 2018-01-23"
 ---
@@ -17,13 +17,13 @@ excerpt: "China Leadership Monitor / 2018-01-23"
 and do not necessarily represent official positions of the United States
  Government.*
 
---- <br>
+<hr class="page__divider">
 
-### The 19th Party Congress Political Report
+## The 19th Party Congress Political Report
 
 The four most recent Party Congress political reports follow the same general outline, with numbered sections (and subsections) addressing key policy areas in same order. Changes to the structure and content of the report are revealing, offering us a glimpse of the policy outline that the Chinese Communist Party (CCP) has set for itself in the coming years.[<sup>1</sup>](#sdendnote1sym)<a class="anchor" id="sdendnote1anc"></a>
 
-#### Key Themes
+### Key Themes
 
 Even for a party document, 2017’s political report document is dripping with attention to the role of the party. Prescriptions for the CCP’s decisive role have been generously slathered throughout; the report contains an additional 100 instances of the word “party” (党) compared to Hu Jintao’s 2012 version. In this, the 19th Party Congress political report represents the process begun five years ago to reassert party dominance over all major political, social, and economic issues, even as the party seeks to more closely attune itself to the masses’ most pressing concerns.[<sup>2</sup>](#sdendnote2sym)<a class="anchor" id="sdendnote2anc"></a>
 
@@ -41,7 +41,7 @@ This utopian goal is the natural endpoint for a country whose primary governance
 
 Occasional artistic flourishes ever so slightly alter the overall tone of the report. Though it still bludgeons its way through time-tested linguistic formulations, it also injects moments of poetry into the prose—at least in the Chinese-language text.[<sup>7</sup>](#sdendnote7sym)<a class="anchor" id="sdendnote7anc"></a>  As noted elsewhere in this article, the report contains turns of phrase that give off a bit of sparkle amid the dull landscape of party-speak, like “[we] surmounted, time and time again, crises which appeared insurmountable” (攻克了一个又一个看似不可攻克的难关). Certain phrases are repeated as the opening of successive paragraphs, giving the feeling of a refrain: “Our party was profoundly aware that, to realize the great rejuvenation of the Chinese race, we must &hellip;” (我们党深刻认识到，实现中华民族伟大复兴 ，必须 &hellip;). This suggests this report, and its presentation as a speech at the 19th Party Congress, was meant to be rousing, its extended length notwithstanding. If not yet quite a U.S. president’s State of the Union address, it still tilted the balance slightly more toward political showmanship.
 
-#### Political System
+### Political System
 
 The political system section of the report leads with a new subsection: “Upholding the organic unification of the party’s leadership, of the people being masters of the country, and of the country being ruled according to the law” (坚持党的领导,人民当家作主,依法 治国有机统一). This concept is not new to the 19th Party Congress; it appeared in the three previous political reports. Some of the 2017 language was drawn almost verbatim from Jiang Zemin’s political report in 2002, which stated that “the party’s leadership is the fundamental guarantor that the people are the masters and that the country is ruled according to law; the people being the masters is the inherent requirement of socialist democracy; and ruling the country according to law is the basic strategy by which the party leads the people in governing the country” (党的领导是人民当家作主和依法治国的 根本保证,人民当家作主是社会主义民主政治的本质要求,依法治国是党领导人民治理国家 的基本方略). Thus the party is the only means through which the other two goals—the people being the masters, and ruling the country according to law—are achieved.
 
@@ -53,7 +53,7 @@ The report avers that the CCP must reassert unquestioned dominance over all aspe
 
 The 2017 report mandates that the Central Committee will establish a new leading small group (LSG) for “comprehensively ruling the country according to the law.” It is telling that this group, ostensibly more logically suited to be under the government’s purview, will be set up as a party body.
 
-#### Culture
+### Culture
 
 In contrast to the 18th Party Congress political report, the 19th Party Congress report offers a more explicit definition of what the CCP means when it says “culture”: “Socialist culture with Chinese characteristics has its origin in China’s excellent traditional culture, which was born of the more than 5,000 years of civilization of the Chinese race; it was forged from the revolutionary culture and advanced socialist culture created by the party leading the people through revolution, construction, and reform; and it is rooted the great practice of socialism with Chinese characteristics” (中国特色社会主义文化,源自于中华民族五千多年文明历史所孕育的中华优秀传统文化,熔铸于党领导人民在革命、建设、改革中创造的革命文化和社会主义先进文化,植根于中国特色社会主义伟大实践).
 
@@ -67,7 +67,7 @@ The report adds externally focused propaganda to the CCP’s mandate, declaring 
 
 Though much of 2017’s culture section represents an amping-up of previous themes, one concept disappeared entirely. The 2012 report emphasized the need to provide Chinese citizens with a rich cultural experience as part of China’s commitment to building a moderately well-off society. This meant that even rural and undeveloped areas should be provided with free access to “cultural services and facilities.” This time, the emphasis is not on ensuring widespread access to culture but on defining what cultural content should be, namely “quality works that celebrate the party, celebrate the motherland, celebrate the people, and celebrate [our] heroes” (讴歌党,讴歌祖国,讴歌人民,讴歌英雄的精品力作).
 
-#### Social Governance
+### Social Governance
 
 “The entire party must keep in mind that a person’s problems are the litmus test by which [she] examines the nature of a political party and a regime” (全党必须牢记,为什么人的问题,是检验一个政党、一个政权性质的试金石). So opens the 2017 report’s section on social governance, staking out the position that the CCP’s legitimacy now depends not just on basic economic security but also quality of life concerns. Further on, it continues, “[we must] unceasingly promote social fairness and justice and give shape to effective social governance and good social order. In so doing, [we will] make the people’s sense of fulfillment, happiness, and security ever more substantial, guaranteed, and sustainable” (不断促进社会公平正义，形成有效的社会治理、良好的社会秩序，使人民获得感、幸福感、安全感更加充实、更有保障、更可持续). Compare this with 2012’s “[we must] continue to make new progress so that students receive education, workers receive pay, the sick receive treatment, the elderly receive care, and [people] have a place to live,
 
@@ -81,7 +81,7 @@ The report also contains a new subsection focused on national security. This has
 
 The new subsection is comparatively open in discussing how ethnicity and religion figure in to the party’s national security thinking, asserting that protecting national security is in the fundamental interests of “people of all ethnicities.” Previously on guard against hostile forces’ attempts to “split, infiltrate, or subvert” the PRC, the CCP is now “determinedly striking out at any acts of infiltration, subversion, sabotage, violent terrorism, ethnic splittism, or religious extremism.” The report does not explicitly say that these statements are aimed primarily at ethnic Uyghurs and other Muslims living near the border with Central Asia; it does not have to.
 
-#### Ethnic Minority and Religious Issues
+### Ethnic Minority and Religious Issues
 
 Neither religion nor ethnic minority affairs have received their own sections in these quinquennial political reports. Though these issues are no doubt the source of extreme anxiety for the Chinese leadership (as evidenced by the money and manpower the regime allots to policing them), their sporadic and brief mentions in the reports suggest that they remain peripheral to the CCP’s core conception of “China,” and by extension, who the “people” are that the CCP must keep marginally satisfied with its rule. This was even more true in 2017. The 2012 report includes “ethnic minority relations” and “religious relations” in its description of united front work, but these phrases are missing in 2017.
 
@@ -91,7 +91,7 @@ Perhaps most importantly, the 2012 report said the party should “safeguard eth
 
 Religion, separate from ethnic concerns, only receives one other mention in the 18th and 19th Party Congress work reports. In 2012, the report mandated the CCP “comprehensively implement the party’s basic policy on religious work and fully leverage to the positive role that religious figures and believers can play in promoting economic and social development” (全面贯彻党的宗教工作基本方针,发挥宗教界人士和信教群众在促进经济社会发展中的积极作用); in other words, “impose controls on religion but allow it to work in service of the party’s goals.” In 2017, this became “comprehensively implement the party’s basic policy on religious work, persist in the direction of the Sinicization of our country’s religions, and actively guide religions to adapt to socialist society” (全面贯彻党的宗教工作基本方针,坚持我国宗教的中国化方向，积极引导宗教与社会主义社会相适应); or, “impose controls on religion and remold it until it takes a shape the party likes.”
 
-### Personnel Changes
+## Personnel Changes
 
 There are a wide range of party positions that relate to the very broad policy goals outlined above.[<sup>11</sup>](#sdendnote11sym)<a class="anchor" id="sdendnote11anc"></a> Some of the rather unexpected recent personnel appointments, however, have added extra uncertainty into the transition process, and we do not yet know if previous staffing patterns will continue to hold (whether or not, for example, a particular portfolio in the party hierarchy is still linked with membership in a particular LSG).
 
@@ -101,10 +101,10 @@ In the legal and security sector, Minister of Public Security Guo Shengkun was e
 
 We don’t yet know who will replace Yu Zhengsheng as chairman of the Chinese People’s Political Consultative Conference (CPPCC); Wang Yang and Han Zheng have both been mentioned as possibilities, though the PBSC rank order strongly suggests that Wang will head the CPPCC and Han will become Executive Vice Premier. Whoever it is, he will likely also become head of both the Tibet and Xinjiang LSGs.[<sup>15</sup>](#sdendnote15sym)<a class="anchor" id="sdendnote15anc"></a> Central Committee and Secretariat member You Quan was transferred from his slot as Fujian Party Secretary to take up the United Front Work Department (UFWD) directorship. (Previous director Sun Chunlan awaits her next assignment, though she remains on the Politburo.) The membership of the United Front Work LSG, established in 2015, has been and remains unknown.[<sup>16</sup>](#sdendnote16sym)<a class="anchor" id="sdendnote16anc"></a> Xinjiang Party Secretary Chen Quanguo is now a Politburo member; this does not preclude him from staying on in Xinjiang—and indeed, his draconian security measures there likely make him a success in the party’s eyes. Tibet Party Secretary Wu Yingjie was elevated to the Central Committee, as was his predecessor Chen Quanguo before him.
 
---- <br>
+<hr>
 
 
-#### Notes
+### Notes
 
 [<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a> This author consulted the Chinese versions of the 16th, 17th, 18th, and 19th Party Congress political reports for this article. When mentioned by name throughout the article, the following citations are the versions consulted. 19th Party Congress/2017: “习近平：决胜全面建成小康社会 夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告” (Xi Jinping: Secure a decisive victory in building a moderately prosperous society in all respects and strive for the great success of socialism with Chinese characteristics in the new era—report at the Chinese Communist Party’s 19th Party Congress), Xinhua, October 27, 2017, [http://news.xinhuanet.com/politics/19cpcnc/2017-10/27/c_1121867529.htm.](http://news.xinhuanet.com/politics/19cpcnc/2017-10/27/c_1121867529.htm.) 18th Party Congress/2012: “胡锦涛在中国共产党第十八次全国代表大会上的报告” (Hu Jintao’s report at the Chinese Communist Party’s 18th Party Congress), Xinhua, November 17, 2012, [http://news.xinhuanet.com/18cpcnc/2012-11/17/c_113711665.htm.](http://news.xinhuanet.com/18cpcnc/2012-11/17/c_113711665.htm.) 17th Party Congress/2007: “胡锦涛在党的十七大上的报告” (Hu Jintao’s report at the CCP’s 17th Party Congress), People.com.cn, October 24, 2007, [http://politics.people.com.cn/GB/1024/6429094.html.](http://politics.people.com.cn/GB/1024/6429094.html.) 16th Party Congress/2002: “在中国共产党第十六次全国代表大会上的报告” (Report at the Chinese Communist Party’s 16th Party Congress), People.com.cn, November 8, 2002, [http://cpc.people.com.cn/GB/64162/64168/64569/65444/4429125.html](http://cpc.people.com.cn/GB/64162/64168/64569/65444/4429125.html).
 

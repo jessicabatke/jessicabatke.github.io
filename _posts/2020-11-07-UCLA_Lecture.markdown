@@ -3,7 +3,7 @@ layout: single
 title:  "Performance Art, Cultural Memory, and the Uighur Crisis"
 date:   2020-11-07
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "UCLA / 2020-11-07"
 ---

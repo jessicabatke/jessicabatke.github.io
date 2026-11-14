@@ -3,7 +3,7 @@ layout: single
 title:  "What More Can We Learn about Temporary Activities?"
 date:   2018-08-09
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2018-08-09"
 
@@ -13,7 +13,7 @@ excerpt: "The China NGO Project / 2018-08-09"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Since mid-2017, The China NGO Project has provided [monthly updates](http://www.chinafile.com/ngo/analysis/visually-understanding-data-foreign-ngo-representative-offices-and-temporary-activities)
  showing some basic facts about foreign NGOs’ registered offices and
@@ -50,7 +50,7 @@ slightly skew the number of “unique” foreign NGOs, but as it constitutes
  one half of one percent of the total number of activities, we left it
 in the data.
 
-### How Often Do Temporary Activities Take Place in More than One Province?
+## How Often Do Temporary Activities Take Place in More than One Province?
 
 Any
  given temporary activity may legally take place in multiple provinces.
@@ -67,7 +67,7 @@ How frequently
 vast majority (716 of 800) of temporary activities take place in only
 one province.
 
-#### Number of Provinces Covered Per Temporary Activity, March 2017-June 2018
+### Number of Provinces Covered Per Temporary Activity, March 2017-June 2018
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/ProvPerActivity-Bar.html" frameborder="0" scrolling="no" width="160%" height="530"></iframe>
 
@@ -90,7 +90,7 @@ activities begun each month is relatively small (topping out thus far at
 activities listed as covering all 32 province-level administrative
 units) in one month dramatically shifts that month’s average.
 
-#### Average Number of Provinces Covered Per Temporary Activity, March 2017-June 2018
+### Average Number of Provinces Covered Per Temporary Activity, March 2017-June 2018
 
 <iframe src="https://jessicachinafile.github.io/TAandCPUpiece/AvgProvPerActivity-Line.html" frameborder="0" scrolling="no" width="160%" height="430"></iframe>
 
@@ -98,7 +98,7 @@ units) in one month dramatically shifts that month’s average.
 
 Of the activities that did cross provincial boundaries, they were allowed in just a handful of locations (Beijing, Guangdong, Shanghai, Gansu, Qinghai, Hubei, Jiangsu, and Anhui
 
-#### Average and Total Number of Provinces Covered Per Temporary Activity, by Filing Location, March 2017-June 2018
+### Average and Total Number of Provinces Covered Per Temporary Activity, by Filing Location, March 2017-June 2018
 
 
 <table class="sortable">
@@ -146,14 +146,14 @@ due simply to the nature of the activities proposed in each province, or
  if it might also reflect provincial PSB offices’ unwillingness to allow
  activities that take place outside their jurisdictions.
 
-### How Many Temporary Activities Come from “Unique” Foreign NGOs?
+## How Many Temporary Activities Come from “Unique” Foreign NGOs?
 
 Out
  of 336 unique foreign NGOs that had carried out temporary activities as
  of June 30, 2018, almost two thirds (217) had only carried out one
 temporary activity.
 
-#### Number of Temporary Activities Filed Per Foreign NGO, March 2017-June 2018
+### Number of Temporary Activities Filed Per Foreign NGO, March 2017-June 2018
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/TAperNGO-Bar.html" frameborder="0" scrolling="no" width="200%" height="570"></iframe>
 
@@ -201,11 +201,11 @@ activity under the Foreign NGO Law) over time. As we can see, both the
 number and percentage of “new entrant” foreign NGOs peaked in January
 2018 and has decreased since then:
 
-#### Temporary Activities Filed by “New Entrant” Foreign NGOs Per Month, as Compared to Total Temporary Activities Per Month, April 2017-June 2018</b>
+### Temporary Activities Filed by “New Entrant” Foreign NGOs Per Month, as Compared to Total Temporary Activities Per Month, April 2017-June 2018</b>
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/NewEntrantNumbers-Bar.html" frameborder="0" scrolling="no" width="160%" height="450"></iframe>
 
-#### Temporary Activities Filed by “New Entrant” Foreign NGOs Per Month, as a Percent of Total Temporary Activities Per Month, April 2017-June 2018</b>
+### Temporary Activities Filed by “New Entrant” Foreign NGOs Per Month, as a Percent of Total Temporary Activities Per Month, April 2017-June 2018</b>
 
 <iframe style="overflow: hidden;" src="https://jessicachinafile.github.io/TAandCPUpiece/NewEntrantPercent-Line.html" frameborder="0" scrolling="no" width="160%" height="430"></iframe>
 
@@ -258,7 +258,7 @@ China still interested in carrying out non-profit work there? That is,
 does the law reduce the number of “one-off” foreign NGOs that might
 otherwise have tried to work in China?
 
-### Are Foreign NGOs Able to “Renew” Temporary Activities?
+## Are Foreign NGOs Able to “Renew” Temporary Activities?
 
 A
  key question for a number of foreign NGOs is how flexible the temporary
@@ -330,7 +330,7 @@ there? Without additional information from each NGO in the MPS database,
 Perhaps the viability of this model will become clearer in the next year
  or two, but it is not certain at the present.
 
-### What Should We Be Watching Going Forward?
+## What Should We Be Watching Going Forward?
 
 Based
  on what we see above, there are several key issues remaining as we head

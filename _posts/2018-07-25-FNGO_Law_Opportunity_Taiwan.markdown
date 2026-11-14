@@ -3,7 +3,7 @@ layout: single
 title:  "Does China’s Foreign NGO Law Present a Non-profit Opportunity for Taiwan?"
 date:   2018-07-25
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, The News Lens, Foreign NGO Law, Taiwan]
+tags: [Foreign NGO Law, Taiwan]
 classes: wide
 excerpt: "The News Lens / The China NGO Project / 2018-07-25"
 ---
@@ -12,7 +12,7 @@ excerpt: "The News Lens / The China NGO Project / 2018-07-25"
 
 
 
---- <br>
+<hr class="page__divider">
 
 For
  the last 20 years or so, international NGOs focused on Greater China

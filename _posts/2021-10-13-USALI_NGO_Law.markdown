@@ -3,10 +3,9 @@ layout: single
 title:  "The Future of Overseas NGOs in China"
 date:   2021-10-13
 categories: Research&Writing
-tags: [Foreign NGO Law, public remarks]
+tags: [Foreign NGO Law]
 classes: wide
-excerpt: " U.S.-Asia Law Institute NYU
- / 2021-10-13"
+excerpt: "U.S.-Asia Law Institute, NYU / 2021-10-13"
 ---
 
 

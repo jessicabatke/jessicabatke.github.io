@@ -63,7 +63,7 @@ Even though I'm no longer based in D.C., Gramophonic has not yet found a way to 
 
 ### Go to: [Videos](#videos) • [Music](#music) • [Photos](#photos)
 
---- <br>
+<hr class="page__divider">
 
 #### Videos
 
@@ -123,4 +123,4 @@ Even though I'm no longer based in D.C., Gramophonic has not yet found a way to 
 <br>
 
 #### Photos
-{% include gallery %}
+{% gallery gallery %}

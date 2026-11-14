@@ -3,7 +3,7 @@ layout: single
 title:  "Lee Ming-che May Not Have Been Charged under Foreign NGO Law—But His Case Could Still Have a Chilling Effect"
 date:   2017-11-29
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law, Taiwan]
+tags: [Foreign NGO Law, Taiwan]
 classes: wide
 excerpt: "The China NGO Project / 2017-11-29"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2017-11-29"
 
 
 
---- <br>
+<hr class="page__divider">
 
 On November 28, Taiwanese NGO activist Lee Ming-che was [sentenced](https://sg.news.yahoo.com/chinese-court-jails-taiwanese-activist-five-years-subversion-031731509.html) to five years in prison for “subverting state power.” A mainland Chinese citizen, Peng Yuhua, whom Lee’s family says they [had not heard of](https://www.nytimes.com/2017/11/27/world/asia/china-sentences-taiwan-rights-activist.html)
  before the trial, was tried with him and sentenced to seven years for

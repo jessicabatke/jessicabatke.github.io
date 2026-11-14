@@ -24,4 +24,4 @@ feature_row:
     url: "/about/"
 
 ---
-{% include feature_row  %}
+{% feature_row feature_row %}

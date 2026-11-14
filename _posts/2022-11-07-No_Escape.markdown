@@ -3,7 +3,7 @@ layout: single
 title:  "ChinaFile Presents: Nury Turkel, No Escape"
 date:   2022-11-07
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2022-11-07"
 ---
