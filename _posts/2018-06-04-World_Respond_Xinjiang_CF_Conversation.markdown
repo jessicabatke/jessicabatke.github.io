@@ -3,7 +3,7 @@ layout: single
 title:  "How Should the World Respond to Intensifying Repression in Xinjiang?"
 date:   2018-06-04
 categories: Research&Writing
-tags: [ChinaFile, ChinaFile Conversation, Xinjiang Uyghur Autonomous Region, Uyghurs]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2018-06-04"
 
@@ -13,7 +13,7 @@ excerpt: "ChinaFile / 2018-06-04"
 
 
 
---- <br>
+<hr class="page__divider">
 
 A symbolically powerful step the U.S. government should
  take—and one for which the mechanisms are already in place—is to

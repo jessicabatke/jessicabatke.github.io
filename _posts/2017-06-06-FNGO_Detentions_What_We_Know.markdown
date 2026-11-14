@@ -3,7 +3,7 @@ layout: single
 title:  "Possible Foreign NGO Law-Related Detentions: What We Know, and What We Don’t"
 date:   2017-06-06
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2017-06-06"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2017-06-06"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Three labor activists affiliated with the New York-based China Labor Watch (CLW) were [detained](https://www.nytimes.com/2017/05/30/business/labor-activist-detained-ivanka-trump-factory.html) in China last week. Reports [suggest](http://fortune.com/2017/05/31/china-labor-activist-ivanka-trump-shoes-arrest/) that they were detained for investigating labor practices at factories in Jiangxi and Guangdong provinces. This comes days after the People’s Republic of China’s [formal arrest](https://www.hongkongfp.com/2017/05/27/china-arrests-visiting-taiwan-activist-subversion-following-confession/) of Taiwanese human rights activist Lee Ming-che on charges of “subverting state power.” Press reporting on Lee, who has been unreachable since entering mainland China from Macau, has frequently noted his connection to non-governmental organizations (NGOs) in Taiwan and mainland China.
 

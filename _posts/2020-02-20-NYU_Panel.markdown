@@ -3,7 +3,7 @@ layout: single
 title:  "China's Erasure of the Uyghurs"
 date:   2020-02-20
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "NYU / 2020-02-20"
 ---

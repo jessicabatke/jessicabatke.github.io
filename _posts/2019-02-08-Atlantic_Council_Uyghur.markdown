@@ -3,7 +3,7 @@ layout: single
 title:  "China’s Crackdown: Assessing the Impact on Uyghurs and the Broader Region"
 date:   2019-02-08
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "Atlantic Council / 2019-02-08"
 ---

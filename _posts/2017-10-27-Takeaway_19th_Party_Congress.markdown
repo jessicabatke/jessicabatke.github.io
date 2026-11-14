@@ -3,7 +3,7 @@ layout: single
 title:  "What’s the Takeaway from the 19th Party Congress?"
 date:   2017-10-27
 categories: Research&Writing
-tags: [ChinaFile, ChinaFile Conversation, leadership, propaganda]
+tags: [Leadership, Propaganda]
 classes: wide
 excerpt: "ChinaFile / 2017-10-27"
 
@@ -13,7 +13,7 @@ excerpt: "ChinaFile / 2017-10-27"
 
 
 
---- <br>
+<hr class="page__divider">
 
 To me, the most surprising and interesting part of the new Politburo Standing Committee (P.B.S.C.) lineup is the absence of Liu Qibao, head of the Party’s propaganda apparatus. Before today, I would have posited that the very nature of the Chinese Communist Party, especially given its reinvigorated focus on message control and creation, dictated that a veteran of the Propaganda Department would find a seat at the head table. What does Liu’s absence say about the Chinese Communist Party’s (C.C.P.’s) attitude toward propaganda, especially if Wang Huning takes up the propaganda portfolio? Liu might have been left off for political reasons, into which I cannot claim any insight. But if his absence is the result of policy designs, one could posit that the elevation of Wang Huning actually signals an even more strategic, long-term approach to propaganda concerns. Rather than approaching censorship and spin from a more day-to-day managerial perspective, as a long-serving propaganda bureaucrat might, Wang spent more than 20 years at the Central Committee’s Policy Research Office, presumably thinking big thoughts about what C.C.P. governance means in a post-revolution—and indeed post-communist—era. Wang’s constant presence over the last three administrations hints at the importance of his ideas. He may be a savvy choice as master craftsman of an all-important narrative about the fundamental meaning of China and the Chinese Communist Party (necessarily intertwined) in the 21st century.
 

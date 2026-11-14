@@ -3,9 +3,11 @@ layout: single
 title:  "Transatlantic Currents: China’s “surveillance state”"
 date:   2023-09-27
 categories: Research&Writing
-tags: [ChinaFile, surveillance, public remarks]
+tags: [Surveillance]
 classes: wide
 excerpt: "Finnish Institute of International Affairs / 2023-09-27"
+# An episode of FIIA’s video series, so listed as a podcast rather than a talk
+work_type: Podcast
 ---
 <style>
 div.ytcontainer {

@@ -3,7 +3,7 @@ layout: single
 title:  "State of Surveillance: Government Documents Reveal New Evidence on China’s Efforts to Monitor Its People"
 date:   2020-10-30
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, ChinaFile, surveillance]
+tags: [Uyghur Region, Surveillance]
 classes: wide
 excerpt: "ChinaFile / 2020-10-30"
 ---
@@ -14,7 +14,7 @@ excerpt: "ChinaFile / 2020-10-30"
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class=dropcap>High atop Mount Xiqiao, an extinct volcano that soars above the Pearl River Delta, a towering statue of the Buddhist goddess Guanyin gazes down on the concrete sprawl of the city of Foshan. For centuries, the mountain’s scenic caves and waterfalls provided a refuge for scholars and artists. But today, Xiqiao is a far more crowded place. Some <a href="https://m.21jingji.com/article/20180321/db97c854a754bfc3e75471eb78a8642e.html" target="_blank">five million</a> tourists visit each year. And as they wend their way up the mountain through groves of peach and banyan, Guanyin is not the only one keeping watch.</p>
 

@@ -3,7 +3,7 @@ layout: single
 title:  "PRC Religious Policy: Serving the Gods of the CCP"
 date:   2017-02-14
 categories: Research&Writing
-tags: [leadership, China Leadership Monitor, religion]
+tags: [Leadership, Religion, Tibet]
 classes: wide
 excerpt: "China Leadership Monitor / 2017-02-14"
 ---
@@ -16,9 +16,9 @@ excerpt: "China Leadership Monitor / 2017-02-14"
 necessarily the view of the Department of State or the U.S.
 government*
 
---- <br>
+<hr class="page__divider">
 
-#### A Long-Awaited Work Conference Finally Held
+## A Long-Awaited Work Conference Finally Held
 
 In April 2016,
 General Secretary Xi Jinping chaired a National Religious Work
@@ -82,7 +82,7 @@ forces’ infiltration into China; the spread of extremist thought;
 and, aiding and abetting the previous two, the ubiquity of the
 Internet.
 
-#### New Regulations for the “New Situation”
+## New Regulations for the “New Situation”
 
 These overarching
 concerns are also apparent in the new language and provisions
@@ -96,7 +96,7 @@ concomitant weakening of government control over information flows.
 Though one would expect that a 2016 update to a decade-old regulatory
 document would include more mentions of the Internet (the terms for
 *Internet* [互联网]
-and *website *[网点]
+and *website* [网点]
 appear seven times in the 2016 draft regulations versus one mention
 of *website* in the older version), it is very likely that the
 increase also reflects the governments’ heightened concern over the
@@ -116,7 +116,7 @@ with the latest draft of the updated regulations,[<sup>7</sup>](#sdendnote7sym)<
 many of the additions and alterations fit into a few overarching
 themes, some of which are covered below.
 
-#### “Rule of law” and More Specific Rules
+## “Rule of law” and More Specific Rules
 
 Reflecting the CCP’s
 overall concern with establishing a “rule of law” (法治)
@@ -224,7 +224,7 @@ religious statues,” likely referring to the many Christian churches
 and crosses in Zhejiang Province that have been torn down in recent
 years.
 
-#### Greater Clarity, For Better and For Worse
+## Greater Clarity, For Better and For Worse
 
 As noted above, much
 of what comes out of the April work conference and the new draft
@@ -303,7 +303,7 @@ or 50 years ago, a wide variety of behaviors and personal freedoms
 are indeed permissible.  But the CCP wants to ensure that it is still
 the ultimate arbiter of the permissible.
 
-#### The Pope: The Ultimate Foreign Menace?
+## The Pope: The Ultimate Foreign Menace?
 
 Beijing’s efforts
 toward more precisely defining and managing religion also extend to
@@ -409,9 +409,9 @@ about advantageous conditions for an improvement in relations.”[<sup>19</sup>]
 the agreement as hurting or as enhancing its ability to control
 religion in China.  
 
---- <br>
+<hr>
 
-#### Notes
+## Notes
 
 [<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a> Though
 	multiple National Religious Work Conferences have been held in

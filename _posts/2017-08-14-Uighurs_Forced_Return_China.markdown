@@ -3,7 +3,7 @@ layout: single
 title:  "China is Forcing Uighurs Abroad to Return Home. Why Aren’t More Countries Refusing to Help?"
 date:   2017-08-14
 categories: Research&Writing
-tags: [ChinaFile, Uyghurs]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2017-08-14"
 
@@ -12,7 +12,7 @@ excerpt: "ChinaFile / 2017-08-14"
 **This article originally appeared on [ChinaFile](http://www.chinafile.com/reporting-opinion/viewpoint/china-forcing-uighurs-abroad-return-home-why-arent-more-countries).**
 
 
---- <br>
+<hr class="page__divider">
 
 The campaign began quietly. Students studying abroad were told to return home. Many did, and their classmates didn’t hear from them afterwards. For those who needed extra incentive to get moving, police detained their families back home. Finally, the ones who refused to comply were rounded up by force.
 

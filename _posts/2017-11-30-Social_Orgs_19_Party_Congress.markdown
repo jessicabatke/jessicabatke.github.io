@@ -3,7 +3,7 @@ layout: single
 title:  "Social Organizations and the 19th Party Congress"
 date:   2017-11-30
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Civil Society, 19th Party Congress]
+tags: [Civil Society, 19th Party Congress]
 classes: wide
 excerpt: "The China NGO Project / 2017-11-30"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2017-11-30"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Party
  Congress political reports represent the Chinese Communist Party’s

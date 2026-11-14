@@ -1,14 +1,432 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+permalink: /assets/css/main.css
+eleventyExcludeFromCollections: true
 ---
-
 @charset "utf-8";
 
-
-// $link-color: #a9434a;
-
+// ---- Site colors (all meet WCAG AA contrast on white) ----
+$plum: #581845; // the darkest color in the home-page banner
+$link-color: $plum;
+$link-color-hover: mix(#000, $plum, 30%);
+$link-color-visited: $plum;
+$secondary-text: #5a6166; // 6.3:1 on white; replaces the theme's lighter greys
+$primary-color: $secondary-text; // menu links, buttons, sidebar
+$muted-text-color: $secondary-text; // captions, meta, footer
 
 @import url('https://fonts.googleapis.com/css?family=Proxima+Nova:400,700,400italic');
 @import url('https://fonts.googleapis.com/css?family=Proxima+Nova+Light:400,700,400italic');
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/default"; // skin: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 @import "minimal-mistakes"; // main partials
+
+// Links inside article text: a thin, pale underline that strengthens on hover
+.page__content a:not(.btn) {
+  text-decoration: underline;
+  text-decoration-color: #d9bccd;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+
+  &:hover {
+    text-decoration-color: currentColor;
+    text-decoration-thickness: 2px;
+  }
+}
+
+// Other theme text that was too light to read comfortably
+.taxonomy__count,
+.back-to-top,
+.footnote,
+.footnotes,
+a.reversefootnote {
+  color: $secondary-text;
+}
+
+// Footer: larger copyright line (was ~11px)
+.page__footer-copyright {
+  font-size: $type-size-6;
+}
+
+// Pop-up definitions used in posts via {% drawer "term" %}…{% enddrawer %}
+.drawer {
+  position: relative;
+  cursor: help;
+  outline: none;
+
+  &__term {
+    border-bottom: 1px dotted currentColor;
+  }
+
+  &__body {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    left: 0;
+    top: 1.6em;
+    width: min(22em, 80vw);
+    padding: 0.75em 1em;
+    font-size: 0.8em;
+    line-height: 1.5;
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+  }
+
+  &:hover &__body,
+  &:focus &__body,
+  &:focus-within &__body {
+    display: block;
+  }
+}
+
+// ---- Text highlighting: light plum tint instead of the theme's white-on-black ----
+::selection { background: #e8d3e0; color: #2b2e31; }
+::-moz-selection { background: #e8d3e0; color: #2b2e31; }
+
+// ---- Sidebar name (now a paragraph instead of a heading, for screen readers) ----
+p.author__name {
+  font-family: $header-font-family;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+// ---- Divider between the notes at the top of a page and the article ----
+// (In posts: <hr class="page__divider">, which replaced the old "--- <br>" lines.)
+hr.page__divider {
+  border: 0;
+  border-top: 2px solid $plum;
+  margin: 1.5em 0 2em;
+}
+
+// ---- Article pages (posts only) ----
+.page--post {
+  // Comfortable line length on wide screens (about 65–68 characters)
+  .page__inner-wrap > header,
+  .page__content,
+  .page__meta,
+  .post-pager {
+    max-width: 34em;
+  }
+
+  // Intro line under the title ("dek")
+  .page__dek {
+    margin: 0.5em 0 0;
+    font-size: 1.3em;
+    line-height: 1.45;
+    color: $text-color;
+  }
+
+  // Date: after the title and intro
+  .page__date {
+    margin: 1em 0 1.5em;
+    font-size: $type-size-6;
+    color: $secondary-text;
+  }
+
+  // Notes above the divider (byline, "Originally published…", disclaimer): small italic fine print
+  .page__content > p:has(~ hr.page__divider) {
+    margin: 0 0 0.5em;
+    font-size: 0.85em;
+    line-height: 1.5;
+    font-style: italic;
+    color: $secondary-text;
+
+    strong { font-weight: inherit; }
+  }
+
+  // Section headings: small uppercase labels; sub-sections in plain bold
+  .page__content {
+    h2 {
+      margin-top: 2.5em;
+      padding-bottom: 0;
+      font-size: 0.8em;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: $text-color;
+    }
+    h3 {
+      margin-top: 1.75em;
+      padding-bottom: 0;
+      font-size: 1.05em;
+    }
+    h4, h5, h6 {
+      margin-top: 1.5em;
+      padding-bottom: 0;
+      font-size: 1em;
+    }
+  }
+
+  // Previous / Next with article titles, side by side
+  .post-pager {
+    float: left;
+    clear: both;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    margin: 1.5em 0 1em;
+    padding-top: 1.25em;
+    border-top: 1px solid $border-color;
+
+    &__link {
+      display: block;
+      text-decoration: none;
+      color: $text-color;
+
+      &:hover .post-pager__title,
+      &:focus .post-pager__title { color: $plum; }
+    }
+    &__next { grid-column: 2; text-align: right; }
+    &__label {
+      display: block;
+      margin-bottom: 0.3em;
+      font-size: 0.7em;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: $secondary-text;
+    }
+    &__title {
+      display: block;
+      font-size: 0.85em;
+      line-height: 1.35;
+      font-weight: bold;
+    }
+
+    @media (max-width: 37.5em) {
+      grid-template-columns: 1fr;
+      gap: 1em;
+      .post-pager__next { grid-column: 1; text-align: left; }
+    }
+  }
+}
+
+// ---- Research / Writing list ----
+.work-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1em;
+  margin: 0 0 0.4em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid $text-color;
+
+  &__title {
+    margin: 0;
+    font-size: 0.8em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $secondary-text;
+  }
+  &__link {
+    font-size: 0.75em;
+    color: $plum;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}
+
+// Featured pieces: image cards
+.work-featured {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25em;
+  margin: 1.5em 0 2.5em;
+
+  @media (max-width: 47.9em) {
+    grid-template-columns: 1fr;
+    gap: 0.9em;
+  }
+}
+.work-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  transition: box-shadow 0.15s, transform 0.15s;
+
+  &:hover { box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1); transform: translateY(-2px); }
+  &:hover .work-card__title, &:focus .work-card__title { color: $plum; }
+
+  &__img { aspect-ratio: 16 / 10; background: #f2f3f3 center / cover no-repeat; }
+  &__body { padding: 0.8em 1em 1em; }
+  &__title { margin: 0; font-size: 1.05em; line-height: 1.25; color: $text-color; }
+  &__sub { margin: 0.35em 0 0.6em; font-size: 0.78em; line-height: 1.4; color: $secondary-text; }
+
+  // Phones: image across the top (wider, shorter crop), text below
+  @media (max-width: 47.9em) {
+    .work-card__img { aspect-ratio: 16 / 7; }
+    .work-card__sub { font-size: 0.78em; }
+  }
+}
+.work-card__outlet,
+.work-row__outlet {
+  font-size: 0.72em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $secondary-text;
+}
+
+// Full list: compact rows (whole row clickable, no underlines)
+.work-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.work-row {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  gap: 1.5em;
+  margin: 0;
+  padding: 0.7em 0.6em;
+  border-bottom: 1px solid $border-color;
+  transition: background-color 0.12s;
+
+  &:hover, &:focus-within { background: #f8f1f5; }
+  &:focus-within { box-shadow: inset 3px 0 0 $plum; }
+
+  a {
+    flex: 1;
+    font-size: 0.92em;
+    line-height: 1.35;
+    color: $text-color;
+    text-decoration: none;
+
+    &::after { content: ""; position: absolute; inset: 0; } // whole row is clickable
+    &:focus-visible { outline: none; }
+  }
+  &:hover a, a:focus { color: $plum; }
+
+  .work-row__outlet { flex: 0 0 13em; text-align: right; line-height: 1.4; }
+
+  @media (max-width: 47.9em) {
+    flex-direction: column;
+    gap: 0.2em;
+    .work-row__outlet { flex: none; text-align: left; }
+  }
+}
+
+// ---- Built-in icons (see the "icon" filter in eleventy.config.js) ----
+.site-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  flex: none;
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+// ---- Sidebar: clearer structure ----
+.sidebar {
+  .author__name { font-size: 1.15em; color: #2b2e31; }
+  .author__bio { color: $text-color; }
+  .author__urls {
+    color: $text-color;
+
+    li {
+      display: flex;
+      align-items: center;
+      gap: 0.45em;
+      margin: 0;
+      padding: 0.2em 0;
+    }
+    a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45em;
+      margin: 0;
+      padding: 0;
+      color: $plum;
+      text-decoration: none;
+      &:hover { text-decoration: underline; }
+    }
+  }
+
+  @include breakpoint($large) {
+    .author__bio p { margin-bottom: 0; }
+    .author__urls {
+      margin-top: 0.6em;
+      padding-top: 0.5em;
+      border-top: 1px solid $border-color;
+      font-size: 0.85em;
+    }
+  }
+}
+
+// Sub-parts of a multi-part piece, indented under the main row
+.work-row--part {
+  padding-top: 0.35em;
+  padding-bottom: 0.35em;
+  padding-left: 2.2em;
+  border-bottom-color: lighten($border-color, 3%);
+
+  a {
+    font-size: 0.8em;
+    color: $secondary-text;
+
+    // Small visual marker; the "/ ''" part tells screen readers to skip it
+    &::before { content: unquote('"↳ " / ""'); color: $border-color; }
+  }
+}
+
+// Item type icon (article, talk, podcast, data) after the outlet.
+// #7a8288 is the lightest grey that keeps 3:1 contrast on white and on the row hover tint.
+.work-row__type {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.6em;
+  font-size: 1.25em;
+  vertical-align: -0.1em;
+  color: #7a8288;
+}
+
+// ---- Phones / narrow windows: sidebar moves below the content instead of sitting on top ----
+// (Above $large the sidebar stays on the left as usual.)
+@media (max-width: 63.9375em) {
+  #main { display: flex; flex-direction: column; }
+  #main > .sidebar {
+    order: 2;
+    margin-top: 3em;
+    padding-top: 1.5em;
+    border-top: 1px solid $border-color;
+  }
+  // Show the links directly instead of behind a "Follow" button
+  .author__urls-wrapper { display: block; margin-top: 0.75em; }
+  .author__urls-wrapper button { display: none; }
+  .author__urls {
+    display: block;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+    background: none;
+    &::before, &::after { display: none; }
+  }
+  .sidebar .author__urls li { display: inline-flex; margin-right: 1.25em; }
+}
+
+// ---- Tags page: tag chips (click to filter) and per-tag lists ----
+  /* Tag index: wrapping "chips" with counts */
+  .tag-index { display: flex; flex-wrap: wrap; gap: .5em; list-style: none; margin: 1em 0 2.5em; padding: 0; }
+  .tag-index li { margin: 0; }
+  .tag-index a { display: inline-flex; align-items: baseline; gap: .4em; padding: .3em .75em; font-size: .8em;
+    color: #3d4144; text-decoration: none; border: 1px solid #e3e5e7; border-radius: 2em; background: #fff; }
+  .tag-index a:hover, .tag-index a:focus { border-color: #581845; color: #581845; background: #f8f1f5; }
+  .tag-index .tag-count { font-size: .85em; color: #5a6166; }
+  .tag-index a[aria-current="true"] { border-color: #581845; background: #581845; color: #fff; }
+  .tag-index a[aria-current="true"] .tag-count { color: #f0dfe9; }
+  /* When a tag is selected, only its section shows */
+  .tags-filtered .tag-section { display: none; }
+  .tags-filtered .tag-section.is-selected { display: block; }
+  .tags-filtered .tag-top { display: none; }
+
+  /* Each tag section */
+  .tag-section { margin: 0 0 2.5em; scroll-margin-top: 1em; }
+  .tag-section .work-heading__title { color: #3d4144; }
+  .tag-section .work-heading__count { font-weight: normal; color: #5a6166; }
+  .tag-top { font-size: .75em; color: #581845; text-decoration: none; }
+  .tag-top:hover { text-decoration: underline; }

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% include "page-hero.liquid" %}
+<div id="main" role="main">
+  {%- if author_profile or author %}
+  {% include "author-profile.liquid" %}
+  {%- endif %}
+  <div class="archive">
+    {%- unless header.overlay_image or header.overlay_color %}
+    <h1 id="page-title" class="page__title">{{ title }}</h1>
+    {%- endunless %}
+    {{ content }}
+  </div>
+</div>

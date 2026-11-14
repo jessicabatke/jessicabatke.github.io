@@ -1,0 +1,21 @@
+<meta charset="utf-8">
+{%- if title %}{% assign page_title = title | strip_html %}{% if page_title != site.title %}{% assign page_title = page_title | append: " " | append: site.title_separator | append: " " | append: site.title %}{% endif %}{% else %}{% assign page_title = site.title %}{% endif %}
+{%- assign page_desc = excerpt | default: site.author.bio | default: site.description | strip_html | strip_newlines %}
+{%- assign page_image = header.overlay_image | default: header.image | default: header.teaser | default: site.author.avatar %}
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_desc | escape }}">
+<meta name="author" content="{{ site.author.name }}">
+<meta property="og:type" content="{% if date and page.url contains '/research&writing/' %}article{% else %}website{% endif %}">
+<meta property="og:locale" content="{{ site.locale }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ title | default: site.title | strip_html | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:description" content="{{ page_desc | escape }}">
+<meta property="og:image" content="{{ page_image | absolute_url }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"{{ site.author.name }}","url":"{{ site.url }}/"}</script>
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';</script>
+<link rel="stylesheet" href="/assets/css/main.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic" rel="stylesheet" type="text/css">

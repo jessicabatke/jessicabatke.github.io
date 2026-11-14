@@ -3,7 +3,7 @@ layout: single
 title:  "Approved Foreign NGO Representative Offices: A Comparison with Previous Registrations"
 date:   2017-04-24
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2017-04-24"
 ---
@@ -13,7 +13,7 @@ excerpt: "The China NGO Project / 2017-04-24"
 *The author of this piece is a former employee of the United States Department of State. The opinions and characterizations in this paper are those of the author, and do not necessarily represent official positions of the United States Government.*
 
 
---- <br>
+<hr class="page__divider">
 
 One of the mandates of the newly-enacted [Law on the Management of Foreign Non-Governmental Organizations’ Activities in the People’s Republic of China](http://chinafile.com/node/36406) is that all Foreign NGOs with a permanent footprint in China must register with the Ministry of Public Security (MPS) to legally establish a “representative office.” Since the law went into effect on January 1, Chinese authorities have approved the registration of [69 foreign NGO representative offices](http://chinafile.com/node/36101) (as of April 24), representing 62 distinct organizations (some NGOs have more than one representative office).
 
@@ -25,10 +25,10 @@ In contrast, foreign NGOs who had not been previously registered with the Yunnan
 
 **Registered Foreign NGO Representative Offices Previous Registration Status**
 
-![comparison0](/media/comparison0.png)
+![Pie chart of approved foreign NGO representative offices by prior status. Trade or industry associations and NGOs previously registered with the Ministry of Civil Affairs are each roughly 40%, and Yunnan-registered NGOs a smaller slice. Only a small sliver is non-trade groups not previously registered.](/media/comparison0.png)
 <br>
 <br>
 
 **Foreign NGOs That Have Filed for Temporary Activities, Previous Registration Status**
 
-![comparison1](/media/comparison1.png)
+![Pie chart of foreign NGOs filing for temporary activities by prior status. Non-trade groups not previously registered make up the vast majority. Ministry of Civil Affairs registrants, Yunnan registrants and trade associations are each a thin slice.](/media/comparison1.png)

@@ -3,14 +3,14 @@ layout: single
 title:  "What More Do We Know about Recent Detentions and Foreign NGOs?"
 date:   2018-12-20
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2018-12-20"
 ---
 
 **This article originally appeared on ChinaFile’s [The China NGO Project](http://www.chinafile.com/ngo/latest/what-more-do-we-know-about-recent-detentions-and-foreign-ngos).**
 
---- <br>
+<hr class="page__divider">
 
 <div class="content">
 	 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>More than a week after the detention of two Canadian citizens, we know very little about the nature of the charges against them. As most news coverage suggests, it is likely that they are part of a “<a href="https://www.npr.org/2018/12/19/678123092/a-3rd-canadian-has-been-detained-in-china-as-diplomatic-rancor-rises" target="blank" rel="nofollow">deepening dispute</a>” between China and Canada over the latter’s arrest of a prominent Chinese businessperson. (Even more <a href="https://www.yahoo.com/news/china-says-detention-canadian-involves-employment-issue-101237186.html" target="blank" rel="nofollow">recent</a> <a href="https://www.ctvnews.ca/canada/china-says-detention-of-canadian-involves-employment-issue-1.4225586" target="blank" rel="nofollow">reports</a> of a third detention suggest it may not be linked to the bilateral dispute.)</p>

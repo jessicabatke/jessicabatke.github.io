@@ -3,18 +3,16 @@ layout: single
 title:  "In Xinjiang’s Tech Incubators, Innovation Is Inseparable from Repression"
 date:   2022-02-28
 categories: Research&Writing
-tags: [ChinaFile, surveillance, Uyghurs, Xinjiang Uyghur Autonomous Region]
+tags: [Surveillance, Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2022-02-28"
 ---
-**By Jessica Batke**
-
 
 **This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/viewpoint/xinjiangs-tech-incubators-innovation-inseparable-repression).**
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class=dropcap>In 2017, the <a href="http://www.uhdz.gov.cn/ywb.htm" target="_blank">Urumqi High-Tech Industrial Development Zone</a>, in the capital of Xinjiang, published a catalogue of the “entrepreneurial and innovative” projects underway in its jurisdiction. The Xinjiang University Information Technology Innovation Park Co., Ltd. aimed to improve capacity for “grassroots makerspaces.” Another company was using blockchain “to establish an Asia-Europe big data trading platform.”</p>
 

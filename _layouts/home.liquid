@@ -1,0 +1,33 @@
+---
+layout: archive
+---
+{{ content }}
+<h3 class="archive__subtitle">All Posts</h3>
+{%- for post in pagination.items %}
+{% include "archive-item.liquid" %}
+{%- endfor %}
+{%- assign total = pagination.pages.size %}
+{%- if total > 1 %}
+{%- assign current = pagination.pageNumber | plus: 1 %}
+<nav class="pagination">
+  <ul>
+    {%- if pagination.href.previous %}
+    <li><a href="{{ pagination.href.previous }}">Previous</a></li>
+    {%- else %}
+    <li><a href="#" class="disabled"><span aria-hidden="true">Previous</span></a></li>
+    {%- endif %}
+    {%- for href in pagination.hrefs %}
+    {%- if forloop.index == current %}
+    <li><a href="{{ href }}" class="disabled current">{{ forloop.index }}</a></li>
+    {%- else %}
+    <li><a href="{{ href }}">{{ forloop.index }}</a></li>
+    {%- endif %}
+    {%- endfor %}
+    {%- if pagination.href.next %}
+    <li><a href="{{ pagination.href.next }}">Next</a></li>
+    {%- else %}
+    <li><a href="#" class="disabled"><span aria-hidden="true">Next</span></a></li>
+    {%- endif %}
+  </ul>
+</nav>
+{%- endif %}

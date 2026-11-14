@@ -3,7 +3,7 @@ layout: single
 title:  "The Lawfare Podcast: A Deep Dive on China and the Uighurs"
 date:   2020-07-15
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks, Lawfare]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "Lawfare / 2020-07-15"
 ---

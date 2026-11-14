@@ -3,21 +3,19 @@ layout: single
 title:  "Holding Sway: China’s United Front Work Department, Known for Its Influence Operations Abroad, Is Even Busier at Home"
 date:   2023-09-29
 categories: Research&Writing
-tags: [ChinaFile, governance, Uyghurs, Tibet, Civil Society]
+tags: [Governance, Uyghur Region, Tibet, Civil Society, Religion]
 classes: wide
 excerpt: "ChinaFile / 2023-09-29"
 header:
   image: /media/holdingsway.jpg
   caption: "Image credit: [**Steven Weinberg**](http://www.stevenweinbergstudio.com/) for [**ChinaFile**](https://www.chinafile.com/)"
 ---
-**By Jessica Batke**
-
 
 **This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/united-front-work-department-domestic) and was republished on [Foreign Policy](https://foreignpolicy.com/2023/10/03/china-united-front-ccp-religion-sports-influence-operations/).**
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class=dropcap>Swirling around in brightly-colored inflatables the shape of flying saucers, riders grin as they skid across the ice, bouncing off one another in a winter version of bumper cars. Nearby, more people pedal “ice bikes” and row sleds that look like dragon boats. Others steer snowmobiles along a go-cart-style track. Children glide along in “princess horse-drawn carts” pulled by diminutive steeds.</p>
 

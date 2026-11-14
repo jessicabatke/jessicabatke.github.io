@@ -117,16 +117,16 @@ Book by **John Bair**<br>
 Directed by **[Marina McClure](http://www.marinamcclure.com/)**<br>
 Music direction by **Jessica Batke**
 
---- <br>
+<hr class="page__divider">
 
 #### Kennedy Center
 
-{% include gallery id="gallery1" %}
+{% gallery gallery1 %}
 *Photo credits: [Marina McClure](http://www.marinamcclure.com/)*
 
 <br>
 
 #### Ice Factory
 
-{% include gallery id="gallery2" %}
+{% gallery gallery2 %}
 *Photo credits: [Marina McClure](http://www.marinamcclure.com/)*

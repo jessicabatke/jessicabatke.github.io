@@ -3,7 +3,7 @@ layout: single
 title:  "Some NGOs Able to Continue Longer-Term Temporary Activities for a Second Year"
 date:   2019-02-19
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2019-02-19"
 ---
@@ -12,7 +12,7 @@ excerpt: "The China NGO Project / 2019-02-19"
 
 
 
---- <br>
+<hr class="page__divider">
 
 One key question many foreign NGOs continue to ask is whether they will be able to reliably use temporary activities to carry out multi-year or other types of long-term programs or grants in China. As any given temporary activity may not last more than one year (except in cases “[where there is a need](http://www.chinafile.com/ngo/laws-regulations/law-of-peoples-republic-of-china-administration-of-activities-of-overseas)” and permission is explicitly granted), and Chinese authorities have not offered any official guidance on the subject, it remains unclear how dependable the temporary activity mechanism is for groups that plan to fund longer-term projects but do not wish to open a representative office in China.
 

@@ -3,7 +3,7 @@ layout: single
 title:  "Why Do We Keep Writing About Chinese Politics As if We Know More Than We Do?"
 date:   2017-10-16
 categories: Research&Writing
-tags: [ChinaFile, leadership, Xi Jinping]
+tags: [Leadership, Xi Jinping]
 classes: wide
 excerpt: "ChinaFile / 2017-10-16"
 
@@ -15,7 +15,7 @@ excerpt: "ChinaFile / 2017-10-16"
 *The characterizations and opinions in this piece, including the discussion of information gaps and analytical challenges, are those of the authors and do not necessarily represent those of the U.S. government.*
 <br>
 
---- <br>
+<hr class="page__divider">
 
 
 

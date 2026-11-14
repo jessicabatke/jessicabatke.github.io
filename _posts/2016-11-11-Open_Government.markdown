@@ -3,16 +3,16 @@ layout: single
 title:  "Open Government in China: Bound to Improve, Within Bounds"
 date:   2016-11-11
 categories: Research&Writing
-tags: [leadership, transparency, CPI Blog]
+tags: [Leadership, Transparency]
 classes: wide
 excerpt: "China Policy Institute / 2016-11-11"
 ---
 
-**Written by Jessica Batke,* Julia Breuer, and Matthias Stepan.**
+**Written by Jessica Batke,\* Julia Breuer, and Matthias Stepan.**
 
 **Originally published on the [China Policy Institute blog](https://cpianalysis.org/2016/11/11/open-government-in-china-bound-to-improve-within-bounds/).**
 
---- <br>
+<hr class="page__divider">
 
 From [remarks by the Premier](http://news.xinhuanet.com/english/2016-03/16/c_135194092.htm) to [new guidelines for open government](http://www.chinadaily.com.cn/china/2016-02/18/content_23529897.htm),
  we’ve been hearing a lot from the Chinese government about its
@@ -28,7 +28,7 @@ differing views of public participation. This tension will likely
 circumscribe the PRC’s ability to fully embrace the more bottom-up
 aspects of open governance.
 
-#### A Push for Better Governance
+## A Push for Better Governance
 
 The Chinese Communist Party has a PR problem. (More specifically, [local cadres have a PR problem](http://www.tandfonline.com/doi/pdf/10.1080/23812346.2016.1138690)
  – citizens are not entirely convinced that local cadres have their best
@@ -64,7 +64,7 @@ sharing of public data.  What can we expect from Beijing in terms of
 these new commitments?  Is it really prepared to embrace a more
 bottom-up model of citizen participation?
 
-#### A Record of Improved Transparency – On Beijing’s Terms
+## A Record of Improved Transparency – On Beijing’s Terms
 
 A look at Beijing’s recent track record
 suggests that we can expect that it will take at least some of these new
@@ -94,7 +94,7 @@ took effect (Chart 1).
 
 **Chart 1: State Documents (issued by the State Council and known as 国发, or *guofa*, and 国办发, or *guobanfa*)**
 
-![open_government_0](/media/open_government_0.png)
+![Stacked bar chart, ‘Availability of state documents as of July 2016,’ by issuing year 2008–2015. The full-text-available share rises from about 60% in 2008 to about 90% in 2015, while ‘title only’ and ‘content unknown’ shrink to a sliver.](/media/open_government_0.png)
 
 This improvement appears to be more than
 just the result of increased internet use in government work. In the
@@ -124,7 +124,7 @@ the law’s May 1, 2008 effective date – meaning that government document
 availability improved not only moving into the future but also
 retroactively.
 
-#### Maxing Out the System, But the System is Part of the Problem
+## Maxing Out the System, But the System is Part of the Problem
 
 These data support the idea that Beijing
 takes seriously its commitment to the specific transparency principles
@@ -153,7 +153,7 @@ remains problematic from an open government perspective.
 
 **Chart 2: Party documents (issued by the CCP’s Central Committee and known as 中发, or *zhongfa*, and 中办发, or *zhongbanfa*)**
 
-![open_government_1](/media/open_government_1.png)
+![Stacked bar chart of Party (zhongfa and zhongbanfa) document availability, 2008–2015. Full text or summary is available for only about 33–52% of documents each year, peaking in 2015. ‘Content unknown’ is often 35–48%, far higher than for state documents.](/media/open_government_1.png)
 
 Second is the fact that, at the most
 basic level, China’s open government efforts stem from the CCP’s desire
@@ -170,9 +170,9 @@ years. Yet, it is also likely that some of Beijing’s efforts will fall
 short of international standards, particularly with regard to measures
 of public participation.
 
---- <br>
+<hr>
 
-#### Notes
+## Notes
 [<sup>1</sup>](#1return)<a class="anchor" id="1"></a> These two documents represent the highest-level policy documents that the State Council produces.  They comprise not only specific rules and regulations but also more general policy guidance.  As such, they are key pieces of information for citizens (and observers) who are
 interested in the policy priorities and plans of the Chinese state. Guofa are issued by the State Council; guobanfa are issued by the State Council’s General Office.
 
@@ -224,7 +224,7 @@ of documents in our data set (over 2400) suggests that the overall
 transparency trends we identified would not be substantially altered
 even if we could address these collection method issues.
 
---- <br>
+<hr>
 
 *\*This article reflects the personal views of the author and not
 necessarily the views of the U.S. Government or the Department of State.*

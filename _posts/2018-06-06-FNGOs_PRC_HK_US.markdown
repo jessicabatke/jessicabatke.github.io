@@ -3,7 +3,7 @@ layout: single
 title:  "Here’s How NGOs Are Allowed to Operate in the P.R.C., Hong Kong, and the United States"
 date:   2018-06-06
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law, Hong Kong]
+tags: [Foreign NGO Law, Hong Kong]
 classes: wide
 excerpt: "The China NGO Project / 2018-06-06"
 ---
@@ -14,7 +14,7 @@ excerpt: "The China NGO Project / 2018-06-06"
 
 
 
---- <br>
+<hr class="page__divider">
 
 The last year has seen extensive discussion of China’s Foreign NGO Law, focusing especially on whether or not the law would [cause a major shift](http://www.chinafile.com/ngo/analysis/has-foreign-ngo-law-changed-work-of-foreign-ngos-china)
  in the kind of work foreign NGOs are able to do in the mainland. Less
@@ -44,7 +44,7 @@ also illuminates provisions in the United States, though dusty with
 disuse, that have the potential to restrict foreign NGO activity within
 U.S. borders as well.
 
-### Regulating Foreign NGOs, or NGOs that Happen to Be Foreign
+## Regulating Foreign NGOs, or NGOs that Happen to Be Foreign
 
 The first challenge when comparing China’s, Hong Kong’s, and the
 United States’ non-profit regulations is a definitional one. The P.R.C.
@@ -133,7 +133,7 @@ the P.R.C. has a separate set of rules for foreign NGOs while the others
  do not.[<sup>1</sup>](#sdendnote1sym)<a class="anchor" id="sdendnote1anc"></a>
 
 
-### Foreign NGOs in Hong Kong
+## Foreign NGOs in Hong Kong
 
 
 Foreign NGOs in Hong Kong (that is, NGOs with headquarters outside
@@ -148,7 +148,7 @@ non-profit-related issues. NGOs have a great deal of freedom to operate,
 status.
 
 
-#### Definition and Registration
+### Definition and Registration
 
 Generally speaking, an entity need only be lawfully established and
 comply with legal reporting obligations to operate in Hong Kong. So
@@ -163,7 +163,7 @@ Groups that wish to hold public fundraising activities, hold a
 lottery, or provide services in certain fields (such as health care or
 education) must seek [permits from other departments](http://www.hkreform.gov.hk/en/docs/rcharities_e.pdf), such as the Social Welfare Department or the Home Affairs Department.
 
-#### Organizational Structure
+### Organizational Structure
 
 
 NGOs in Hong Kong generally choose to incorporate in one of the following [four forms](http://www.hkreform.gov.hk/en/docs/rcharities_e.pdf):
@@ -205,7 +205,7 @@ foreign NGOs is that foreign NGOs have the option to register as a
 non-Hong Kong company.
 
 
-#### Funding, Financial Disclosure, and Monitoring
+### Funding, Financial Disclosure, and Monitoring
 
 
 There are no explicit requirements related to NGO funding in Hong
@@ -222,7 +222,7 @@ file such accounts with the police, for example. NGOs running schools,
 hospitals, or government-subsidized services, however, are subject to
 greater scrutiny.
 
-#### Penalty for Breach of Laws
+### Penalty for Breach of Laws
 
 NGOs in breach of regulations are subject to legal sanctions based on
  the administrative powers of various government oversight bodies. For
@@ -231,7 +231,7 @@ tax-exempt status of an NGO. If an NGO’s legal violations involve
 deception, criminal liabilities may also be imposed on senior personnel.
 
 
-### Foreign NGOs in the United States
+## Foreign NGOs in the United States
 
 
 There are about [1.5 million](https://www.state.gov/j/drl/rls/fs/2017/266904.htm#_ftn1)
@@ -243,7 +243,7 @@ FARA), this section will analyze the regulations that serve as the
 general framework for all NGOs in the United States.
 
 
-#### Definitions and Registration
+### Definitions and Registration
 
 There is no single, national-level statutory definition of what constitutes an NGO in the United States, but some states [require](https://www.state.gov/j/drl/rls/fs/2017/266904.htm#_ftn1)
  groups with charitable purposes to register with a state charity
@@ -277,7 +277,7 @@ unincorporated organizations, including a number of different
 charity-related tax statuses.
 
 
-#### Filing and Financial Disclosure
+### Filing and Financial Disclosure
 
 Filing and financial disclosure in the form of annual reports is
 managed according to the assets, annual gross receipt amounts, and
@@ -291,7 +291,7 @@ that are private rather than public, and to those that engage in
 partisan political activities. Lobbying activities have their own tax
 benefit restrictions.
 
-### Foreign NGOs in China
+## Foreign NGOs in China
 
 
 Unlike the United States and Hong Kong, China has specific,
@@ -306,7 +306,7 @@ U.S. or Hong Kong, subjecting organizations to many more requirements,
 including mandatory registration.
 
 
-#### Definitions and Registration
+### Definitions and Registration
 
 
 The Charity Law defines charitable organizations as non-profit-making, for public benefit, and involving charitable activities, [including](http://www.chinafile.com/ngo/laws-regulations/charity-law-of-peoples-republic-of-china)
@@ -323,7 +323,7 @@ detaining a foreign NGO’s representatives and stopping funding transfers
  to Chinese partners.
 
 
-#### Organizational Structure
+### Organizational Structure
 
 Foreign NGOs can register in one of the two following ways under the Foreign NGO Law:
 
@@ -355,7 +355,7 @@ again if they wish to continue carrying out an activity for more than
 one year.
 
 
-#### Funding, Financial Disclosure, and Monitoring
+### Funding, Financial Disclosure, and Monitoring
 
 Foreign NGO representative offices may apply for employment permits
 or tax benefits, which are not available to NGOs only carrying out
@@ -369,7 +369,7 @@ All foreign NGOs are forbidden from fundraising in China, required to
  use a designated bank account for transfers across the border, and are
 prohibited to solicit membership in China.
 
-#### Penalty for Breach of Laws
+### Penalty for Breach of Laws
 
 The law mandates that foreign NGOs that violate the Foreign NGO Law
 be de-registered; their representatives may also be detained. Foreign
@@ -381,7 +381,7 @@ investigate and public security departments may seize assets/facilities
 of foreign NGOs when they suspect the representative offices have
 violated the law.
 
---- <br>
+<hr>
 
 [<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a> The theoretical framework for this comparison makes use of Bloodgood et al.’s definition in their article “[National Styles of NGO Regulation](http://journals.sagepub.com/doi/abs/10.1177/0899764013481111)” (Nonprofit and Voluntary Sector Quarterly,
  2014) of a restrictive or permissive model based on the accessibility

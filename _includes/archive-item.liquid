@@ -1,0 +1,8 @@
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.url }}" rel="permalink">{{ post.data.title | markdownifyInline }}</a></h2>
+    {%- if post.data.excerpt %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.data.excerpt | markdownifyInline }}</p>
+    {%- endif %}
+  </article>
+</div>

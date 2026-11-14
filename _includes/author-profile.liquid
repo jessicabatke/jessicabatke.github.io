@@ -1,0 +1,25 @@
+{%- if author %}{% assign a = authors[author] | default: site.author %}{% else %}{% assign a = site.author %}{% endif -%}
+<div class="sidebar sticky">
+<div itemscope itemtype="https://schema.org/Person">
+  {%- if a.avatar %}
+  <div class="author__avatar"><img src="{{ a.avatar }}" alt="{{ a.name }}" itemprop="image"></div>
+  {%- endif %}
+  <div class="author__content">
+    <p class="author__name" itemprop="name">{{ a.name }}</p>
+    {%- if a.bio %}
+    <div class="author__bio" itemprop="description">{{ a.bio | markdownify }}</div>
+    {%- endif %}
+  </div>
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      {%- if a.location %}
+      <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">{{ "map-pin" | icon }} <span itemprop="name">{{ a.location }}</span></li>
+      {%- endif %}
+      {%- for link in a.links %}{% if link.label and link.url %}
+      <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.icon | default: "link" | icon }} {{ link.label }}</a></li>
+      {%- endif %}{% endfor %}
+    </ul>
+  </div>
+</div>
+</div>

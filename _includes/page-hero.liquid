@@ -1,0 +1,16 @@
+{%- if header.overlay_image or header.overlay_color %}
+<div class="page__hero--overlay" style="{% if header.overlay_color %}background-color: {{ header.overlay_color }};{% endif %} {% if header.overlay_image %}background-image: url('{{ header.overlay_image }}');{% endif %}">
+  <div class="wrapper">
+    <h1 id="page-title" class="page__title" itemprop="headline">{{ title | default: site.title | markdownifyInline }}</h1>
+    {%- if excerpt and header.show_overlay_excerpt != false %}
+    <p class="page__lead">{{ excerpt | markdownifyInline }}</p>
+    {%- endif %}
+  </div>
+  {%- if header.caption %}<span class="page__hero-caption">{{ header.caption | markdownifyInline }}</span>{% endif %}
+</div>
+{%- elsif header.image %}
+<div class="page__hero">
+  <img src="{{ header.image }}" alt="{{ header.image_description | default: title | strip_html | escape }}" class="page__hero-image">
+  {%- if header.caption %}<span class="page__hero-caption">{{ header.caption | markdownifyInline }}</span>{% endif %}
+</div>
+{%- endif %}

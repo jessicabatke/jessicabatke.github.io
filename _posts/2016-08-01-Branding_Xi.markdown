@@ -3,12 +3,12 @@ layout: single
 title:  "Branding Xi: How the CCP creates a professional PR leadership package for the modern era"
 date:   2016-08-01
 categories: Research&Writing
-tags: [leadership, Xi Jinping, propaganda, MERICS]
+tags: [Leadership, Xi Jinping, Propaganda]
 classes: wide
 excerpt: "MERICS / 2016-08-01"
 ---
 
-**By Jessica Batke* and Mareike Ohlberg**
+**By Jessica Batke\* and Mareike Ohlberg**
 
 
 **Originally published as a [Web Special on the MERICS website](http://www.merics.org/en/merics-analysis/dossierweb-special/branding-xi/)**
@@ -18,7 +18,7 @@ necessarily the views of the U.S. Government or the Department of State.*
 
 
 
---- <br>
+<hr class="page__divider">
 
 
 This
@@ -38,7 +38,7 @@ representation and appearances are highly scripted. In fact, the
 increased, flashier coverage of Xi Jinping gives us very little insight
 into either his personality or his personal power.
 
-![brandingxi0](/media/brandingxi0.png)
+![MERICS illustration titled ‘Not Quite as it Xeems?’: a plain blue portrait of ‘Real-life Xi’ goes through orange ‘Propaganda machinery’ gears and comes out as a large red-and-gold, smiling, waving ‘Super-size world leader Xi’ surrounded by stars.](/media/brandingxi0.png)
 
 >Click here to [download the Web Special &ldquo;Branding Xi&rdquo; as PDF](http://www.merics.org/en/redirect/web-special-branding-xi-the-ccp-creates-a-professional-pr-leadership-package-for-the-modern-era/).
 
@@ -59,7 +59,7 @@ is building a personality cult. “[Emperor Xi](http://images.google.de/imgres?i
 colleagues in the Politburo Standing Committee (PBSC) and is becoming
 increasingly like Mao (see Figure 1).
 
-![brandingxi1](/media/brandingxi1.jpg)
+![Collage of Western news headlines about Xi, such as ‘China’s Chairman Builds a Cult of Personality,’ ‘Uncle Xi’s Astonishing Power Grab,’ ‘China’s Imperial President’ and ‘Personality cult grows around China’s Big Daddy Xi.’](/media/brandingxi1.jpg)
 
 *Figure 1: Xi’s “power” and “personality cult” dominate the headlines*
 
@@ -87,7 +87,7 @@ conferences.
 
 
 
-#### Xi, the face of a CCP rebranding effort
+## Xi, the face of a CCP rebranding effort
 
 We
  assess that the CCP has made the strategic choice to put Xi forward as
@@ -100,7 +100,7 @@ Committee walking together at key government meetings—the canonical
 image of the “collective” Hu/Wen leadership—stopped appearing in the
 ritualized coverage of the People’s Daily (Figure 2).
 
-![brandingxi2](/media/brandingxi2.png)
+![Two People’s Daily front pages, each topped by a large photo of the standing committee leaders walking side by side under a headline announcing that the national political consultative conference session has opened in Beijing.](/media/brandingxi2.png)
 
 *Figure 2: The collective power walk. Left, in 1996 under Jiang Zemin,
 right, the last use of this sort of image at the “Two Meetings” of
@@ -120,7 +120,7 @@ people accept and identify with the CCP’s policies. In fact, the CCP had
 
 
 
-#### Improved packaging does not equal a charismatic leader
+## Improved packaging does not equal a charismatic leader
 
 Careful, deliberate packaging of the Chinese leadership has long been
  a central component of the Chinese propaganda apparatus. This basic
@@ -154,7 +154,7 @@ footage of Jiang Zemin, Zhu Rongji, Hu Jintao, Wen Jiabao, Xi Jinping,
 and Li Keqiang.  An extended version is also available [here](https://youtu.be/Ntk4bHepdYw).
 
 
-#### New media: the medium sells the message
+## New media: the medium sells the message
 
 
 The biggest change in media coverage—what makes observers *feel* so
@@ -184,7 +184,7 @@ speech the CCP had repeatedly identified as a problem [under the last administra
 communication is the infographic (图解), first used in the last years of
 the Hu-Wen administration (Figure 3). These days, anything from a [Xi Jinping speech](http://www.ccdi.gov.cn/yw/201601/t20160112_72699.html) to a [government work report](http://www.gov.cn/xinwen/2016-03/05/content_5049321.htm) will be presented in the form of an infographic.
 
-![brandingxi3](/media/brandingxi3.png)
+![Two People’s Daily pages on the ‘Two Meetings.’ On the left, a mostly text page headed ‘Frontline deputies discuss state affairs’ with one photo. On the right, a colorful infographic headed ‘New development concepts take root’ with icons and figures.](/media/brandingxi3.png)
 
 <i>Figure 3: Infographics on the &ldquo;Two Meetings” (2010 and 2016). <br/>
 Source: People’s Daily, Cover page, March 9, 2010 and People’s Daily online.</i>
@@ -201,7 +201,7 @@ with individually-generated content in a way that preserves its control.
 
 
 
-#### Taking advantage of foreign expertise and a new slate of leaders
+## Taking advantage of foreign expertise and a new slate of leaders
 
 As
  noted above, much of what we see in new media and new formats was
@@ -212,7 +212,7 @@ as cartoon characters (Figure 5). In producing these cartoons,
 propaganda authorities are working together with the private sector,
 including with [foreign](http://blogs.wsj.com/chinarealtime/2016/05/13/the-foreigner-advising-beijing-on-propaganda/) [PR companies](http://www.business-standard.com/article/pti-stories/us-ad-firm-helped-with-propaganda-video-china-studio-115102901362_1.html).
 
-![brandingxi4](/media/brandingxi4.png)
+![Four state-media stills of Xi in cartoon or video form: in a golden carriage with Queen Elizabeth, shaking hands with David Cameron at 10 Downing Street, as a waving cartoon with question bubbles (‘Research? Visit? Vacation? Meeting? Study? Event?’), and in a colorful music-video collage.](/media/brandingxi4.png)
 
 *Figure 4: Yup. The presentation of China’s top leader has changed.*
 
@@ -221,11 +221,11 @@ The Chinese propaganda apparatus is also looking to other governments as potenti
 staple of the Chinese leadership for decades. The speech was rather
 formal under Hu Jintao but has been retooled under Xi.  It now has a similar look and feel to Angela Merkel’s New Year’s address, for example, or to Barack Obama’s weekly address. <br/>
 
-![brandingxi5](/media/brandingxi5.png)
+![CCTV still of Hu Jintao standing at a lectern with the national emblem in a large formal hall with red patterned carpet and a Chinese flag.](/media/brandingxi5.png)
 
 *Figure 5: Hu Jintao giving the New Year’s address from behind a lectern in 2009*
 
-![brandingxi6](/media/brandingxi6.png)
+![Four New Year’s or weekly address video stills side by side: Xi Jinping, Vladimir Putin, Angela Merkel and Barack Obama, each close to the camera in front of their national flag or a landmark (the Kremlin at night, the Reichstag).](/media/brandingxi6.png)
 
 *Figure 6: We can&rsquo;t help but notice the convergence in how politicians look when addressing the public*
 
@@ -251,7 +251,7 @@ Jinping.
 
 
 
-#### Here a Xi, there a Xi, everywhere (in the People’s Daily) a Xi
+## Here a Xi, there a Xi, everywhere (in the People’s Daily) a Xi
 
 The
  volume of media coverage about Xi Jinping does indeed represent a
@@ -260,7 +260,7 @@ standard of Party media—front page coverage in the People’s Daily—shows
 that mentions of Xi Jinping have been higher than similar mentions of Hu
  during his tenure (Figure 7).
 
- ![brandingxi7](/media/brandingxi7.jpg)
+ ![Line chart of front-page headline mentions of the General Secretary in the People’s Daily, 2003–2015. Hu Jintao peaks at about 500 in 2007 and falls to near zero after 2012, while Xi rises to about 660 in 2014 and about 610 in 2015.](/media/brandingxi7.jpg)
 
 *Figure 7 <br/>*
 
@@ -282,14 +282,14 @@ This is likely one major reason why media coverage of Xi Jinping *feels* so
  different than that of Hu Jintao: the gap between Hu coverage during
 his second term and that of Xi’s first term is quite wide. <br/>
 
-![brandingxi8](/media/brandingxi8.jpg)
+![Line chart of front-page People’s Daily headline mentions of the General Secretary, 1993–2015. Peaks are labeled for Jiang (356, 1999), Hu (509, 2007) and Xi (659, 2014). Hu’s mentions fall during his second term, breaking an otherwise rising trend.](/media/brandingxi8.jpg)
 
 *Figure 8*
 
 
 
 
-#### Volume of coverage does not equal power
+## Volume of coverage does not equal power
 
 There are several problems with interpreting these charts to mean that Xi Jinping is [more powerful](http://gbcode.rthk.org.hk/TuniS/app3.rthk.hk/mediadigest/content.php?aid=1563) than his predecessors or that he is [trying](http://cmp.hku.hk/2015/12/04/39412/) to
  build a “personality cult.” First, it would suggest that Hu Jintao was
@@ -301,14 +301,14 @@ others (Figure 9). Most observers would agree that neither of these are
 the case. Simply put, interpreting the volume of media coverage as
 directly correlating to a leader’s power clearly does not work.
 
-![brandingxi9](/media/brandingxi9.jpg)
+![Bar chart of front-page People’s Daily headline mentions of each standing committee member, 2013–2015. Xi far exceeds the rest (about 480–660 a year), Li Keqiang is second (about 250), and anti-corruption chief Wang Qishan is lowest every year (about 50–60).](/media/brandingxi9.jpg)
 
 *Figure 9*
 
 
 
 
-#### It’s not just about Xi &hellip; it’s also about Li
+## It’s not just about Xi &hellip; it’s also about Li
 
 [A](http://asia.nikkei.com/Politics-Economy/Policy-Politics/Xi-Jinping-vs.-Li-Keqiang) [number](http://www.economist.com/news/china/21674793-li-keqiang-weakest-chinese-prime-minister-decades-very-chinese-coup) [of](http://www.wsj.com/articles/SB10001424052702304477704579252493857611618) [people](http://www.theaustralian.com.au/news/world/the-times/wang-qishan-to-oust-chinese-premier-li-keqiang/news-story/e94d6a7592f80846dd50dbe1a0813be5)
  have argued that Li Keqiang is being sidelined by Xi Jinping. While
@@ -318,7 +318,7 @@ coverage consistently hovers around 20 per cent for the premier.
 Instead, the increase in coverage of Xi Jinping clearly comes at the
 expense of other PBSC members (Figure 10). <br/>
 
-![brandingxi10](/media/brandingxi10.jpg)
+![Line chart of shares of front-page People’s Daily headline mentions among standing committee members, 1998–2015. The Premier holds steady at about 17–20%. After 2012 the General Secretary jumps from about 18% to over 40%, while other members drop from about 64% to under 40%.](/media/brandingxi10.jpg)
 
 *Figure 10*
 
@@ -336,7 +336,7 @@ coverage.
 
 
 
-#### The Premier also gets his own cartoons
+## The Premier also gets his own cartoons
 
 While
  most other PBSC leaders are largely, though not completely, receding
@@ -350,7 +350,7 @@ Chairman Mao (Figure 11). Of course, nobody is suggesting that Li is
 building a cult of personality. He isn&rsquo;t, and neither is Xi.
 
 
-![brandingxi11](/media/brandingxi11.png)
+![Two cartoons of Li Keqiang: one where he hands a life preserver to EU leaders adrift in a leaky boat, and one where he clinks beer mugs with Angela Merkel. Beside them, a ‘What Premier Says’ quote box with a small Li caricature.](/media/brandingxi11.png)
 
 *Figure 11: Left, cartoon Li Keqiang saving the EU and chilling over a beer
 with Angela Merkel afterwards. Right, quotations from Premier Li<br/>
@@ -359,7 +359,7 @@ Source: news.xinhuanet.com, news.ifeng.com, english.gov.cn*
 
 
 
-#### Disaster coverage: Li remains “consoler-in-chief”
+## Disaster coverage: Li remains “consoler-in-chief”
 
 In
  looking at how the media covers the leadership response to disasters,
@@ -370,7 +370,7 @@ changes of degree, not of kind, and are well within the bounds of normal
  alterations of coverage that occur both across and within
 administrations.
 
-![brandingxi12](/media/brandingxi12.png)
+![Two news photos. On the left, Wen Jiabao and officials in white shirts carry funeral bouquets at a memorial. On the right, Li Keqiang leans over to shake hands with a man in a hospital ward.](/media/brandingxi12.png)
 
 *Figure 12: The Premier is on the scene. Left, Wen Jiabao after the
 Wenzhou train crash in 2011 (Source: news.cn); right, Li Keqiang after
@@ -379,7 +379,7 @@ the Tianjin explosions in 2015.*
 
 
 
-#### Ritualized event coverage: leaders move out and the people move in
+## Ritualized event coverage: leaders move out and the people move in
 
 Aside
  from the numbers, have there been any significant changes in how the
@@ -411,19 +411,19 @@ ordinary Chinese increased markedly, with several days of coverage
 showing images of both the General Secretary and the Premier out among
 the people.
 
-![brandingxi13](/media/brandingxi13.png)
+![Two black-and-white People’s Daily front pages. One shows Li Peng with the people of the Yan’an revolutionary base area at New Year. The other shows Zhu Rongji in a crowd of villagers under a headline about his visit to Guizhou’s ethnic groups.](/media/brandingxi13.png)
 
 *Figure 13: Li Peng (1996) and Zhu Rongji (2000) meeting the people*
 
 
-![brandingxi14](/media/brandingxi14.jpg)
+![Photo collage of Chinese leaders on holiday visits: cooking in home kitchens, chatting with elderly residents, shaking hands with police officers, and greeting workers in red jackets and hard hats.](/media/brandingxi14.jpg)
 
 *Figure 14: Mingling with the ordinary folks: Hu Jintao, Wen Jiabao, and Xi Jinping*
 
 
 
 
-#### Conclusion: A new image for a new era
+## Conclusion: A new image for a new era
 
 A
  close look at Chinese media representations of the top leader reveals

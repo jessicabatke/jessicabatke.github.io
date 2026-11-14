@@ -3,7 +3,7 @@ layout: single
 title:  "Which PSUs Listed by the MPS Are Not Yet Serving as Such?"
 date:   2017-06-21
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 classes: wide
 excerpt: "The China NGO Project / 2017-06-21"
 ---
@@ -13,7 +13,7 @@ excerpt: "The China NGO Project / 2017-06-21"
 *For the sake of clarity, we have used the names of the highest-level entity in each functional hierarchy (for example, the Ministry of Justice). Technically speaking, there are no “ministries” at the provincial level, but rather bureaus or departments.*
 
 
---- <br>
+<hr class="page__divider">
 
 As of June 16, more than six months after the Foreign NGO Law went into effect, 84 foreign NGOs have successfully registered 97 representative offices. Thirty-eight unique Chinese government entities at either the national or provincial level have agreed to serve as the Professional Supervisory Unit (PSU) for one or more of these NGOs.
 

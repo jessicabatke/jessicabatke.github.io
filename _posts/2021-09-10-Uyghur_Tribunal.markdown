@@ -3,7 +3,7 @@ layout: single
 title:  "Uyghur Tribunal - Live Hearing 10th September 2021"
 date:   2021-09-10
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "Uyghur Tribunal / 2021-09-10"
 ---

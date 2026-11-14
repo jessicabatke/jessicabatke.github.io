@@ -3,9 +3,12 @@ layout: single
 title:  "State of Surveillance (Budgeting for Surveillance)"
 date:   2020-10-30
 categories: Research&Writing
-tags: [ChinaFile, surveillance]
+tags: [Surveillance, Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2020-10-30"
+# Shown indented under its main piece on the Research / Writing page
+part_of: "/research&writing/State_Surveillance_China_main/"
+part_order: 4
 ---
 **By Mareike Ohlberg and Jessica Batke**
 
@@ -14,7 +17,7 @@ excerpt: "ChinaFile / 2020-10-30"
 
 
 
---- <br>
+<hr class="page__divider">
 
 The work of buying and building out surveillance infrastructure in China largely falls to local governments. Numerous localities and agencies make purchases as they implement a range of centrally-mandated surveillance projects and campaigns. Given the number of bureaucracies and initiatives taking part—as well as the Party-state’s tendency to withhold information from the public—it is difficult to precisely reconstruct a full account of China’s spending on surveillance-related products and services. According to China Digital Times, the central government distributed 3.1 billion renminbi (U.S.$463,000) to Sharp Eyes projects between its launch in 2015 and the end of 2017. The central government’s five-year plan for video surveillance projected that “from 2016 to 2020, 250 model cities [would] allocate 10 billion renminbi to ‘Project Sharp Eyes.’”
 

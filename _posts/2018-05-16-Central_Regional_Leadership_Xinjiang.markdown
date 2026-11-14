@@ -4,7 +4,7 @@ title:  "Central and Regional Leadership for Xinjiang Policy
 in Xi’s Second Term"
 date:   2018-05-16
 categories: Research&Writing
-tags: [leadership, China Leadership Monitor, Xinjiang Uyghur Autonomous Region, Uyghurs]
+tags: [Leadership, Uyghur Region]
 classes: wide
 excerpt: "China Leadership Monitor / 2018-05-16"
 ---
@@ -18,10 +18,10 @@ excerpt: "China Leadership Monitor / 2018-05-16"
 and do not necessarily represent official positions of the United States
  Government.*
 
---- <br>
+<hr class="page__divider">
 
 
-### Central Leadership: Two Key Policymaking Constellations
+## Central Leadership: Two Key Policymaking Constellations
 
 There are two main
 constellations of bureaucratic agencies that have the most influence
@@ -40,7 +40,7 @@ expect any new leaders or new institutional arrangements to
 substantively alter the policy course in Xinjiang.
 
 
-#### United Front Hierarchy
+### United Front Hierarchy
 
 The United Front
 Work Department (UFWD), a party entity, falls under the leadership of
@@ -82,7 +82,7 @@ specially designated staff to manage Xinjiang-related issues.[<sup>2</sup>](#sde
 
 
 
-#### Politics and Law Hierarchy
+### Politics and Law Hierarchy
 
 The Central
 Committee Politics and Law Commission (PLC; see table 2) is a party
@@ -141,7 +141,7 @@ span covered above, but are not listed as PLC members.</i>
 
 
 
-#### Central Committee Xinjiang Work Coordination Small Group
+### Central Committee Xinjiang Work Coordination Small Group
 
 
 The Central Committee Xinjiang Work Coordination Small Group is one
@@ -276,7 +276,7 @@ on state-affiliated or -permitted PRC media reporting</i>
 
 
 
-### Regional Leadership: Both Initiator and Instrument
+## Regional Leadership: Both Initiator and Instrument
 
 PRC policies related
 to Xinjiang became startlingly more repressive in the last two years,
@@ -418,10 +418,10 @@ and priorities to enact exceptionally harsh measures on ethnic
 minority residents.
 
 
---- <br>
+<hr>
 
 
-#### Notes
+### Notes
 
 
 [<sup>1</sup>](#sdendnote1anc)<a class="anchor" id="sdendnote1sym"></a> Xia

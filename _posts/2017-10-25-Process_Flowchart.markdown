@@ -3,7 +3,7 @@ layout: single
 title:  "Representative Offices Registration and Temporary Activity Filing Processes: A Flowchart"
 date:   2017-10-25
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law]
+tags: [Foreign NGO Law]
 excerpt: "The China NGO Project / 2017-10-25"
 ---
 
@@ -11,7 +11,7 @@ excerpt: "The China NGO Project / 2017-10-25"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Based on its discussions with various foreign NGOs (and with much-appreciated assistance from several experts), The China NGO Project has created the following flowchart to help show the differences between registering for a representative office and filing for a temporary activity. In particular, we wish to highlight that when filing for temporary activities, Chinese Partner Units may have their own external supervisory units that have to grant approval before the Partner can submit the filing to a Public Security Bureau office. As we noted in a [previous post](http://www.chinafile.com/ngo/latest/case-study-temporary-activity-filing-stalled), temporary activity filings can stall out at this phase of the process, meaning they never go to Public Security Bureau and therefore are never officially rejected—but nonetheless they are never realized.
 

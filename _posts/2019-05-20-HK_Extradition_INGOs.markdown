@@ -3,7 +3,7 @@ layout: single
 title:  "What Would Amending Hong Kong’s Law on Extradition Mean for International Non-Profits?"
 date:   2019-05-20
 categories: Research&Writing
-tags: [The China NGO Project, ChinaFile, Foreign NGO Law, Hong Kong]
+tags: [Foreign NGO Law, Hong Kong]
 classes: wide
 excerpt: "The China NGO Project / 2019-05-20"
 ---
@@ -14,7 +14,7 @@ excerpt: "The China NGO Project / 2019-05-20"
 
 
 
---- <br>
+<hr class="page__divider">
 
 Hong Kong legislators are currently engaged in a fierce struggle over the proposed passing of a bill that would expand Hong Kong's policy to allow for extradition, on a case-by-case basis, to countries with which the territory does not have formal agreements. One such country is China. Since the 1997 handover, Hong Kong’s extradition law has explicitly excluded the possibility of extradition to mainland China, but the amendments currently being debated would change that.
 

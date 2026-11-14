@@ -3,11 +3,11 @@ layout: single
 title:  "Good Citizens, Splendid Civilization: Culture in the 13th FYP"
 date:   2016-03-29
 categories: Research&Writing
-tags: [leadership, five year plan, culture, MERICS]
+tags: [Leadership]
 classes: wide
 excerpt: "MERICS / 2016-03-29"
+dek: 'In Part 3 of our series on the 13<sup>th</sup> five-year plan, Jessica Batke shows how the CCP hopes to foster a sense of national identity by instilling cultural and moral values among the population. A key part of this constructed identity is closeness with the Party itself.'
 ---
-#### In Part 3 of our series on the 13<sup>th</sup> five-year plan, Jessica Batke shows how the CCP hopes to foster a sense of national identity by instilling cultural and moral values among the population. A key part of this constructed identity is closeness with the Party itself.
 
 **Originally published as part of MERICS’ blog series on the [13th Five Year Plan](https://blog.merics.org/en/blog-post/2016/03/29/good-citizens-splendid-civilization-culture-in-the-13th-fyp-part-3-of-merics-series/)**
 
@@ -17,7 +17,7 @@ necessarily the views of the U.S. Government or the Department of State.*
 <br>
 
 
---- <br>
+<hr class="page__divider">
 
 
 

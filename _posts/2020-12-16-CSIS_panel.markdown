@@ -3,7 +3,7 @@ layout: single
 title:  "Online Event: Stopping Human Rights Abuses in Xinjiang: What's Worked, What Hasn't, and What's Next?"
 date:   2020-12-16
 categories: Research&Writing
-tags: [Xinjiang Uyghur Autonomous Region, Uyghurs, public remarks]
+tags: [Uyghur Region]
 classes: wide
 excerpt: "CSIS / 2020-12-16"
 ---

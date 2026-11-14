@@ -3,7 +3,7 @@ layout: single
 title:  "Message Control: How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’"
 date:   2020-12-20
 categories: Research&Writing
-tags: [ChinaFile, surveillance]
+tags: [Surveillance, Propaganda, Censorship, Internet]
 classes: wide
 excerpt: "ChinaFile / 2020-12-20"
 header:
@@ -17,7 +17,7 @@ header:
 
 
 
---- <br>
+<hr class="page__divider">
 
 <p class=dropcap>Li Wenliang’s death had only been announced a few hours earlier, but Warming High-Tech was already on the case. The company had been monitoring online mentions of the COVID-whistleblower’s name in the several days since police had detained and punished him for “<a href="https://www.inkstonenews.com/health/police-letter-tried-keep-chinese-doctor-li-wenliang-warning-coronavirus/article/3049555" target="_blank">spreading rumors</a>.” Now, news of his deteriorating condition, and eventual passing, had <a href="https://www.nytimes.com/2020/02/07/world/asia/china-coronavirus-doctor-death.html" target="_blank">triggered</a> a deluge of sorrow and <a href="https://www.theguardian.com/global-development/2020/feb/07/coronavirus-chinese-rage-death-whistleblower-doctor-li-wenliang" target="_blank">outrage</a> online adorned with candle emojis, photos of farewell wishes scrawled into the snow, and a final image of the 34-year-old ophthalmologist as he lay in his hospital bed in Wuhan.</p>
 
