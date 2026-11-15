@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "MIT / 2019-04-20"
+work_type: Talk
 ---
 <style>
 div.ytcontainer {

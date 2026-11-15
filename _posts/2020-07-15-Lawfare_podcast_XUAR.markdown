@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "The Lawfare Podcast: A Deep Dive on China and the Uighurs"
+title:  "A Deep Dive on China and the Uighurs"
 date:   2020-07-15
 categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "Lawfare / 2020-07-15"
+work_type: Podcast
 ---
 
 

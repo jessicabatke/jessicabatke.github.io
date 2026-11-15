@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Foreign NGO Law]
 classes: wide
 excerpt: "U.S.-Asia Law Institute, NYU / 2021-10-13"
+work_type: Talk
 ---
 
 

@@ -1,19 +1,14 @@
 ---
 layout: single
-title:  "State of Surveillance (Key Takeaways)"
+title:  "State of Surveillance: Key Takeaways"
 date:   2020-10-30
 categories: Research&Writing
 tags: [Uyghur Region, Surveillance]
 classes: wide
 excerpt: "ChinaFile / 2020-10-30"
-# Shown indented under its main piece on the Research / Writing page
-part_of: "/research&writing/State_Surveillance_China_main/"
-part_order: 1
 ---
 **By Mareike Ohlberg and Jessica Batke**
 
-
-**The following are the Key Takeaways from our article "State of Surveillance." The full-length version of this article originally appeared on [ChinaFile](https://www.chinafile.com/state-surveillance-china).**
 
 
 

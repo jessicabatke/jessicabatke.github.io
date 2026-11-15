@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "ChinaFile Presents: Surveillance State—Inside China’s Quest to Launch a New Era of Social Control"
+title:  "Surveillance State—Inside China’s Quest to Launch a New Era of Social Control"
 date:   2022-09-22
 categories: Research&Writing
 tags: [Surveillance]
 classes: wide
 excerpt: "ChinaFile / 2022-09-22"
+work_type: Talk
 ---
 
 

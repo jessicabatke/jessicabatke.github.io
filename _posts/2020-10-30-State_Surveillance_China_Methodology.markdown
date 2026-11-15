@@ -1,19 +1,14 @@
 ---
 layout: single
-title:  "State of Surveillance (Methodology)"
+title:  "State of Surveillance: Methodology"
 date:   2020-10-30
 categories: Research&Writing
 tags: [Surveillance, Uyghur Region]
 classes: wide
 excerpt: "ChinaFile / 2020-10-30"
-# Shown indented under its main piece on the Research / Writing page
-part_of: "/research&writing/State_Surveillance_China_main/"
-part_order: 6
 ---
 **By Mareike Ohlberg and Jessica Batke**
 
-
-**This article is part of a larger investigation of the PRC's surveillance apparatus, including a feature article, a number of sidebar articles, and supplemental materials, all originally appearing on [ChinaFile](https://www.chinafile.com/state-surveillance-china). The text below does not include illustrations and charts that are part of the full article.**
 
 
 

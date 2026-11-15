@@ -24,7 +24,7 @@ classes: wide
     {%- for post in tag.posts %}
     {%- assign wtype = post | workType %}
     <li class="work-row">
-      <a href="{{ post.url }}">{{ post.data.title | markdownifyInline }}</a>
+      <a href="{{ post.url }}">{{ post.data.title | markdownifyInline }} <span class="work-row__year">{{ post.date | date: "%Y" }}</span></a>
       <span class="work-row__outlet">{{ post.data.excerpt | outlet }}<span class="work-row__type" title="{{ wtype }}">{{ wtype | downcase | icon }}<span class="screen-reader-text">{{ wtype }}</span></span></span>
     </li>
     {%- endfor %}

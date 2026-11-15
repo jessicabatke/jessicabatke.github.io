@@ -1,0 +1,131 @@
+# Multi-part projects. Each project is defined once here, and the site builds from it:
+#   - a project page at /projects/<key>/ (e.g. /projects/state-of-surveillance/)
+#   - a box near the top of every part listing all the parts ("you are here")
+#   - "Previous part / Next part" at the bottom of every part
+#   - one line for the whole project on the Research / Writing list
+#
+# Parts are listed in reading order; the first one should be the main article.
+# "title" under each part is the short name used inside the project
+# (the post's own title, e.g. "State of Surveillance: Methodology", is used elsewhere).
+# Descriptions are taken from each part's own opening sentence; edit freely.
+#
+# To add a project: copy one of these blocks, give it a new key (lowercase-with-dashes),
+# and list its parts by their web addresses.
+
+state-of-surveillance:
+  title: "State of Surveillance"
+  dek: "Government Documents Reveal New Evidence on China’s Efforts to Monitor Its People"
+  byline: "By Mareike Ohlberg and Jessica Batke"
+  intro: "ChinaFile’s analysis of some 76,000 government procurement notices and corresponding documents related to the purchases of surveillance technology by both central and local governments across China between 2004 and mid-May 2020 is the most comprehensive accounting of China’s surveillance build-up to date."
+  original_outlet: "ChinaFile"
+  original_url: "https://www.chinafile.com/state-surveillance-china"
+  # Hero drawn with code from real data (see /workspace/site-tools/sos-hero/README.md to remake or change it)
+  image: /media/sos-hero.svg
+  image_description: "Map of Xiqiao township in deep plum, its roads drawn as faint light lines, with more than 200 face-recognition camera locations glowing orange and red, densest in a cluster on the right."
+  image_caption: "Face-recognition camera locations in Xiqiao township, from ChinaFile’s State of Surveillance data. Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors."
+  parts:
+    - url: /research&writing/State_Surveillance_China_main/
+      title: "Main Article"
+      description: "Though it remains uncertain how effective these technologies are, the intent is clear: to eliminate any public spaces where people might remain unwatched."
+    - url: /research&writing/State_Surveillance_China_KeyTakeaways/
+      title: "Key Takeaways"
+      description: "Officials at both the central and local levels crave the ability to penetrate ever deeper into Chinese citizens’ private lives, animated by fear of a population on the move."
+    - url: /research&writing/State_Surveillance_China_Bureaucracy/
+      title: "The Surveillance Bureaucracy"
+      description: "The Chinese government’s surveillance capabilities, while vast and impressive, do not result from one monolithic project."
+    - url: /research&writing/State_Surveillance_China_Cameras/
+      title: "Cameras and Software"
+      description: "To reach their goal of monitoring all of China’s key public spaces, local authorities need to buy a lot of cameras and other technology."
+    - url: /research&writing/State_Surveillance_China_Budget/
+      title: "Budgeting for Surveillance"
+      description: "The work of buying and building out surveillance infrastructure in China largely falls to local governments."
+    - url: /research&writing/State_Surveillance_China_HumanNeeds/
+      title: "Xiqiao Township’s Hierarchy of Human Needs"
+      description: "Below is ChinaFile’s translation of an excerpt from a July 2019 procurement notice, issued by the Comprehensive Management, Petitioning, and Stability Maintenance Office in Xiqiao township, Guangdong province."
+    - url: /research&writing/State_Surveillance_China_Methodology/
+      title: "Methodology"
+      description: "ChinaFile’s research for “State of Surveillance” relied primarily on a dataset comprising some 76,000 procurement notices that central and local government offices posted for goods and services related to surveillance."
+
+message-control:
+  title: "Message Control"
+  dek: "How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’"
+  byline: "By Mareike Ohlberg and Jessica Batke"
+  intro: "Message Control: How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’,” a new report from ChinaFile, relies on an analysis of some 3,100 publicly available Chinese government procurement notices related to purchases of products and services to help officials monitor and control public opinion across China between January 2007 and late August 2020."
+  original_outlet: "ChinaFile"
+  original_url: "https://www.chinafile.com/reporting-opinion/features/message-control-china"
+  image: /media/message_control.jpg
+  image_description: "Illustration: a dam in green hills holds back a reservoir crowded with colorful speech-bubble shapes printed with Chinese text."
+  image_caption: "Image credit: [**Steven Weinberg**](http://www.stevenweinbergstudio.com/) for [**ChinaFile**](https://www.chinafile.com/)"
+  parts:
+    - url: /research&writing/Message_Control_China_main/
+      title: "Main Article"
+      description: "Li Wenliang’s death had only been announced a few hours earlier, but Warming High-Tech was already on the case."
+    - url: /research&writing/Message_Control_China_KeyTakeaways/
+      title: "Key Takeaways"
+      description: "Chinese authorities want the ability to track, manipulate, or erase online speech."
+    - url: /research&writing/Message_Control_China_Methodology/
+      title: "Methodology"
+      description: "ChinaFile’s research for “Message Control: How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’” relied primarily on a dataset comprising some 3,100 procurement notices that central and local government offices posted for goods and services related to public opinion monitoring."
+
+the-locknet:
+  title: "The Locknet"
+  dek: "How China Controls Its Internet and Why It Matters"
+  byline: "By Jessica Batke and Laura Edelson"
+  intro: "China, its companies, and its citizens play a major role in the global internet: producing infrastructure, services, and content upon which people around the world depend. Yet, China’s extensive online censorship system remains poorly understood by most of the internet’s users, and the ways it alters both the physical and digital architecture of the internet are too often overlooked."
+  original_outlet: "ChinaFile"
+  original_url: "https://locknet.chinafile.com/"
+  image: /media/locknet-hero.webp
+  image_description: "Illustration: red airships, planes and warships drag huge fishing nets full of laptops and scraps of Chinese text across a grey-blue sea."
+  image_caption: "Cover art by [**Steven Weinberg**](http://www.stevenweinbergstudio.com/) for [**ChinaFile**](https://www.chinafile.com/). Other graphics found throughout this project are licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license."
+  # The main article (shown as the project's row on Research / Writing, and gives the project its date)
+  main: /research&writing/Locknet/
+  parts:
+    - url: /research&writing/Locknet/
+      title: "Main Article"
+      group: "The Locknet"
+      description: "Despite its increasing impact on our online lives, most people outside China don’t understand how this information control system really works. What does it consist of? How effective is it? What is its ultimate purpose? And how much does it alter the internet in the rest of the world?"
+    - url: /research&writing/Locknet_Part_1/
+      title: "I. Meatspace: The Locknet IRL"
+      group: "The Locknet"
+      description: "Though cyberspace may seem ephemeral and immaterial, it is inherently tied to “meatspace”—the offline, embodied world in which we all live and breathe."
+    - url: /research&writing/Locknet_Part_2/
+      title: "II. Service-Level Censorship: The Corporate Locknet"
+      group: "The Locknet"
+      description: "The much-vaunted “Great Firewall” looms large in the imagination, but much of what an average person in China sees or sends online will never come into contact with it."
+    - url: /research&writing/Locknet_Part_3/
+      title: "III. Network-Level Censorship: Locknet in the Wires"
+      group: "The Locknet"
+      description: "China’s day-to-day control mechanisms function as more than simple on-off switches—they often hijack the internet’s normal functions and turn them against themselves."
+    - url: /research&writing/Locknet_Part_4/
+      title: "IV. Evading the Locknet"
+      group: "The Locknet"
+      description: "China’s continued efforts to hunt down and block new circumvention tools show just how threatening the censors believe unfettered internet access can be."
+    - url: /research&writing/Locknet_Part_5/
+      title: "V. The Locknet Leaks Out"
+      group: "The Locknet"
+      description: "The effects of the censorship regime can and do ripple outwards into the broader world, because the Locknet was designed to be compatible with the global internet."
+    - url: /research&writing/Locknet_Part_6/
+      title: "VI. The Future of the Locknet"
+      group: "The Locknet"
+      description: "The continued functioning of the Locknet remains existential for the Chinese Communist Party—it’s a must-have, not a nice-to-have."
+    - url: /research&writing/Locknet_Executive_Summary/
+      title: "Executive Summary"
+      group: "Additional materials"
+    - url: /research&writing/Locknet_Internet_101/
+      title: "Internet 101"
+      group: "Additional materials"
+    - url: /research&writing/Locknet_How_China_Disrupts_the_Network/
+      title: "Censorship: How China Disrupts the Network"
+      group: "Additional materials"
+    - url: /research&writing/Locknet_Blocking_Circumvention/
+      title: "Blocking Circumvention Technologies"
+      group: "Additional materials"
+    - url: /research&writing/Locknet_Notes_on_China/
+      title: "Notes on China from a Computer Scientist"
+      group: "Additional materials"
+    - url: /research&writing/Locknet_Glossary/
+      title: "Glossary"
+      group: "Additional materials"
+    - url: /research&writing/Locknet_About/
+      title: "About This Project"
+      group: "Additional materials"

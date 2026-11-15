@@ -1,0 +1,24 @@
+{%- comment %}
+  Home banner drawn with code instead of a picture: your name with a stack of 5 whole colored
+  bars running to the right edge of the window. The banner's height comes from the bars, so a
+  bar is never cut off.
+  - Top and bottom bars reach over / under your name. Each is drawn in two touching pieces:
+    a "lead" piece over the name (--into = how much of the name's width it covers) and a
+    "tail" piece from the name to the right edge. Because --into is a share of the NAME's
+    width, the overlap looks the same at every window size.
+  - Middle bars are level with the name, so they start just to its right; --start is a
+    (small) share of the space to the right of the name.
+  Colors are from the old banner picture (colored_bars1.png).
+{% endcomment -%}
+<div class="bars-banner">
+  <div class="bars-banner__grid">
+    <h1 class="bars-banner__name page__title" id="page-title">{{ title | default: site.title }}</h1>
+    <span class="bars-banner__bar bars-banner__bar--lead" aria-hidden="true" style="--into: 15%; --color: #581845"></span>
+    <span class="bars-banner__bar bars-banner__bar--tail" aria-hidden="true" style="--color: #581845"></span>
+    <span class="bars-banner__bar bars-banner__bar--mid" aria-hidden="true" style="--start: 2%; --color: #900C3F"></span>
+    <span class="bars-banner__bar bars-banner__bar--mid" aria-hidden="true" style="--start: 5%; --color: #FF5733"></span>
+    <span class="bars-banner__bar bars-banner__bar--mid" aria-hidden="true" style="--start: 0%; --color: #C70039"></span>
+    <span class="bars-banner__bar bars-banner__bar--lead" aria-hidden="true" style="--into: 75%; --color: #FF5733"></span>
+    <span class="bars-banner__bar bars-banner__bar--tail" aria-hidden="true" style="--color: #FF5733"></span>
+  </div>
+</div>

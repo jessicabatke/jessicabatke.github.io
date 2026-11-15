@@ -3,6 +3,7 @@ title: "Gramophonic"
 classes: wide
 permalink: /gramophonic/
 layout: single
+page_class: page--showcase   # text in the narrow column, photo galleries full width
 author: Gramophonic
 
 header:

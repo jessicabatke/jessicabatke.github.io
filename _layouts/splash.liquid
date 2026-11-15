@@ -2,6 +2,7 @@
 layout: default
 ---
 {% include "page-hero.liquid" %}
+{%- if header.bars %}{% include "bars-banner.liquid" %}{% endif %}
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {%- if title %}<meta itemprop="headline" content="{{ title | strip_html | escape }}">{% endif %}

@@ -6,7 +6,7 @@ classes: wide
 
 # Featured pieces shown as image cards at the top.
 featured:
-  - url: /research&writing/Locknet/
+  - url: /projects/the-locknet/
     title: "The Locknet"
     subtitle: "How China Controls Its Internet and Why It Matters"
     outlet: ChinaFile
@@ -16,13 +16,16 @@ featured:
     subtitle: "China’s United Front Work Department, Known for Its Influence Operations Abroad, Is Even Busier at Home"
     outlet: ChinaFile
     image: /media/holdingsway.jpg
-  - url: /research&writing/Message_Control_China_main/
-    title: "Message Control"
-    subtitle: "How a New For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’"
+  - url: /projects/state-of-surveillance/
+    title: "State of Surveillance"
+    subtitle: "Government Documents Reveal New Evidence on China’s Efforts to Monitor Its People"
     outlet: ChinaFile
-    image: /media/message_control.jpg
+    image: /media/sos-hero.svg
 ---
 
+<div class="work-heading">
+  <h2 class="work-heading__title">Highlights</h2>
+</div>
 <div class="work-featured">
   {%- for f in featured %}
   <a class="work-card" href="{{ f.url }}">
@@ -36,26 +39,48 @@ featured:
   {%- endfor %}
 </div>
 
+{%- assign all_posts = collections.posts | reverse %}
+{%- comment %} Sections by type: Writing = articles, projects, data; then talks; then podcasts & interviews {% endcomment %}
+{%- assign sections = "Writing|Talks|Podcasts & interviews" | split: "|" %}
+{%- for sec in sections %}
+{%- comment %} First pass: which posts belong in this section (by their place in all_posts) {% endcomment %}
+{%- assign sec_count = 0 %}
+{%- for post in all_posts %}
+  {%- assign proj = projects | projectFor: post.url %}
+  {%- if proj == nil or proj.is_main %}
+  {%- assign wt = post | workType %}{% if proj %}{% assign wt = "Project" %}{% endif %}
+  {%- if sec == "Talks" and wt == "Talk" %}{% assign sec_count = sec_count | plus: 1 %}{% endif %}
+  {%- if sec == "Podcasts & interviews" and wt == "Podcast" or sec == "Podcasts & interviews" and wt == "Interview" %}{% assign sec_count = sec_count | plus: 1 %}{% endif %}
+  {%- if sec == "Writing" and wt != "Talk" and wt != "Podcast" and wt != "Interview" %}{% assign sec_count = sec_count | plus: 1 %}{% endif %}
+  {%- endif %}
+{%- endfor %}
 <div class="work-heading">
-  <h2 class="work-heading__title">All work</h2>
-  <a class="work-heading__link" href="/tags/">Browse by tag →</a>
+  <h2 class="work-heading__title">{{ sec }}</h2>
+  {%- if forloop.first %}<a class="work-heading__link" href="/tags/">Browse by tag →</a>{% endif %}
 </div>
+{%- comment %} Any section with more than 15 items shows the 15 newest; the rest open with a “Show all” button {% endcomment %}
+{%- assign shown = 15 %}{% assign n = 0 %}
 <ul class="work-list">
-  {%- assign all_posts = collections.posts | reverse %}
   {%- for post in all_posts %}
-  {%- unless post.data.part_of %}
-  {%- assign wtype = post | workType %}
-  <li class="work-row">
-    <a href="{{ post.url }}">{{ post.data.title | markdownifyInline }}</a>
-    <span class="work-row__outlet">{{ post.data.excerpt | outlet }}<span class="work-row__type" title="{{ wtype }}">{{ wtype | downcase | icon }}<span class="screen-reader-text">{{ wtype }}</span></span></span>
-  </li>
-  {%- assign parts = collections.posts | partsOf: post.url %}
-  {%- for part in parts %}
-  {%- assign part_label = part.data.title | split: "(" | last | remove: ")" %}
-  <li class="work-row work-row--part">
-    <a href="{{ part.url }}">{{ part_label | markdownifyInline }}</a>
-  </li>
-  {%- endfor %}
-  {%- endunless %}
+  {%- assign proj = projects | projectFor: post.url %}
+  {%- if proj == nil or proj.is_main %}
+  {%- assign wt = post | workType %}{% if proj %}{% assign wt = "Project" %}{% endif %}
+  {%- assign in_sec = false %}
+  {%- if sec == "Talks" and wt == "Talk" %}{% assign in_sec = true %}{% endif %}
+  {%- if sec == "Podcasts & interviews" and wt == "Podcast" or sec == "Podcasts & interviews" and wt == "Interview" %}{% assign in_sec = true %}{% endif %}
+  {%- if sec == "Writing" and wt != "Talk" and wt != "Podcast" and wt != "Interview" %}{% assign in_sec = true %}{% endif %}
+  {%- if in_sec %}
+  {%- assign n = n | plus: 1 %}
+  {%- if n == 16 %}
+</ul>
+<details class="work-more">
+  <summary><span class="work-more__open">Show all {{ sec_count }}</span><span class="work-more__close">Show fewer</span></summary>
+<ul class="work-list">
+  {%- endif %}
+  {%- include "work-row.liquid" %}
+  {%- endif %}
+  {%- endif %}
   {%- endfor %}
 </ul>
+{%- if n >= 16 %}</details>{% endif %}
+{%- endfor %}

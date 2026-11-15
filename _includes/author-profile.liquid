@@ -5,7 +5,11 @@
   <div class="author__avatar"><img src="{{ a.avatar }}" alt="{{ a.name }}" itemprop="image"></div>
   {%- endif %}
   <div class="author__content">
+    {%- if a.name == site.author.name %}
+    <p class="author__name" itemprop="name"><a href="/">{{ a.name }}</a></p>
+    {%- else %}
     <p class="author__name" itemprop="name">{{ a.name }}</p>
+    {%- endif %}
     {%- if a.bio %}
     <div class="author__bio" itemprop="description">{{ a.bio | markdownify }}</div>
     {%- endif %}

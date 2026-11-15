@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "Uyghur Tribunal - Live Hearing 10th September 2021"
+title:  "Uyghur Tribunal: Live Hearing, September 10, 2021"
 date:   2021-09-10
 categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "Uyghur Tribunal / 2021-09-10"
+work_type: Talk
 ---
 
 

@@ -3,20 +3,28 @@
   <head>
     {% include "head.liquid" %}
   </head>
-  <body class="layout--{{ layout }}{% if classes %} {{ classes }}{% endif %}">
+  <body class="layout--{{ layout }}{% if classes %} {{ classes }}{% endif %}{% if hide_masthead %} no-masthead{% endif %}">
     <nav class="skip-links">
       <h2 class="screen-reader-text">Skip links</h2>
       <ul>
+        {%- unless hide_masthead %}
         <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+        {%- endunless %}
         <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
         <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
       </ul>
     </nav>
-    {% include "masthead.liquid" %}
+    {%- unless hide_masthead %}{% include "masthead.liquid" %}{% endunless %}
     <div class="initial-content">
       {{ content }}
     </div>
     {% include "footer.liquid" %}
     <script src="/assets/js/main.min.js"></script>
+    {%- if eleventy.env.runMode == "serve" %}{% include "dev-preview.liquid" %}{% endif %}
+    {%- comment %} Visitor counts (GoatCounter: no cookies, no personal data). Only in the published
+      site, not in the local "npm start" preview. Dashboard: https://jessicabatke.goatcounter.com {% endcomment %}
+    {%- if eleventy.env.runMode == "build" %}
+    <script data-goatcounter="https://jessicabatke.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    {%- endif %}
   </body>
 </html>

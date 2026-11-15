@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "Congressional-Executive Commission on China / 2018-07-26"
+work_type: Talk
 ---
 
 <style>
