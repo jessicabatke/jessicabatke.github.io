@@ -651,7 +651,10 @@ body:has(.page--medium) .page__footer { margin-top: 2em; }
 // narrower 34em text column inside it, starting at the same left edge.
 @include breakpoint($large) {
   #main:has(> .sidebar) {
-    --layout-width: calc(200px + 2.5em + 46em);
+    // sidebar + gap + 46em content + 2.5em right margin (the theme gave only 1em, so on windows
+    // just wide enough for the layout the content ran almost to the right edge)
+    --layout-width: calc(200px + 2.5em + 46em + 1.5em);
+    padding-right: 2.5em;
     max-width: var(--layout-width);
     margin-left: max(0px, calc((100vw - var(--layout-width)) * 0.3));
     margin-right: auto;
@@ -665,7 +668,7 @@ body:has(.page--medium) .page__footer { margin-top: 2em; }
   .work-row .work-row__outlet { flex-basis: 14em; }
 }
 @include breakpoint($x-large) {
-  #main:has(> .sidebar) { --layout-width: calc(300px + 2.5em + 46em); }
+  #main:has(> .sidebar) { --layout-width: calc(300px + 2.5em + 46em + 1.5em); }
 }
 
 // Music / Theater project pages (EIG, TaRE, Gramophonic): text, headings and video players in the
