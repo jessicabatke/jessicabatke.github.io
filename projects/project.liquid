@@ -1,0 +1,47 @@
+---
+# One page per multi-part project, built from _data/projects.yml
+# (e.g. /projects/state-of-surveillance/). Edit the project there, not here.
+pagination:
+  data: projects
+  size: 1
+  alias: key
+permalink: "/projects/{{ key }}/"
+layout: single
+author_profile: true
+classes: wide
+page_class: page--project
+eleventyComputed:
+  title: "{{ projects[key].title }}"
+  dek: "{{ projects[key].dek }}"
+  excerpt: "{{ projects[key].dek }}"
+  project_main_url: "{{ projects[key].main | default: projects[key].parts[0].url }}"
+  header:
+    image: "{{ projects[key].image }}"
+    image_description: "{{ projects[key].image_description }}"
+    caption: "{{ projects[key].image_caption }}"
+---
+{%- assign proj = projects[key] %}
+<p class="proj-byline">{{ proj.byline }}</p>
+<p class="proj-intro">{{ proj.intro }}</p>
+<p class="proj-original">Originally published on <a href="{{ proj.original_url }}">{{ proj.original_outlet }}</a>.</p>
+{%- if proj.credit %}
+<p class="proj-credit">{{ proj.credit }}</p>
+{%- endif %}
+
+<div class="work-heading proj-heading">
+  <h2 class="work-heading__title">In this project · {{ proj.parts.size }} parts</h2>
+</div>
+{%- assign cur_group = "__start__" %}{% assign list_open = false %}
+{%- for part in proj.parts %}
+{%- assign g = part.group | default: "" %}
+{%- if g != cur_group %}
+{%- if list_open %}</ol>{% endif %}
+{%- if g != "" %}<h3 class="proj-group">{{ g }}</h3>{% endif %}
+<ol class="proj-parts" style="counter-reset: part {{ forloop.index0 }}">{% assign list_open = true %}{% assign cur_group = g %}
+{%- endif %}
+  <li>
+    <a href="{{ part.url }}">{{ part.title }}</a>
+    {%- if part.description %}<p>{{ part.description }}</p>{% endif %}
+  </li>
+{%- endfor %}
+{%- if list_open %}</ol>{% endif %}

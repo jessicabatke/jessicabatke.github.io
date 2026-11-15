@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Transatlantic Currents: China’s “surveillance state”"
+title:  "China’s “surveillance state”"
 date:   2023-09-27
 categories: Research&Writing
 tags: [Surveillance]
@@ -28,7 +28,7 @@ iframe.yt {
 
 
 
-**This episode of the [Finnish Institute of International Affairs](https://www.fiia.fi/en/)' Transatlantic Currents focuses on China’s use of advanced technologies for social control. The discussion covers the origins, evolving strategy and future applications of what some experts have called a “model of digital authoritarianism.” The event recording can also be viewed on [YouTube](/www.youtube.com/watch?v=reVTzOqwQB4&t=36s).**
+**This episode of the [Finnish Institute of International Affairs](https://www.fiia.fi/en/)' Transatlantic Currents focuses on China’s use of advanced technologies for social control. The discussion covers the origins, evolving strategy and future applications of what some experts have called a “model of digital authoritarianism.” The event recording can also be viewed on [YouTube](https://www.youtube.com/watch?v=reVTzOqwQB4&t=36s).**
 
 {% if include.width != '' %}
   <div style="width: {{include.width}}; margin:0 auto;">

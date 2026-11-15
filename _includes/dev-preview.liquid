@@ -1,0 +1,66 @@
+{%- comment %}
+  LOCAL PREVIEW BOX: only included when running "npm start" (Eleventy's serve mode),
+  never in the published site (GitHub builds in "build" mode). Used to compare design
+  options on real pages. Choices are remembered while you click around (this browser tab).
+  To remove: delete this file and the line that includes it in _layouts/default.liquid.
+{% endcomment -%}
+{%- comment %} No open choices at the moment, so the box is switched off (set pv_home to true on the page(s) that have options). {% endcomment %}
+{%- assign pv_home = false %}
+<style>
+  .pv-panel { position: fixed; right: 1em; bottom: 1em; z-index: 1000; width: 16em; padding: .8em 1em 1em;
+    font: 13px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #3d4144;
+    background: #fff; border: 1px solid #c4c8cb; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,.15); }
+  .pv-panel p { margin: 0 0 .4em; font-size: 13px; }
+  .pv-panel .pv-note { color: #5a6166; font-size: 12px; }
+  .pv-panel [data-pv] { display: block; width: 100%; text-align: left; margin: .2em 0; padding: .3em .8em; font: inherit; cursor: pointer;
+    border: 1px solid #c4c8cb; border-radius: 3px; background: #fff; color: #3d4144; }
+  .pv-panel [data-pv][aria-pressed="true"] { border-color: #3d4144; font-weight: bold; }
+  .pv-panel .pv-hide { position: absolute; top: .4em; right: .5em; border: 0; background: none; padding: .2em .4em; font: inherit; color: #5a6166; cursor: pointer; }
+  .pv-tab { position: fixed; right: 1em; bottom: 1em; z-index: 1000; padding: .4em .9em; font: 13px sans-serif; cursor: pointer;
+    background: #fff; color: #3d4144; border: 1px solid #c4c8cb; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,.15); }
+
+
+
+  /* ---- Option: home page name ---- */
+  html.pv-name-bar body.layout--splash .masthead .site-title { visibility: hidden; }
+  html.pv-name-banner body.layout--splash .page__hero--overlay .page__title { display: none; }
+  html.pv-name-nobar body.layout--splash .masthead { display: none; }
+</style>
+
+{%- if pv_home %}
+<div class="pv-panel" id="pv-panel">
+  <button type="button" class="pv-hide" id="pv-hide" aria-label="Hide preview controls">Hide ✕</button>
+  <p><strong>Local preview only</strong></p>
+</div>
+<button type="button" class="pv-tab" id="pv-tab" hidden>Preview</button>
+{%- endif %}
+
+<script>
+  (function () {
+    var root = document.documentElement;
+    var heroImg = document.querySelector(".page__hero-image"), heroSrc = heroImg && heroImg.getAttribute("src");
+    function apply(group, val) {
+      Array.prototype.slice.call(root.classList).forEach(function (c) { if (c.indexOf("pv-" + group + "-") === 0) root.classList.remove(c); });
+      if (val) root.classList.add("pv-" + group + "-" + val);
+      document.querySelectorAll('[data-pv="' + group + '"]').forEach(function (b) {
+        b.setAttribute("aria-pressed", b.getAttribute("data-val") === val ? "true" : "false");
+      });
+      try { sessionStorage.setItem("pv-" + group, val); } catch (e) {}
+    }
+    [].forEach(function (g) {
+      var v = ""; try { v = sessionStorage.getItem("pv-" + g) || ""; } catch (e) {}
+      apply(g, v);
+    });
+    document.querySelectorAll("[data-pv]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var g = b.getAttribute("data-pv"), v = b.getAttribute("data-val");
+        apply(g, v);
+      });
+    });
+
+    var panel = document.getElementById("pv-panel"), tab = document.getElementById("pv-tab");
+    if (!panel) return;
+    document.getElementById("pv-hide").addEventListener("click", function () { panel.hidden = true; tab.hidden = false; });
+    tab.addEventListener("click", function () { panel.hidden = false; tab.hidden = true; });
+  })();
+</script>

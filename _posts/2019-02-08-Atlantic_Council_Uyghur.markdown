@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "Atlantic Council / 2019-02-08"
+work_type: Talk
 ---
 <style>
 div.ytcontainer {

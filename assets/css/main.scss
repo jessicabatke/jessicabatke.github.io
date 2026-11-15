@@ -125,7 +125,7 @@ hr.page__divider {
   // Notes above the divider (byline, "Originally published…", disclaimer): small italic fine print
   .page__content > p:has(~ hr.page__divider) {
     margin: 0 0 0.5em;
-    font-size: 0.85em;
+    font-size: $type-size-6; // same size as the date above
     line-height: 1.5;
     font-style: italic;
     color: $secondary-text;
@@ -275,6 +275,15 @@ hr.page__divider {
   margin: 0;
   padding: 0;
 }
+// A new section heading after a list gets the same breathing room as "All work" after Highlights
+.work-list + .work-heading, .work-more + .work-heading { margin-top: 2.5em; }
+// “Show all 58” under a long section: a quiet plum text button; the rest of the list opens above it
+.work-more { display: flex; flex-direction: column-reverse; }
+.work-more > summary { list-style: none; cursor: pointer; margin-top: 0.75em; padding: 0 0.8em; /* = the rows’ 0.6em indent, measured at this smaller text size (0.75) */ font-size: $type-size-6; font-weight: bold; color: $link-color; }
+.work-more > summary::-webkit-details-marker { display: none; }
+.work-more > summary:hover { text-decoration: underline; }
+.work-more__close, .work-more[open] .work-more__open { display: none; }
+.work-more[open] .work-more__close { display: inline; }
 .work-row {
   position: relative;
   display: flex;
@@ -346,6 +355,8 @@ hr.page__divider {
   }
 
   @include breakpoint($large) {
+    // text nudged right so it sits under the round photo rather than its square corner
+    .author__content, .author__urls-wrapper { padding-left: 1em; }
     .author__bio p { margin-bottom: 0; }
     .author__urls {
       margin-top: 0.6em;
@@ -356,21 +367,6 @@ hr.page__divider {
   }
 }
 
-// Sub-parts of a multi-part piece, indented under the main row
-.work-row--part {
-  padding-top: 0.35em;
-  padding-bottom: 0.35em;
-  padding-left: 2.2em;
-  border-bottom-color: lighten($border-color, 3%);
-
-  a {
-    font-size: 0.8em;
-    color: $secondary-text;
-
-    // Small visual marker; the "/ ''" part tells screen readers to skip it
-    &::before { content: unquote('"↳ " / ""'); color: $border-color; }
-  }
-}
 
 // Item type icon (article, talk, podcast, data) after the outlet.
 // #7a8288 is the lightest grey that keeps 3:1 contrast on white and on the row hover tint.
@@ -430,3 +426,358 @@ hr.page__divider {
   .tag-section .work-heading__count { font-weight: normal; color: #5a6166; }
   .tag-top { font-size: .75em; color: #581845; text-decoration: none; }
   .tag-top:hover { text-decoration: underline; }
+
+// ---- Multi-part projects (see _data/projects.yml) ----
+
+// Box near the top of each part: which project, and all its parts
+.series-box {
+  margin: 0 0 1.75em;
+  padding: 0.9em 1.1em 1em;
+  background: #faf6f8;
+  border-left: 3px solid $plum;
+
+  &__label { margin: 0 0 0.2em; font-size: 0.78em; letter-spacing: 0.1em; text-transform: uppercase; color: $secondary-text; }
+  &__title { margin: 0 0 0.5em; font-size: 1.1em; font-weight: bold; }
+  &__title a { color: $plum; text-decoration: none; &:hover { text-decoration: underline; } }
+
+  ol { margin: 0; padding-left: 1.4em; font-size: 1em; line-height: 1.5; } // list items = paragraph size
+  li { margin: 0.1em 0; color: $secondary-text; }
+  li a { color: $text-color; text-decoration: none; &:hover { color: $plum; text-decoration: underline; } }
+  li[aria-current] { font-weight: bold; color: #2b2e31; }
+  li[aria-current]::after { content: "  ← you are here"; font-weight: normal; font-size: 0.9em; color: $secondary-text; }
+}
+
+// Bottom of each part: previous / next part, and a link back to the project
+.series-pager {
+  margin: 2.5em 0 0;
+  padding-top: 1.25em;
+  border-top: 2px solid $plum;
+
+  &__project { margin: 0 0 0.9em; font-size: 0.78em; letter-spacing: 0.1em; text-transform: uppercase; color: $secondary-text; }
+  &__project a { color: $plum; text-decoration: none; }
+  &__links { display: grid; grid-template-columns: 1fr 1fr; gap: 2em; }
+  &__links a { display: block; text-decoration: none; color: $text-color; }
+  &__links a:hover .series-pager__title { color: $plum; }
+  &__next { grid-column: 2; text-align: right; }
+  &__label { display: block; margin-bottom: 0.3em; font-size: 0.78em; letter-spacing: 0.08em; text-transform: uppercase; color: $secondary-text; }
+  &__title { display: block; font-size: 1em; line-height: 1.35; font-weight: bold; }
+
+  @media (max-width: 37.5em) {
+    &__links { grid-template-columns: 1fr; gap: 1em; }
+    &__next { grid-column: 1; text-align: left; }
+  }
+}
+// (inside article text, these links shouldn't get the underlined-link style)
+.page--post .page__content .series-box a,
+.page--post .page__content .series-pager a { text-decoration: none; }
+
+// Project landing pages
+.page--project {
+  .page__inner-wrap > header,
+  .page__content { max-width: 34em; }
+
+  // “Talk” / “Podcast” / “Interview” above the title of things I didn’t write
+  .page__kind { margin: 0 0 .35em; font-size: .8rem; font-weight: bold; letter-spacing: .06em; text-transform: uppercase; color: #636a70; }
+  .page__dek { margin: 0.5em 0 0; font-size: 1.3em; line-height: 1.45; color: $text-color; }
+  .page__date { margin: 1em 0 1.5em; font-size: 0.85em; color: $secondary-text; }
+  .proj-byline { margin: 0 0 0.25em; font-size: 0.85em; font-style: italic; color: $secondary-text; } // sits right under the date, as on article pages
+  .proj-intro { margin: 1.25em 0 0.75em; }
+  .proj-original { font-size: 1em; }
+  .proj-heading { margin-top: 2.5em; }
+
+  .proj-parts {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    counter-reset: part;
+
+    li {
+      position: relative;
+      margin: 0;
+      padding: 0.9em 0 0.9em 2.4em;
+      border-bottom: 1px solid $border-color;
+      counter-increment: part;
+
+      &::before {
+        content: counter(part);
+        position: absolute; left: 0; top: 0.9em; width: 1.6em; text-align: right;
+        font-size: 0.9em; font-weight: bold; color: $plum;
+      }
+      &:hover { background: #f8f1f5; }
+      &:hover a { color: $plum; }
+    }
+    a {
+      font-weight: bold;
+      color: $text-color;
+      text-decoration: none;
+      &::after { content: ""; position: absolute; inset: 0; } // whole row is clickable
+    }
+    p { margin: 0.25em 0 0; font-size: 1em; line-height: 1.45; color: $secondary-text; } // = paragraph size
+  }
+}
+
+// Sidebar bio lines are links to the main sections
+.sidebar .author__bio a {
+  color: $plum;
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
+
+// Your name in the sidebar links to the home page
+.sidebar .author__name a {
+  color: inherit;
+  text-decoration: none;
+  &:hover { color: $plum; text-decoration: underline; }
+}
+
+// ---- Home page: less empty space under the three cards ----
+.layout--splash {
+  .feature__wrapper { margin-bottom: 0; border-bottom: 0; }
+  // Each card has an invisible “Go to …” button (it makes the whole card clickable and is read
+  // out by screen readers). Without this it still took up a button’s height under the titles,
+  // which pushed the cards up off-center.
+  .feature__item .archive__item-body p:has(> a.btn) { margin: 0; height: 0; }
+  .feature__item a.btn { display: block; height: 0; padding: 0; border: 0; }
+  // All card images shown square (the other two are square; wider images are cropped to the center)
+  .archive__item-teaser img { aspect-ratio: 1 / 1; object-fit: cover; object-position: center; }
+  // Locknet illustration: crop from the right so the big red airship is fully in view
+  .archive__item-teaser img[src*="locknet-hero"] { object-position: right center; }
+  .archive__item-body p:last-child { margin-bottom: 0; }
+  // Gap between a picture and its title = the gap between two pictures. That gap is 1.695% of the
+  // row; a card is 32.2% of the row, and % padding is measured on the card, so 1.695 / 32.2 = 5.26%.
+  .feature__item .archive__item-body { padding-top: 5.26%; }
+  .feature__item .archive__item-title { margin-top: 0; line-height: 1.1; }
+  .page__footer { margin-top: 1.5em; }
+}
+
+
+// Home page has no top menu bar: a little white space above the banner instead
+.no-masthead .initial-content { padding-top: 1.5em; }
+
+// Home page is shorter than most windows: the banner and cards are centered vertically
+// between the top of the window and the footer, so any spare height is split evenly
+// above and below instead of collecting in one place.
+.no-masthead .initial-content {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 1.5em;
+}
+.no-masthead .page__footer { flex: 0 0 auto; margin-top: 0; }
+
+// ---- Home banner drawn with code (see _includes/bars-banner.liquid) ----
+.bars-banner {
+  --bar-base: clamp(12px, 1.9vw, 40px); // bar thickness grows and shrinks with the window
+  // 5 bars, each 1.29× the base thickness, with the gaps of a 6-bar stack: the banner is as tall
+  // as 6 bars + 5 gaps would be, with the extra height going into the bars.
+  --bar-h: calc(var(--bar-base) * 1.29);
+  --gap-h: calc(var(--bar-base) * 0.45);
+  display: block;
+  // Name and bars line up with the page content on both sides: on very wide screens, where the
+  // content stops at its maximum width, the bars stop at the same right edge as the cards.
+  padding-left: max(1em, calc((100vw - 1280px) / 2 + 1em));
+  padding-right: max(1em, calc((100vw - 1280px) / 2 + 1em));
+  margin-bottom: 2.25em; // room between the banner and the cards
+  overflow: hidden;
+}
+.bars-banner__grid {
+  display: grid;
+  grid-template-columns: auto 1fr;   // [name] [space to its right]
+  column-gap: 0;                     // no gap, so the two pieces of the top/bottom bars touch
+  row-gap: var(--gap-h);
+  align-items: center;
+}
+.bars-banner__name {
+  grid-column: 1;
+  grid-row: 2 / span 3;              // between the top and bottom bars
+  margin: 0;
+  font-size: $type-size-2;           // same size as the current banner name
+  line-height: 1;
+  color: #000;
+  white-space: nowrap;
+  padding-right: 0.6em;              // small space between the name and the middle bars
+  @include breakpoint($large) { font-size: $type-size-1; }
+}
+.bars-banner__bar {
+  display: block;
+  height: var(--bar-h);
+  background: var(--color);
+  // middle bars: to the right of the name, starting a little way in
+  &--mid  { grid-column: 2; margin-left: var(--start); }
+  // top/bottom bars, piece over the name: covers the right-hand --into of the name
+  &--lead { grid-column: 1; justify-self: end; width: var(--into); }
+  // top/bottom bars, piece from the name to the right edge
+  &--tail { grid-column: 2; }
+}
+
+// Plain text pages (e.g. About): same comfortable column width as the articles
+.page--text {
+  .page__inner-wrap > header,
+  .page__content { max-width: 34em; }
+  .page__inner-wrap > header { margin-bottom: 1.5em; } // more room between the title and the text
+}
+
+// Pages with image + text rows (e.g. Music / Theater): narrower than full width, but wider than
+// the text pages since they have two columns; same left-of-center placement as the articles
+.page--medium {
+  .page__inner-wrap > header,
+  .page__content { max-width: 46em; }
+}
+// Music / Theater rows: big images, narrower descriptions (wider screens only; phones stack them)
+@include breakpoint($small) {
+  // Every row ends exactly where its logo or text ends (whichever is lower), so the gap to the
+  // next heading is the same whichever side is taller; the gap itself is set on the heading.
+  .page--medium .feature__item--right .archive__item-teaser { margin-bottom: 0; }
+  .page--medium .feature__item--right .archive__item-body p:last-child { margin-bottom: 0; }
+  .page--medium .feature__item--right + .feature__item--right .feature__label { margin-top: 2.5em; }
+  .page--medium .feature__item--right .archive__item-teaser { width: 47%; }
+  .page--medium .feature__item--right .archive__item-body { width: 50%; }
+}
+
+// Music / Theater: trim the gaps that stack up below the last row
+.page--medium {
+  .feature__wrapper { margin-bottom: 0; border-bottom: 0; }
+  .feature__item--right:last-child .archive__item-teaser { margin-bottom: 0; }
+  .feature__item--right:last-child .archive__item-body p:last-child { margin-bottom: 0; }
+  .page__meta { margin-top: 0; }
+}
+body:has(.page--medium) .page__footer { margin-top: 2em; }
+
+// ---- Wider screens: one shared frame for every page with a sidebar ----
+// Sidebar + content as one block, a little left of center (30% of the spare width on the left,
+// 70% on the right), so the sidebar sits in exactly the same place on every page. The content
+// area is the same width everywhere (46em); text pages (articles, projects, About) keep a
+// narrower 34em text column inside it, starting at the same left edge.
+@include breakpoint($large) {
+  #main:has(> .sidebar) {
+    --layout-width: calc(200px + 2.5em + 46em);
+    max-width: var(--layout-width);
+    margin-left: max(0px, calc((100vw - var(--layout-width)) * 0.3));
+    margin-right: auto;
+  }
+  #main:has(> .sidebar) > .page,
+  #main:has(> .sidebar) > .archive { padding-left: 2.5em; }
+
+  // list rows on Research / Writing and Tags
+  .work-row { gap: 3em; padding-left: 1em; padding-right: 1em; }
+  .work-more > summary { padding-left: 1.333em; } // = the rows’ 1em indent at the smaller text size
+  .work-row .work-row__outlet { flex-basis: 14em; }
+}
+@include breakpoint($x-large) {
+  #main:has(> .sidebar) { --layout-width: calc(300px + 2.5em + 46em); }
+}
+
+// Music / Theater project pages (EIG, TaRE, Gramophonic): text, headings and video players in the
+// same 34em column as the articles; photo galleries keep the full width so the photos stay big
+.page--showcase {
+  .page__inner-wrap > header { max-width: 34em; }
+  .page__content > :not(figure) { max-width: 34em; }
+}
+
+// Year after each title in the Research / Writing list.
+// #636a70 is the lightest grey that stays readable (4.5:1+) on white and on the row hover tint.
+.work-row__year {
+  margin-left: 0.35em;
+  font-size: 0.85em;
+  color: #636a70;
+  white-space: nowrap;
+}
+.work-row:hover .work-row__year { color: #636a70; } // stays grey when the title turns plum
+.work-row__year::before { content: unquote('"· " / ""'); } // separator dot (screen readers skip it)
+
+// "Highlights" heading above the featured cards: a little space below the page title,
+// and the cards sit closer under their heading (same style as "All work")
+.work-heading + .work-featured { margin-top: 1em; }
+// More room between the page title and the first section heading ("Highlights")
+.archive > .page__title + .work-heading { margin-top: 1.75rem; }
+
+// Music / Theater: each project has a heading line above it ("LIVE EVENT", "MUSICAL", "BAND")
+// Sized in rem so it is exactly the same as "Highlights" / "All work" on the Research page,
+// whatever the surrounding text size; same font, weight and spacing as those headings.
+.feature__label {
+  margin-bottom: 1em;
+  font-size: 1rem;
+  padding-bottom: 0.4rem;
+}
+.page__content .feature__label .work-heading__title {
+  margin: 0;
+  font-family: $header-font-family;
+  font-weight: bold;
+  font-size: 0.8rem;
+  line-height: 1.2;
+  letter-spacing: 0.08em;
+}
+.feature__item--right + .feature__item--right .feature__label { margin-top: 1em; }
+
+// Music / Theater rows styled like the Research / Writing cards: images with a thin border and
+// rounded corners, titles in the card-title style, descriptions in the card grey; hovering a row
+// lifts the image slightly and turns the title plum
+.page--medium {
+  // logos shown plain: no frame, rounded corners or lift on hover
+  .archive__item-teaser { border-radius: 0; }
+  .archive__item-title { font-family: $header-font-family; font-size: 1.15em; line-height: 1.25; color: $text-color; margin-top: 0.25em; }
+  .archive__item-excerpt { color: $secondary-text; font-size: 1em; } // paragraphs inside get the normal text size, as on About
+  .archive__item-title a { color: inherit; text-decoration: none; }
+  // The theme stretches every link in a card over the whole card (invisible layer), which blocks
+  // selecting the description. Here only the picture and title are links, so switch that off.
+  .feature__item--right .archive__item a::before { content: none; }
+  .feature__item--right:has(.archive__item-teaser a:hover, .archive__item-title a:hover) {
+    .archive__item-title { color: $plum; }
+  }
+}
+
+// Music / Theater: same space between the page title and the first section heading as on
+// Research / Writing (1.75rem)
+.page--medium .page__title { margin-bottom: 0; }
+.page--medium .feature__wrapper > .feature__item--right:first-child .feature__label { margin-top: 1.75rem; }
+
+// Embedded videos that scale to the text column (16:9)
+.video-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 1.5em 0;
+  iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+}
+
+// Substack podcast player: square cover art about half the column wide, plus title, controls and buttons;
+// so the frame grows with the column width instead of using a fixed height.
+.podcast-embed {
+  container-type: inline-size;
+  margin: 1.5em 0;
+  iframe { display: block; width: 100%; height: calc(50cqw + 300px); border: 0; }
+}
+
+// Projects split into groups ("The Locknet" / "Additional materials")
+.series-box__group { margin: 0.6em 0 0.2em; font-size: 0.78em; letter-spacing: 0.08em; text-transform: uppercase; color: $secondary-text; }
+.series-box ol + .series-box__group { margin-top: 0.9em; }
+.page--project .proj-group { margin: 1.75em 0 0.25em; font-size: 0.9em; letter-spacing: 0.08em; text-transform: uppercase; color: $text-color; }
+.page--project .proj-credit { font-size: $type-size-6; font-style: italic; color: $secondary-text; }
+
+// Pull quotes in the Locknet chapters: a sentence from the text repeated in larger type
+blockquote.pullquote {
+  margin: 1.75em 0;
+  padding: 0.25em 0 0.25em 1em;
+  border-left: 3px solid $plum;
+  font-size: 1.15em;
+  line-height: 1.45;
+  font-style: italic;
+  color: $text-color;
+  p { margin: 0; }
+}
+// Animations (video): fit the column
+video.animation { display: block; width: 100%; height: auto; margin: 1.5em 0; }
+
+// Every hero image's credit sits below the picture (not on top of it), in small grey text
+.page__hero-caption {
+  position: static;
+  padding: 0.5em 1em 0;
+  background: none;
+  opacity: 1;
+  border-radius: 0;
+  color: $secondary-text;
+  font-size: $type-size-7;
+  text-align: right;
+  a { color: $plum; }
+}

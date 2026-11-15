@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 layout: single
+page_class: page--text   # narrow text column, laid out like the article pages
 author_profile: true
 classes: wide
 title: "About"

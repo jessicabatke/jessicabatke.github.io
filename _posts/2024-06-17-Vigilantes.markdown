@@ -7,6 +7,7 @@ tags: [Governance, Civil Society]
 classes: wide
 excerpt: "ChinaFile / 2024-06-17"
 
+dek: 'To Supplement Law Enforcement, Local Governments across China Are Recruiting Citizen “Vigilantes”'
 ---
 
 **This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/China-volunteer-police-vigilantes).**
@@ -15,7 +16,6 @@ excerpt: "ChinaFile / 2024-06-17"
 
 <hr class="page__divider">
 
- <h2>To Supplement Law Enforcement, Local Governments across China Are Recruiting Citizen “Vigilantes”</h2>
 
 <div class="content">
     <div class="field field-name-body field-type-text-with-summary field-label-hidden">

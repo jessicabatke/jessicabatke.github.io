@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "House Committee on Oversight and Reform / 2020-08-17"
+work_type: Talk
 ---
 <style>
 div.ytcontainer {

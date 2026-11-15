@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "NYU / 2020-02-20"
+work_type: Talk
 ---
 <style>
 div.ytcontainer {

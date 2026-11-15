@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "UCLA / 2020-11-07"
+work_type: Talk
 ---
 
 

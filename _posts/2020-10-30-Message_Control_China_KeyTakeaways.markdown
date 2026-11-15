@@ -1,19 +1,14 @@
 ---
 layout: single
-title:  "Message Control (Key Takeaways)"
+title:  "Message Control: Key Takeaways"
 date:   2020-12-20
 categories: Research&Writing
 tags: [Surveillance, Propaganda, Censorship, Internet]
 classes: wide
 excerpt: "ChinaFile / 2020-12-20"
-# Shown indented under its main piece on the Research / Writing page
-part_of: "/research&writing/Message_Control_China_main/"
-part_order: 1
 ---
 **By Mareike Ohlberg and Jessica Batke**
 
-
-**This article, including a number of sidebar articles and supplemental materials, originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/message-control-china). The text below does not include illustrations and charts that are part of the full article.**
 
 
 

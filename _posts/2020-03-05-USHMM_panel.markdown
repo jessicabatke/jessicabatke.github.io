@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "United States Holocaust Memorial Museum / 2020-03-05"
+work_type: Talk
 ---
 
 

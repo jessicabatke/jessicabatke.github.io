@@ -130,8 +130,10 @@ export default function (eleventyConfig) {
   Object.assign(ICONS, {
     article: "M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z",
     talk: "M12 14a3 3 0 0 0 3-3V5a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z",
+    interview: "M12 14a3 3 0 0 0 3-3V5a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z",   // same microphone as talks
     podcast: "M12 1a9 9 0 0 0-9 9v7a3 3 0 0 0 3 3h3v-8H5v-2a7 7 0 0 1 14 0v2h-4v8h3a3 3 0 0 0 3-3v-7a9 9 0 0 0-9-9z",
     data: "M10 10h5v11h-5zM17 21h3a2 2 0 0 0 2-2v-9h-5v11zm3-18H5a2 2 0 0 0-2 2v3h19V5a2 2 0 0 0-2-2zM3 19a2 2 0 0 0 2 2h3V10H3v9z",
+    project: "M4 6H2v14a2 2 0 0 0 2 2h14v-2H4V6zm16-4H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm-1 9H9V9h10v2zm-4 4H9v-2h6v2zm4-8H9V5h10v2z",
   });
   const ICON_ALIASES = { "map-marker-alt": "map-pin", tags: "tag" };
   eleventyConfig.addFilter("icon", (name) => {
@@ -144,24 +146,33 @@ export default function (eleventyConfig) {
   });
 
   // What kind of item a post is: Article, Talk, Podcast or Data.
-  // A post can set it directly with work_type: in its front matter; otherwise it's worked out
-  // from the title/file name ("podcast"), the "public remarks" tag (talks, panels, testimony).
+  // Talks (panels, lectures, testimony…) say so with "work_type: Talk" in their front matter;
+  // any post can set work_type that way. Otherwise "podcast" in the title/file name means
+  // Podcast, the policy documents database is Data, and everything else is an Article.
   eleventyConfig.addFilter("workType", (post) => {
     const d = post?.data || {};
     if (d.work_type) return d.work_type;
     const name = `${post?.page?.fileSlug || ""} ${d.title || ""}`;
     if (/podcast/i.test(name)) return "Podcast";
-    if ((d.tags || []).some((t) => /public remarks/i.test(t))) return "Talk";
     if (/Policy_Documents_Database/.test(post?.page?.fileSlug || "")) return "Data";
     return "Article";
   });
 
-  // Sub-parts of a multi-part piece (posts with part_of: <main piece URL>), in part_order
-  eleventyConfig.addFilter("partsOf", (posts, url) =>
-    (posts || [])
-      .filter((p) => p.data.part_of === url)
-      .sort((a, b) => (a.data.part_order ?? 99) - (b.data.part_order ?? 99))
-  );
+  // Multi-part projects (defined in _data/projects.yml).
+  // {{ projects | projectFor: page.url }} gives the project a page belongs to, or nothing:
+  //   { key, project, part, index, is_main (the project's main article), prev, next }
+  eleventyConfig.addFilter("projectFor", (projects, url) => {
+    for (const [key, project] of Object.entries(projects || {})) {
+      const i = (project.parts || []).findIndex((p) => p.url === url);
+      if (i >= 0) {
+        // the main article: named with "main:", otherwise the first part
+        const mainUrl = project.main || project.parts[0].url;
+        return { key, project, part: project.parts[i], index: i, is_main: url === mainUrl,
+                 prev: project.parts[i - 1] || null, next: project.parts[i + 1] || null };
+      }
+    }
+    return null;
+  });
 
   // Where a piece appeared, taken from the post's excerpt ("ChinaFile / 2025-06-30" -> "ChinaFile").
   // Date-only parts are dropped; an excerpt that is just a date gives no outlet.
@@ -179,16 +190,23 @@ export default function (eleventyConfig) {
   eleventyConfig.addShortcode("feature_row", (rows, type) => {
     const items = (rows || [])
       .map((f) => {
-        const teaser = f.image_path
-          ? `<div class="archive__item-teaser"><img src="${escapeHtml(f.image_path)}" alt="${escapeHtml(f.alt || "")}"></div>`
+        // Rows with a description ("right"/"left", e.g. Music / Theater): only the picture and the
+        // title are links, so the description can be selected and copied. Cards without a type
+        // (home page) are clickable as a whole, via the hidden button below.
+        const linkParts = Boolean(type && f.url);
+        const img = f.image_path ? `<img src="${escapeHtml(f.image_path)}" alt="${escapeHtml(f.alt || "")}">` : "";
+        const teaser = img
+          ? `<div class="archive__item-teaser">${linkParts ? `<a href="${escapeHtml(f.url)}" tabindex="-1" aria-hidden="true">${img}</a>` : img}</div>`
           : "";
-        const title = f.title ? `<h2 class="archive__item-title">${f.title}</h2>` : "";
+        const title = f.title ? `<h2 class="archive__item-title">${linkParts ? `<a href="${escapeHtml(f.url)}">${f.title}</a>` : f.title}</h2>` : "";
         const excerpt = f.excerpt ? `<div class="archive__item-excerpt">${md.render(String(f.excerpt))}</div>` : "";
+        // Optional label shown as a section heading line above the row (e.g. "Live event")
+        const kindLabel = f.label ? `<div class="work-heading feature__label"><p class="work-heading__title">${f.label}</p></div>` : "";
         // The theme's buttons were blank (label " "), which screen readers announce as just "link".
         // Keep them looking the same, but give them hidden text naming where they go.
         const label = f.btn_label || ` <span class="screen-reader-text">${f.title ? "Go to " + f.title : "Learn more"}</span>`;
-        const btn = f.url ? `<p><a href="${escapeHtml(f.url)}" class="btn ${f.btn_class || ""}">${label}</a></p>` : "";
-        return `<div class="feature__item${type ? "--" + type : ""}"><div class="archive__item">${teaser}<div class="archive__item-body">${title}${excerpt}${btn}</div></div></div>`;
+        const btn = f.url && !linkParts ? `<p><a href="${escapeHtml(f.url)}" class="btn ${f.btn_class || ""}">${label}</a></p>` : "";
+        return `<div class="feature__item${type ? "--" + type : ""}">${kindLabel}<div class="archive__item">${teaser}<div class="archive__item-body">${title}${excerpt}${btn}</div></div></div>`;
       })
       .join("");
     return `\n<div class="feature__wrapper">${items}</div>\n`;
@@ -241,6 +259,34 @@ export default function (eleventyConfig) {
       const src = (attrs.match(/\bsrc\s*=\s*"([^"]*)"/) || [])[1] || "";
       return `<iframe title="${escapeHtml(iframeTitle(src, inner))}"${attrs}>${inner}</iframe>`;
     });
+  });
+
+  // ---- Accessibility: mark Chinese text as Chinese ----
+  // Wraps runs of Chinese characters in <span lang="zh"> so screen readers pronounce them as
+  // Chinese. Only touches visible text in the page body (not tags, attributes, scripts or styles),
+  // so nothing changes visually. Runs may include Chinese punctuation and spaces between characters.
+  const HAN = "\\u3400-\\u4DBF\\u4E00-\\u9FFF\\uF900-\\uFAFF";
+  const CJK_PUNCT = "\\u3000-\\u303F\\uFF00-\\uFFEF";
+  const zhRun = new RegExp(`[${HAN}](?:[${HAN}${CJK_PUNCT}·・]|\\s(?=[${HAN}]))*`, "g");
+  eleventyConfig.addTransform("lang-zh", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    const bodyStart = content.indexOf("<body");
+    if (bodyStart < 0) return content;
+    const head = content.slice(0, bodyStart);
+    let body = content.slice(bodyStart);
+    // split into tags and text; skip text inside <script>, <style>, and existing lang="zh" spans
+    let skip = null;
+    body = body.replace(/(<[^>]+>)|([^<]+)/g, (m, tag, text) => {
+      if (tag) {
+        const t = tag.toLowerCase();
+        if (!skip && /^<(script|style)\b/.test(t)) skip = t.match(/^<(\w+)/)[1];
+        else if (skip && t === `</${skip}>`) skip = null;
+        return tag;
+      }
+      if (skip || !/[㐀-鿿豈-﫿]/.test(text)) return text;
+      return text.replace(zhRun, (run) => `<span lang="zh">${run}</span>`);
+    });
+    return head + body;
   });
 
   return {

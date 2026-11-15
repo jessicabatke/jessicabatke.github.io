@@ -3,6 +3,7 @@ title: "Tear a Root from the Earth"
 classes: wide
 permalink: /TaRE/
 layout: single
+page_class: page--showcase   # text in the narrow column, photo galleries full width
 author: TaRE
 
 excerpt: "A new folk musical"

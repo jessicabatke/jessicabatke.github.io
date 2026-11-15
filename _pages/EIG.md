@@ -3,6 +3,7 @@ title: "Everybody Is Gone"
 classes: wide
 permalink: /EIG/
 layout: single
+page_class: page--showcase   # text in the narrow column, photo galleries full width
 author: EIG
 
 excerpt: "See For Yourself"
@@ -58,7 +59,7 @@ gallery1:
 
 ---
 
-<em>[Everybody Is Gone](https://www.everybodyisgone.org/)</em> is an innovative live event that provides audiences with a unique perspective on the ongoing crisis in the Uyghur Homeland. Uniting elements of journalism, live performance, and museum exhibition, the immersive event offers audiences the opportunity to deeply and personally understand the impact of the state-backed surveillance and oppression that affect millions.
+<em>[Everybody Is Gone](https://www.everybodyisgone.org/)</em> is an innovative live event that provides audiences with a unique perspective on the ongoing crisis in the Uyghur Homeland. Uniting elements of journalism, live performance, and museum exhibition, the immersive event offers audiences the opportunity to deeply and personally understand the impact of the state-backed surveillance and oppression that affect millions. Online, the project includes a collection of [testimonials](https://www.everybodyisgone.org/testimonials) from Uyghur people, and a [database](https://www.everybodyisgone.org/database) that catalogs the evidence used to build the live event.
 
 
 <hr class="page__divider">

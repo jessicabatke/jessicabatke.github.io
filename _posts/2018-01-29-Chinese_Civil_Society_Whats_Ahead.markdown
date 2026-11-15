@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Foreign NGO Law]
 classes: wide
 excerpt: "Asia Society / 2018-01-29"
+work_type: Talk
 ---
 <style>
 div.ytcontainer {

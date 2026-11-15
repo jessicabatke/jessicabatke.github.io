@@ -1,29 +1,74 @@
 ---
 layout: default
 ---
+{%- comment %} Is this post part of a multi-part project (_data/projects.yml)? {% endcomment %}
+{%- if is_post %}{% assign proj = projects | projectFor: page.url %}{% endif %}
 {% include "page-hero.liquid" %}
 <div id="main" role="main">
   {%- if author_profile or author %}
   {% include "author-profile.liquid" %}
   {%- endif %}
-  <article class="page{% if is_post %} page--post{% endif %}" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page{% if is_post %} page--post{% endif %}{% if page_class %} {{ page_class }}{% endif %}" itemscope itemtype="https://schema.org/CreativeWork">
     {%- if title %}<meta itemprop="headline" content="{{ title | strip_html | escape }}">{% endif %}
     {%- if excerpt %}<meta itemprop="description" content="{{ excerpt | strip_html | escape }}">{% endif %}
     {%- if is_post %}<meta itemprop="datePublished" content="{{ page.date | date: '%B %d, %Y' }}">{% endif %}
     <div class="page__inner-wrap">
       {%- unless header.overlay_image or header.overlay_color %}
       <header>
-        <h1 id="page-title" class="page__title" itemprop="headline">{{ title | markdownifyInline }}</h1>
+        {%- comment %} Inside a project, parts after the main article use their short name {% endcomment %}
+        {%- if proj and proj.is_main == false %}{% assign heading = proj.part.title %}{% else %}{% assign heading = title %}{% endif %}
+        {%- if work_type == "Talk" or work_type == "Podcast" or work_type == "Interview" %}
+        <p class="page__kind">{{ work_type }}</p>
+        {%- endif %}
+        <h1 id="page-title" class="page__title" itemprop="headline">{{ heading | markdownifyInline }}</h1>
         {%- if dek %}
         <p class="page__dek">{{ dek | markdownifyInline }}</p>
         {%- endif %}
         {%- if is_post %}
         <p class="page__date"><time datetime="{{ page.date | isoDate }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
         {%- endif %}
+        {%- comment %} Project pages show the date of the project’s main article {% endcomment %}
+        {%- if project_main_url %}{% for p in collections.posts %}{% if p.url == project_main_url %}
+        <p class="page__date"><time datetime="{{ p.date | isoDate }}">{{ p.date | date: "%B %-d, %Y" }}</time></p>
+        {%- endif %}{% endfor %}{% endif %}
       </header>
       {%- endunless %}
       <section class="page__content" itemprop="text">
+        {%- if proj %}
+        <nav class="series-box" aria-label="Parts of {{ proj.project.title }}">
+          <p class="series-box__label">Part of a project</p>
+          <p class="series-box__title"><a href="/projects/{{ proj.key }}/">{{ proj.project.title }}</a></p>
+          {%- assign cur_group = "__start__" %}{% assign list_open = false %}
+          {%- for part in proj.project.parts %}
+          {%- assign g = part.group | default: "" %}
+          {%- if g != cur_group %}
+          {%- if list_open %}</ol>{% endif %}
+          {%- if g != "" %}<p class="series-box__group">{{ g }}</p>{% endif %}
+          <ol start="{{ forloop.index }}">{% assign list_open = true %}{% assign cur_group = g %}
+          {%- endif %}
+            {%- if forloop.index0 == proj.index %}
+            <li aria-current="page">{{ part.title }}</li>
+            {%- else %}
+            <li><a href="{{ part.url }}">{{ part.title }}</a></li>
+            {%- endif %}
+          {%- endfor %}
+          {%- if list_open %}</ol>{% endif %}
+        </nav>
+        {%- endif %}
         {{ content }}
+        {%- if proj %}
+        <nav class="series-pager" aria-label="More from {{ proj.project.title }}">
+          <p class="series-pager__project">More from <a href="/projects/{{ proj.key }}/">{{ proj.project.title }}</a></p>
+          <div class="series-pager__links">
+            {%- if proj.prev %}
+            <a class="series-pager__prev" href="{{ proj.prev.url }}"><span class="series-pager__label">← Previous part</span><span class="series-pager__title">{{ proj.prev.title }}</span></a>
+            {%- endif %}
+            {%- if proj.next %}
+            <a class="series-pager__next" href="{{ proj.next.url }}"><span class="series-pager__label">Next part →</span><span class="series-pager__title">{{ proj.next.title }}</span></a>
+            {%- endif %}
+          </div>
+        </nav>
+        {%- endif %}
       </section>
       <footer class="page__meta">
         {%- if is_post and tags.size > 0 %}
@@ -38,7 +83,7 @@ layout: default
         </p>
         {%- endif %}
       </footer>
-      {%- if is_post %}
+      {%- if is_post and proj == nil %}
       {%- assign prev_post = collections.posts | getPreviousCollectionItem %}
       {%- assign next_post = collections.posts | getNextCollectionItem %}
       <nav class="post-pager" aria-label="More articles">

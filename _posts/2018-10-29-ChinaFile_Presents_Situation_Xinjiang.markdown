@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "ChinaFile Presents: The Situation in Xinjiang"
+title:  "The Situation in Xinjiang"
 date:   2018-10-29
 categories: Research&Writing
 tags: [Uyghur Region]
 classes: wide
 excerpt: "Asia Society / 2018-10-29"
+work_type: Talk
 ---
 <style>
 div.ytcontainer {

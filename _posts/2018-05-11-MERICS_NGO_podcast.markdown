@@ -6,6 +6,7 @@ categories: Research&Writing
 tags: [Foreign NGO Law]
 classes: wide
 excerpt: "MERICS / 2018-05-11"
+work_type: Podcast
 ---
 
 

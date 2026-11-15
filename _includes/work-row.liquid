@@ -1,0 +1,7 @@
+{%- comment %} One row of the Research / Writing list. Expects: post {% endcomment -%}
+{%- assign proj = projects | projectFor: post.url %}
+{%- if proj %}{% assign wtype = "Project" %}{% assign row_url = "/projects/" | append: proj.key | append: "/" %}{% else %}{% assign wtype = post | workType %}{% assign row_url = post.url %}{% endif %}
+<li class="work-row">
+    <a href="{{ row_url }}">{{ post.data.title | markdownifyInline }} <span class="work-row__year">{{ post.date | date: "%Y" }}</span></a>
+    <span class="work-row__outlet">{{ post.data.excerpt | outlet }}<span class="work-row__type" title="{{ wtype }}">{{ wtype | downcase | icon }}<span class="screen-reader-text">{{ wtype }}</span></span></span>
+  </li>

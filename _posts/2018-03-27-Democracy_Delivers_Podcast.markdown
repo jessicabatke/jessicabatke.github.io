@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "Democracy that Delivers #111: Jessica Batke on the Future of Foreign NGOs in China"
+title:  "Jessica Batke on the Future of Foreign NGOs in China"
 date:   2018-03-27
 categories: Research&Writing
 tags: [Foreign NGO Law]
 classes: wide
 excerpt: "CIPE / 2018-03-27"
+work_type: Podcast
 ---
 
 
