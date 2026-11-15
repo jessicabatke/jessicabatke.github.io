@@ -11,7 +11,7 @@ header:
   caption: "Image credit: [**Steven Weinberg**](http://www.stevenweinbergstudio.com/) for [**ChinaFile**](https://www.chinafile.com/)"
 ---
 
-**This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/vast-network-of-new-era-civilization-practice-centers-beijings-latest-bid). The text below does not include the primary sources and translations that are part of the full article.**
+**This article originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/vast-network-of-new-era-civilization-practice-centers-beijings-latest-bid).**
 
 
 
@@ -40,6 +40,10 @@ header:
 
 <p class=dropcap>The type of civilization on offer at New Era Civilization Practice Centers, by design, takes many forms. There are fairly straightforward attempts to address national-level social problems, like what happens to young children whose parents become migrant workers. At the Hongguang Resettlement Site in Yunnan province, local centers arrange for these “left-behind children” to <a href="https://archive.md/PfFoB" target="_blank">spend the weekend</a> basking in the “motherly love” of volunteer caretakers at “Children’s Stations.”</p>
 
+<figure><img src="/media/chinafile/haiwan_list_abbr2.png" alt="Haiwan town centers activity list" loading="lazy"><figcaption>ChinaFile’s translation of a selection of upcoming center activities posted to the Ecological Haiwan WeChat account on December 28, 2021. Click <a href="https://www.chinafile.com/node/53616" target="_blank" rel="nofollow">here</a> to view the full list in English and Chinese.</figcaption></figure>
+
+
+
 
 <p>There are efforts to spur social progress and cultural uplift: In Guangzhou’s Conghua district, rural cooks visit a center to learn fine Cantonese cuisine from a master chef employed by the city’s Conrad hotel. “Hopefully local farmhouses will be able to serve up not just farmhouse fare,” says the chef, Tan Guohui, in an <a href="https://archive.md/1B2cl" target="_blank">announcement</a> from Guangzhou’s government, “but also the dishes of a five star hotel.”</p>
 
@@ -48,6 +52,10 @@ header:
 <p>And of course, New Era Civilization also includes a hefty dose of old-school ideology. In the Binhai New Area of Tianjin, residents can <a href="https://archive.md/zQdUG" target="_blank">take in</a> lectures such as a “Theoretical Discussion Forum on the History of Materialism and the Historiography of Marxism.” In Beijing’s Haidian district, young Party members and volunteers <a href="https://archive.is/LxNGE" target="_blank">offer</a> “Micro Party Classes” via online streaming services and virtual reality technology.</p>
 
 <p>Centers can also function as a way to better coordinate social control. In Guangzhou, centers <a href="https://archive.md/1B2cl" target="_blank">integrate</a> the surveillance protocol known as “<a href="https://theasiadialogue.com/2018/04/27/grid-management-and-social-control-in-china/" target="_blank">grid management</a>” into the government services and “Party-masses services” they provide.</p>
+
+<figure><img src="/media/chinafile/center_infographic_english_0.png" alt="New Era Civilization Practice Centers infographic (captioned)" loading="lazy"><figcaption>An infographic posted to the Central Guidance Commission on Building Spiritual Civilization website in July 2020, translated from the Chinese by ChinaFile. Click <a href="https://www.chinafile.com/node/53591" target="_blank" rel="nofollow">here</a> to view the original Chinese infographic.</figcaption></figure>
+
+
 
 
 
@@ -74,6 +82,10 @@ header:
 <p>Rarely does a New Era Civilization Practice Center buy its own goods and services. Much more often, a local propaganda department is the one signing the checks. But a mix of different local Party and government offices foot the bill for the centers’ infrastructure and activities. Government procurement notices show that the Daiyue district Water Resources Bureau, in Shandong’s Tai’an city, purchased a video conference system for its district’s center. In Yunnan province, Lanping county’s Human Resources and Social Security Bureau paid for the local center to train people to cook for tourists.</p>
 
 <p>Some localities invest in technology to handle the centers’ work. One district in Ya’an city, Sichuan province bought a “smart management platform” in September for its centers; just a few days later, Shanxi’s Jinzhong city paid for an upgrade of its existing cloud system. Companies’ online descriptions of such platforms include both public-facing content provision as well as task management. One Jilin firm <a href="https://archive.md/o0aBg" target="_blank">draws on</a> materials from schools throughout the province to offer continuing education, vocational education, and “moral quality” classes. Jiudian Lianxian, a company based in Shanxi province, <a href="https://archive.md/7RGst" target="_blank">touts a system</a> that allows citizens to put in requests, center administrators to dispatch volunteers, and service recipients to offer feedback.</p>
+
+<figure><img src="/media/chinafile/center_buildings_horiz.png" alt="Center buildings" loading="lazy"><figcaption>The Haizhu District Pazhou New Era Civilization Practice Station, posted on October 27, 2021 (left) and the Wuzhou City New Era Civilization Practice Center, posted on June 24, 2021.<br><span class="figure-credit">Guangzhou Municipal People’s Government website (left); Civilized Wuzhou Weibo account</span></figcaption></figure>
+
+
 
 
 <p align=center>* * *</p>

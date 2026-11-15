@@ -13,7 +13,7 @@ header:
 **By Mareike Ohlberg and Jessica Batke**
 
 
-**This article, including a number of sidebar articles and supplemental materials, originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/message-control-china). The text below does not include illustrations and charts that are part of the full article.**
+**This article, including a number of sidebar articles and supplemental materials, originally appeared on [ChinaFile](https://www.chinafile.com/reporting-opinion/features/message-control-china).**
 
 
 
@@ -137,6 +137,10 @@ header:
 <p>Beyond simply removing or obstructing undesirable information, officials want to change the overall tenor of online chatter by injecting their own commentary into the debate. Procurement notices soliciting “Internet comment management systems” portray a series of government buyers who hope that commercial software and personnel can improve the efficiency of this process.</p>
 
 <p>Official sources very rarely acknowledge the existence of online commenting as government practice, but some of the data companies that work for Chinese government bodies openly advertise their comment management systems. For example, the Communist Youth League-affiliated company CYYUN shows images of its online comment management system on its website, as one of its “comprehensive guidance and control products.” It explains that,<blockquote>Users can send, receive, and handle public opinions through mobile and web terminals; disseminate and popularize some positive opinions, while at the same time correct and clarify some statements that do not conform to the facts, so as to guide the public’s awareness in the correct public opinion direction. At the same time, [the system] can automatically conduct scientific and fair statistics and assessments of the tasks completed by the Internet commenters, effectively reducing assessment workloads and improving fairness.</blockquote></p>
+
+<figure><img src="/media/chinafile/cyyun_sans_0.png" alt="Translated screenshot of the CYYUN website" loading="lazy"><figcaption>A screenshot from the CYYUN website, as of August 18, 2020. Translation by ChinaFile.</figcaption></figure>
+
+
 
 
 <p>Only a handful of procurement notices describe online commenting in detail, while a number of others allude to the practice. Some notices specify the number of commenters a vendor should provide, like the one published by the Beijing International Horticultural Exhibition Coordination Bureau, which wanted “no fewer than 10 Internet monitors and Internet commenters.” Or the Chengdu Number Two Hospital, which sought a service provider that would engage “a team of professional Internet commenters with no fewer than 50 people to assist with online responses to public opinion, and provide a list of personnel.” A notice from the Hebei Coal Mine Safety Supervision Bureau discussed Internet commenting as part of a larger PR strategy: “After discovering public opinion information for the first time, quickly establish emergency records and measures, [and] launch online commenting as well as public relations in the media in order to channel the trend of public opinion.”</p>
