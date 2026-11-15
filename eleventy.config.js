@@ -62,6 +62,7 @@ export default function (eleventyConfig) {
   // ---- Static files copied as-is ----
   eleventyConfig.addPassthroughCopy("media");
   eleventyConfig.addPassthroughCopy("assets/js");
+  eleventyConfig.addPassthroughCopy("assets/fonts/figtree"); // self-hosted Figtree font
   eleventyConfig.addPassthroughCopy("CNAME");
 
   eleventyConfig.ignores.add("README.md");

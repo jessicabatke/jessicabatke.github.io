@@ -13,20 +13,20 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif                        : "Proxima Nova", Georgia, Times, serif !default;
-$sans-serif                   : "Proxima Nova", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace                    : "Proxima Nova", Monaco, Consolas, "Lucida Console", monospace !default;
+$serif                        : "Figtree", Georgia, Times, serif !default;
+$sans-serif                   : "Figtree", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace                    : "Figtree", Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
-$sans-serif-narrow            : "Proxima Nova Light", sans-serif !default;
-$helvetica                    : "Proxima Nova", Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$sans-serif-narrow            : "Figtree", sans-serif !default;
+$helvetica                    : "Figtree", Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
-$georgia                      : "Proxima Nova", Georgia, serif !default;
-$times                        : "Proxima Nova", Times, serif !default;
-$bodoni                       : "Proxima Nova", "Bodoni MT", serif !default;
-$calisto                      : "Proxima Nova", "Calisto MT", serif !default;
-$garamond                     : "Proxima Nova", Garamond, serif !default;
+$georgia                      : "Figtree", Georgia, serif !default;
+$times                        : "Figtree", Times, serif !default;
+$bodoni                       : "Figtree", "Bodoni MT", serif !default;
+$calisto                      : "Figtree", "Calisto MT", serif !default;
+$garamond                     : "Figtree", Garamond, serif !default;
 
 $global-font-family           : $sans-serif !default;
 $header-font-family           : $sans-serif !default;
