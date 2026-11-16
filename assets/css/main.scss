@@ -724,7 +724,7 @@ body:has(.page--medium) .page__footer { margin-top: 2em; }
   // logos shown plain: no frame, rounded corners or lift on hover
   .archive__item-teaser { border-radius: 0; }
   .archive__item-title { font-family: $header-font-family; font-size: 1.15em; line-height: 1.25; color: $text-color; margin-top: 0.25em; }
-  .archive__item-excerpt { color: $secondary-text; font-size: 1em; } // paragraphs inside get the normal text size, as on About
+  .archive__item-excerpt { color: $secondary-text; font-size: 0.8889em; } // the theme makes these rows 1.125× larger; this undoes it, so the text is exactly the About page size
   .archive__item-title a { color: inherit; text-decoration: none; }
   // The theme stretches every link in a card over the whole card (invisible layer), which blocks
   // selecting the description. Here only the picture and title are links, so switch that off.
@@ -803,3 +803,10 @@ video.animation { display: block; width: 100%; height: auto; margin: 1.5em 0; }
 
 // Image credit under a caption (as ChinaFile credits its images)
 .figure-credit { display: inline-block; margin-top: 0.2em; font-size: 0.9em; opacity: 0.85; }
+
+// When the sidebar sits beside the text (wide screens), your name already appears under the photo
+// (linking home), so the top bar's name is hidden. Narrower screens move the sidebar below the
+// content, and the top-bar name comes back. "visibility" keeps the menu links where they are.
+@include breakpoint($large) {
+  body:has(#main > .sidebar) .masthead .site-title { visibility: hidden; }
+}

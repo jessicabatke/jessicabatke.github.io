@@ -6,6 +6,10 @@ categories: Research&Writing
 tags: [Uyghur Region, Surveillance]
 classes: wide
 excerpt: "ChinaFile / 2020-10-30"
+header:
+  image: /media/sos-hero.svg   # same as the project page (see _data/projects.yml)
+  caption: "Face-recognition camera locations in Xiqiao township, from ChinaFile’s State of Surveillance data. Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors."
+  image_description: "Map of Xiqiao township in deep plum, its roads drawn as faint light lines, with more than 200 face-recognition camera locations glowing orange and red, densest in a cluster on the right."
 ---
 **By Mareike Ohlberg and Jessica Batke**
 

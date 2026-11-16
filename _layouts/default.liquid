@@ -20,6 +20,25 @@
     </div>
     {% include "footer.liquid" %}
     <script src="/assets/js/main.min.js"></script>
+    <script>
+      // Top menu: all or nothing. The theme shows whichever links fit and puts the rest behind the ☰
+      // button; when even one link doesn’t fit, put them all behind ☰ (otherwise e.g. a lone
+      // “Research / Writing” sits right above the page title of the same name).
+      (function () {
+        var visible = document.querySelector("nav.greedy-nav .visible-links");
+        var hidden = document.querySelector("nav.greedy-nav .hidden-links");
+        var toggle = document.querySelector("nav.greedy-nav .greedy-nav__toggle");
+        if (!visible || !hidden || !toggle) return;
+        function allOrNothing() {
+          if (!hidden.children.length) return;           // everything fits: leave the menu as it is
+          while (visible.lastElementChild) hidden.insertBefore(visible.lastElementChild, hidden.firstChild);
+          toggle.classList.remove("hidden");
+          toggle.setAttribute("count", hidden.children.length);
+        }
+        // after the theme’s own menu code (it runs when the page is ready, and again on every resize)
+        jQuery(function () { allOrNothing(); jQuery(window).on("resize", allOrNothing); });
+      })();
+    </script>
     {%- if eleventy.env.runMode == "serve" %}{% include "dev-preview.liquid" %}{% endif %}
     {%- comment %} Visitor counts (GoatCounter: no cookies, no personal data). Only in the published
       site, not in the local "npm start" preview. Dashboard: https://jessicabatke.goatcounter.com {% endcomment %}
